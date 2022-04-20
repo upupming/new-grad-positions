@@ -23,4 +23,4 @@
 |[亚马逊](https:\/\/jobs.bytedance.com\/)|实习生|[你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/\_E-CdOfzBLPYNOipjOXZ6w)|2022-02-25|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|实习生|[字节跳动 2022 春季校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/mee1XP80u1oBs2NbX-reHw)|2022-02-17|
 
-Last updated: 2022-04-20 12:58:32
+Last updated: 2022-04-20 13:10:21
