@@ -101,10 +101,10 @@ async function main () {
     return `
 ## ${year} 届${type}招聘
 
-|公司名称|招聘类型|官方公告|日期|
-|-|-|-|-|
+|公司名称|招聘类型|官方公告|日期|公司类型|
+|-|-|-|-|-|
 ${positions.map(position => `
-|[${markdownEscape(position.company.name)}](${markdownEscape(position.company.website)})|${markdownEscape(position.type)}|[${markdownEscape(position.announcement.title)}](${markdownEscape(position.announcement.url)})|${markdownEscape(position.announcement.date)}|
+|[${markdownEscape(position.company.name)}](${markdownEscape(position.company.website)})|${markdownEscape(position.type)}|[${markdownEscape(position.announcement.title)}](${markdownEscape(position.announcement.url)})|${markdownEscape(position.announcement.date)}|${markdownEscape(position.company.type)}|
 `.trim()).join('\n')}
     `.trim()
   }
@@ -128,7 +128,7 @@ ${positions.map(position => `
     }
 
     const footer = `
-Last updated: ${getTimeStampAtTimeZone()}
+Last updated: ${getTimeStampAtTimeZone()} (UTC+8)
 `.trim()
 
     await fs.writeFile(path.join(__dirname, '../README.md'), `
