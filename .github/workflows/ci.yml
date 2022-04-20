@@ -31,7 +31,7 @@ jobs:
           git config --local user.name github-actions[bot]
           git config --local user.email github-actions[bot]@users.noreply.github.com
           git status
-          git add monthly.log
+          git add .
           git commit -m "Generate README.md using src/data.ts"
           git log
       - name: Push changes
