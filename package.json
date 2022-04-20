@@ -4,7 +4,9 @@
   "description": "New grad positions database",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "esno src/generate-readme.ts",
+    "prepare": "husky install"
   },
   "keywords": [
     "job",
@@ -22,12 +24,19 @@
   },
   "homepage": "https://github.com/upupming/new-grad-positions#readme",
   "devDependencies": {
+    "@types/node": "^17.0.25",
     "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "axios": "^0.26.1",
+    "chrome-launcher": "^0.15.0",
     "eslint": "^7.12.1",
     "eslint-config-standard-with-typescript": "^21.0.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.0.0",
+    "esno": "^0.14.1",
+    "husky": "^7.0.4",
+    "pinyin": "^3.0.0-alpha.4",
+    "puppeteer-core": "^13.5.2",
     "typescript": "*"
   }
 }

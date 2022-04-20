@@ -21,11 +21,22 @@ export interface PositionAnnouncement {
   date: `${string}-${string}-${string}`
 }
 
+export interface PositionAnnouncementRefined extends PositionAnnouncement {
+  title: string
+}
+
 export interface Position {
   graduationYear: number
   type: PositionType
   company: Company
   announcement: PositionAnnouncement
+}
+
+export interface PositionRefined {
+  graduationYear: number
+  type: PositionType
+  company: Company
+  announcement: PositionAnnouncementRefined
 }
 
 export interface PositionsByYear {

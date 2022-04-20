@@ -1,5 +1,24 @@
 {
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
+  },
+  "cSpell.words": ["esno"],
+  // Use eslint to format js/ts files
+  // prettier is included by eslint
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
   }
 }
