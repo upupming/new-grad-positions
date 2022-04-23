@@ -112,6 +112,10 @@ ${positions.map(position => `
 [![LICENSE](https://img.shields.io/github/license/upupming/new-grad-positions?style=flat-square)](https://github.com/upupming/new-grad-positions/blob/main/LICENSE) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/upupming/new-grad-positions/blob/main/src/data.ts) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](https://standardjs.com)
 
 本项目旨在收集互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势。欢迎贡献 👏🏻，可以直接修改 [src/data.ts](src/data.ts) 来增加数据并提交 PR。
+
+[![upupming.site/new-grad-positions](https://s2.loli.net/2022/04/24/bHwh3TOaAquZzyX.png)](https://upupming.site/new-grad-positions)
+
+<!-- DO NOT MODIFY THIS FILE, IT IS AUTOMATICALLY GENERATED FROM src/generate-readme.ts -->
 `.trim()
 
     let content = ''
