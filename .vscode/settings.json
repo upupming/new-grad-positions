@@ -2,7 +2,11 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "cSpell.words": ["esno"],
+  // Disable css built-in lint
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "cSpell.words": ["esno", "themeable", "unplugin"],
   // Use eslint to format js/ts files
   // prettier is included by eslint
   "[javascript]": {

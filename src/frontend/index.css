@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: "SF Pro SC","HanHei SC","SF Pro Text","Myriad Set Pro","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+* {
+  @apply bg-themeable-background text-themeable-foreground;
+}
+
+a {
+  @apply hover:text-themeable-cyan
+    hover:border-themeable-cyan
+    hover:border-b-2
+    transition;
+}
+
+input[type='text'] {
+  @apply outline-none w-1/1 text-xl border-themeable-cyan border-width-1px rounded-md h-10 bg-themeable-background px-2 py-5;
+}
+
+/* https://stackoverflow.com/a/34854325/8242705 */
+input[type='radio']:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid;
+  @apply bg-themeable-foreground border-themeable-foreground;
+}
+
+input[type='radio']:checked::after {
+  @apply bg-themeable-cyan;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+select {
+  @apply outline-none border-themeable-selection border-width-1px p-1;
+}
+
+th,td {
+  @apply whitespace-nowrap border-themeable-selection border-width-1px text-center p-2;
+}
+

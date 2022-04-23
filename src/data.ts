@@ -32,18 +32,9 @@ export interface Position {
   announcement: PositionAnnouncement
 }
 
-export interface PositionRefined {
-  graduationYear: number
-  type: PositionType
-  company: Company
+export interface PositionRefined extends Position {
   announcement: PositionAnnouncementRefined
 }
-
-export interface PositionsByYear {
-  [year: number]: Position[]
-}
-
-// TODO: Should check duplicates
 
 export const positions: Position[] = [
   {
@@ -226,6 +217,58 @@ export const positions: Position[] = [
     announcement: {
       url: 'https://mp.weixin.qq.com/s/G_zZHWShta2ioKs16hVmvQ',
       date: '2022-03-07'
+    }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '海康威视',
+      website: 'https://campushr.hikvision.com',
+      type: CompanyType.私企
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/JRnyR4_5Mox4Y5KlbbVwyQ',
+      date: '2022-04-01'
+    }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '小米',
+      website: 'https://hr.xiaomi.com/',
+      type: CompanyType.私企
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/u-8NOL8K65LAridlAEwJLw',
+      date: '2022-04-19'
+    }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '哔哩哔哩',
+      website: 'https://jobs.bilibili.com/',
+      type: CompanyType.私企
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/sPc70Ye48FFrDtMWZu3pcQ',
+      date: '2022-04-18'
+    }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '联想',
+      website: 'https://talent.lenovo.com.cn/',
+      type: CompanyType.私企
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/__RQ18y2KeimWAeOUVpHVg',
+      date: '2022-04-15'
     }
   }
 ]

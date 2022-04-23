@@ -4,6 +4,7 @@ import { Launcher } from 'chrome-launcher'
 import { promises as fs } from 'fs'
 import path from 'path'
 import { compare } from 'pinyin'
+import { getHash } from './util'
 
 async function main () {
   const browser = await puppeteer.launch({
@@ -31,8 +32,6 @@ async function main () {
     })
     const title = await page.waitForFunction("document.querySelector('title')?.innerText")
 
-    // const title = await page.evaluate(() => document.querySelector('title')?.innerText)
-
     if (title == null) {
       throw new Error(`Failed to get title from url: ${url}`)
     }
@@ -41,9 +40,6 @@ async function main () {
 
   async function checkIntegrity (positions: Position[]) {
     const s = new Set()
-    const getHash = (position: Position) => {
-      return `${position.company.name}_${position.graduationYear}_${position.type}`
-    }
     for (const position of positions) {
       const hash = getHash(position)
       if (s.has(hash)) {
@@ -120,9 +116,11 @@ ${positions.map(position => `
 
     let content = ''
     const groupedByYear = await groupByYear(positionsRefined)
-    for (const [year, positions] of Object.entries(groupedByYear)) {
+    // descending sort by year
+    for (const [year, positions] of Object.entries(groupedByYear).sort((a, b) => -a[0].localeCompare(b[0]))) {
       const groupedByType = await groupByType(positions)
-      for (const [type, positions] of Object.entries(groupedByType)) {
+      // ascending sort by type
+      for (const [type, positions] of Object.entries(groupedByType).sort((a, b) => a[0].localeCompare(b[0]))) {
         content += await generateReadmeForYearAndType(Number(year), type as PositionType, positions) + '\n'
       }
     }

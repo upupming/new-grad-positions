@@ -4,6 +4,8 @@
 
 本项目旨在收集互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势。欢迎贡献 👏🏻，可以直接修改 [src/data.ts](src/data.ts) 来增加数据并提交 PR。
 
+[![upupming.site/new-grad-positions](https://s2.loli.net/2022/04/24/bHwh3TOaAquZzyX.png)](https://upupming.site/new-grad-positions)
+
 ## 2023 届实习生招聘
 
 |公司名称|招聘类型|官方公告|日期|公司类型|
