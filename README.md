@@ -4,6 +4,10 @@
 
 本项目旨在收集互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势。欢迎贡献 👏🏻，可以直接修改 [src/data.ts](src/data.ts) 来增加数据并提交 PR。
 
+[![upupming.site/new-grad-positions](https://s2.loli.net/2022/04/24/bHwh3TOaAquZzyX.png)](https://upupming.site/new-grad-positions)
+
+<!-- DO NOT MODIFY THIS FILE, IT IS AUTOMATICALLY GENERATED FROM src/generate-readme.ts -->
+
 ## 2023 届实习生招聘
 
 |公司名称|招聘类型|官方公告|日期|公司类型|
@@ -27,4 +31,4 @@
 |[亚马逊](https:\/\/jobs.bytedance.com\/)|实习生|[你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/\_E-CdOfzBLPYNOipjOXZ6w)|2022-02-25|外企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|实习生|[字节跳动 2022 春季校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/mee1XP80u1oBs2NbX-reHw)|2022-02-17|私企|
 
-Last updated: 2022-04-24 00:17:57 (UTC+8)
+Last updated: 2022-04-24 00:31:36 (UTC+8)
