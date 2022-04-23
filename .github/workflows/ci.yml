@@ -53,3 +53,4 @@ jobs:
           folder: dist # The folder the action should deploy.
           git-config-name: 'github-actions[bot]'
           git-config-email: 'github-actions[bot]@users.noreply.github.com'
+          force: true
