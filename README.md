@@ -4,7 +4,7 @@
 
 本项目旨在收集互联网公司校招和实习的最新官方招聘信息，帮助在校生消除信息不对称带来的劣势。欢迎贡献 👏🏻，可以直接修改 [src/data.ts](src/data.ts) 来增加数据并提交 PR。
 
-[![upupming.site/new-grad-positions](https://s2.loli.net/2022/04/24/bHwh3TOaAquZzyX.png)](https://upupming.site/new-grad-positions)
+前往 https://upupming.site/new-grad-positions/ 查看效果更佳。
 
 <!-- DO NOT MODIFY THIS FILE, IT IS AUTOMATICALLY GENERATED FROM src/generate-readme.ts -->
 
@@ -40,4 +40,4 @@ pnpm generate
 pnpm dev:vite
 ```
 
-Last updated: 2022-04-24 19:41:30 (UTC+8)
+Last updated: 2022-04-24 22:59:05 (UTC+8)
