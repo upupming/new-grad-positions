@@ -1,0 +1,271 @@
+{
+  "updatedAt": 1650800490210,
+  "positions": [
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "阿里巴巴",
+        "website": "https://talent.alibaba.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/ImsLgsFI5o28pjWJObqDFg",
+        "date": "2022-02-28",
+        "title": "阿里巴巴春季2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "百度",
+        "website": "https://talent.baidu.com/static/index.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/G_zZHWShta2ioKs16hVmvQ",
+        "date": "2022-03-07",
+        "title": "百度2022春季实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "哔哩哔哩",
+        "website": "https://jobs.bilibili.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/sPc70Ye48FFrDtMWZu3pcQ",
+        "date": "2022-04-18",
+        "title": "哔哩哔哩游戏2022春季实习招聘 Q&A"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "海康威视",
+        "website": "https://campushr.hikvision.com",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/JRnyR4_5Mox4Y5KlbbVwyQ",
+        "date": "2022-04-01",
+        "title": "海康威视2023届超新星实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/index.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/oT2csvg891vUtVI-1CU2OA",
+        "date": "2022-03-14",
+        "title": "2022年华为勇敢星实习计划正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "Hulu",
+        "website": "https://jobs.disneycareers.com/search-jobs?orgIds=391-28648&ascf=[{%22key%22:%22custom_fields.IndustryCustomField%22,%22value%22:%22Hulu%22}]",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/RyvQZPNZJUQto3hFcwLKgQ",
+        "date": "2022-02-25",
+        "title": "Hulu 2022暑期实习项目招聘来啦"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "京东",
+        "website": "https://zhaopin.jd.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/L3oZpuBwoybBRxpOTbjwkg",
+        "date": "2022-03-07",
+        "title": "京东2022暑期实习生招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "联想",
+        "website": "https://talent.lenovo.com.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/__RQ18y2KeimWAeOUVpHVg",
+        "date": "2022-04-15",
+        "title": "联想中国2022实习生招聘-高频Q&A来啦！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "美的",
+        "website": "http://careers.midea.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/WRxlbT05KMgOeLcDVKWHhw",
+        "date": "2022-03-30",
+        "title": "美的集团2022美少年实习招聘启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "美团",
+        "website": "https://campus.meituan.com/recruit",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/p9_jPgRcDnz0iOOVedIAQA",
+        "date": "2022-02-23",
+        "title": "美团春招启动! 1万+offer等你拿！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "Paypal",
+        "website": "https://www.paypal.com/us/webapps/mpp/jobs/locations/china",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/qRd_flyPkWD8XS5UB-8X4A",
+        "date": "2022-03-18",
+        "title": "PayPal 2022暑期实习正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "苹果",
+        "website": "https://www.apple.com/careers/cn/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/y1EdX-Q4gYsq1XZSMZdQTA",
+        "date": "2022-03-24",
+        "title": "Apple 校园春招开启，虚位以待。"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "腾讯",
+        "website": "https://join.qq.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/UezGc383DBV9cjMjYbNCzg",
+        "date": "2022-04-11",
+        "title": "腾讯2022实习生招聘全球启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "网易",
+        "website": "https://campus.163.com/app/index",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/0eIEalTM4h3T9_7iUANfdQ",
+        "date": "2022-03-01",
+        "title": "2023届网易互联网精英实习生招聘全面启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "微软",
+        "website": "https://careers.microsoft.com/us/en/actioncenter",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/0kwiVC9tAH5GeaIE60dOqw",
+        "date": "2022-01-10",
+        "title": "微软校招 | 2022暑期实习招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "小马智行",
+        "website": "https://app.mokahr.com/campus_apply/pony/2735",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/QMpGia29XtyW4E-5rLTZkw",
+        "date": "2022-03-09",
+        "title": "小马智行Pony.ai 2022春季校园招聘开始啦！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "小米",
+        "website": "https://hr.xiaomi.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/u-8NOL8K65LAridlAEwJLw",
+        "date": "2022-04-19",
+        "title": "小米春季实习生宣讲会最全预告！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "亚马逊",
+        "website": "https://jobs.bytedance.com/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/_E-CdOfzBLPYNOipjOXZ6w",
+        "date": "2022-02-25",
+        "title": "你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "字节跳动",
+        "website": "https://jobs.bytedance.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/mee1XP80u1oBs2NbX-reHw",
+        "date": "2022-02-17",
+        "title": "字节跳动 2022 春季校园招聘全面启动！"
+      }
+    }
+  ]
+}
