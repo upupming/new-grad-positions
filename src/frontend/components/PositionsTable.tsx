@@ -51,12 +51,11 @@ export function PositionsTable ({
   const [sortMethodIndex, setSortMethodIndex] = React.useState(0)
 
   return (
-    <div className='positions-table p-6 space-y-6 bg-themeable-background'>
+    <div className='positions-table p-6 space-y-6 bg-themeable-background flex-1'>
       <input
-        type='text' placeholder='搜索...（多个关键字用空格隔开）' value={filter} onChange={(e) => {
+        type='search' placeholder='搜索...（多个关键字用空格隔开）' value={filter} onChange={(e) => {
           setFilter(e.target.value)
         }}
-        className='input-text'
       />
       <div>
         <div className='flex flex-row px-2 justify-between items-center'>
@@ -87,8 +86,8 @@ export function PositionsTable ({
           </div>
         </div>
       </div>
-      <div className='overflow-auto flex justify-center items-center p-2'>
-        <table>
+      <div className='overflow-auto flex items-center p-2'>
+        <table className='m-auto'>
           <thead>
             <tr>
               <th>关注</th>
@@ -125,7 +124,9 @@ export function PositionsTable ({
                           }
                         })
                       }}
-                      className='cursor-pointer text-2xl'
+                      className={
+                        `cursor-pointer text-2xl ${started[getHash(position)] ? 'text-themeable-cyan' : ''}`
+                      }
                     >{started[getHash(position)] ? '★' : '☆'}
                     </td>
 

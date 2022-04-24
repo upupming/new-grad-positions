@@ -63,7 +63,7 @@ function Footer () {
 function App () {
   const [theme, setTheme] = React.useState<Theme>('dracula')
   return (
-    <div className={`bg-themeable-background h-screen text-themeable-foreground themeable-${theme}`}>
+    <div className={`flex flex-col bg-themeable-background h-screen text-themeable-foreground themeable-${theme}`}>
       <Nav onThemeChange={setTheme} />
       <PositionsTable positions={processedData.positions as PositionRefined[]} />
       <Footer />

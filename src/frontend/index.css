@@ -10,11 +10,14 @@ a {
     transition;
 }
 
-input[type='text'] {
-  @apply outline-none w-1/1 text-xl border-themeable-selection border-width-1px rounded-md h-10 bg-themeable-background px-2 py-5;
+input[type='search'] {
+  @apply outline-none w-1/1 text-xl border-themeable-selection border-width-1px rounded-md h-10 bg-themeable-background px-5 py-2;
 }
-input[type='text']:focus {
+input[type='search']:focus {
   @apply border-themeable-cyan;
+}
+input[type=search]::-webkit-search-cancel-button {
+  cursor: pointer;
 }
 
 /* https://stackoverflow.com/a/34854325/8242705 */
