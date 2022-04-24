@@ -6,7 +6,7 @@
   "css.validate": false,
   "scss.validate": false,
   "less.validate": false,
-  "cSpell.words": ["esno", "themeable", "unplugin"],
+  "cSpell.words": ["esno", "tailwindcss", "themeable", "unplugin", "windicss"],
   // Use eslint to format js/ts files
   // prettier is included by eslint
   "[javascript]": {

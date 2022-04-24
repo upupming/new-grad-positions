@@ -28,7 +28,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           pnpm i
-          pnpm readme
+          pnpm generate
           pnpm build:vite
 
       - name: Commit files

@@ -36,6 +36,11 @@ export interface PositionRefined extends Position {
   announcement: PositionAnnouncementRefined
 }
 
+export interface ProcessedData {
+  positions: PositionRefined[]
+  updatedAt: number
+}
+
 export const positions: Position[] = [
   {
     graduationYear: 2023,
@@ -269,6 +274,19 @@ export const positions: Position[] = [
     announcement: {
       url: 'https://mp.weixin.qq.com/s/__RQ18y2KeimWAeOUVpHVg',
       date: '2022-04-15'
+    }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '美的',
+      website: 'http://careers.midea.com/',
+      type: CompanyType.私企
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/WRxlbT05KMgOeLcDVKWHhw',
+      date: '2022-03-30'
     }
   }
 ]

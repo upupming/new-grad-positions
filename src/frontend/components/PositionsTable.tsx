@@ -30,6 +30,12 @@ export function PositionsTable ({
   positions: PositionRefined[]
 }) {
   const [filter, setFilter] = React.useState('')
+
+  const [started, setStared] = React.useState<{ [key: string]: boolean }>(Object.fromEntries(positions.map(position => {
+    const hash = getHash(position)
+    return [hash, localStorage.getItem(hash) === 'true']
+  })))
+
   enum SortOrder {
     ASCENDING = 'ASCENDING',
     DESCENDING = 'DESCENDING',
@@ -60,6 +66,7 @@ export function PositionsTable ({
               name='sort-method' id='sort-method' value={sortMethodIndex} onChange={(e) => {
                 setSortMethodIndex(parseInt(e.target.value))
               }}
+              className='bg-themeable-background'
             >
               {sortMethods.map((method, idx) => (<option key={method.name} value={idx}>{method.name}</option>))}
             </select>
@@ -84,7 +91,9 @@ export function PositionsTable ({
         <table>
           <thead>
             <tr>
+              <th>关注</th>
               <th>公司名称</th>
+              <th>毕业年份</th>
               <th>招聘类型</th>
               <th>官方公告</th>
               <th>日期</th>
@@ -94,6 +103,8 @@ export function PositionsTable ({
 
           <tbody>
             {positions.sort((a, b) => {
+              const aStarted = started[getHash(a)]; const bStarted = started[getHash(b)]
+              if (aStarted !== bStarted) return aStarted ? -1 : 1
               let less: number = compare(get(a, sortMethods[sortMethodIndex].path), get(b, sortMethods[sortMethodIndex].path))
               if (sortOrder === SortOrder.DESCENDING) less = -less
               return less
@@ -102,11 +113,29 @@ export function PositionsTable ({
                 ? null
                 : (
                   <tr key={getHash(position)}>
+                    <td
+                      onClick={() => {
+                        setStared(prev => {
+                          const hash = getHash(position)
+                          const newStared = !prev[getHash(position)]
+                          localStorage.setItem(hash, JSON.stringify(newStared))
+                          return {
+                            ...prev,
+                            [hash]: newStared
+                          }
+                        })
+                      }}
+                      className='cursor-pointer text-2xl'
+                    >{started[getHash(position)] ? '★' : '☆'}
+                    </td>
+
                     <td>
                       <a href={position.company.website} rel='nofollow'>
                         {position.company.name}
                       </a>
                     </td>
+
+                    <td>{position.graduationYear}</td>
 
                     <td>{position.type}</td>
 

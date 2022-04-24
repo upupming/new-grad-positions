@@ -6,6 +6,9 @@ export default defineConfig({
   input: {
     index: './src/frontend/index.tsx'
   },
+  output: {
+    publicPath: '/new-grad-positions/'
+  },
   html: {
     template: './index.speedy.html'
   },

@@ -6,5 +6,17 @@ export default defineConfig({
     themeable({
       themes: []
     })
-  ]
+  ],
+  theme: {
+    extend: {
+      animation: {
+        love: 'love .5s linear infinite alternate-reverse'
+      },
+      keyframes: {
+        love: {
+          to: { transform: 'scale(1.1)' }
+        }
+      }
+    }
+  }
 })

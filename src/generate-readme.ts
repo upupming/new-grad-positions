@@ -1,10 +1,10 @@
-import { PositionRefined, positions, Position, PositionType } from './data'
+import { PositionRefined, positions, Position, PositionType, ProcessedData } from './data'
 import puppeteer from 'puppeteer-core'
 import { Launcher } from 'chrome-launcher'
 import { promises as fs } from 'fs'
 import path from 'path'
 import { compare } from 'pinyin'
-import { getHash } from './util'
+import { getHash, getTimeStringAtTimeZone } from './util'
 
 async function main () {
   const browser = await puppeteer.launch({
@@ -14,9 +14,9 @@ async function main () {
   try {
     await checkIntegrity(positions)
 
-    const positionsRefined: PositionRefined[] = await preprocessData()
+    const positionsRefined: ProcessedData = await preprocessData()
 
-    const outFile = path.join(__dirname, 'data-processed.json')
+    const outFile = path.join(__dirname, '../public/data-processed.json')
     await fs.writeFile(outFile, JSON.stringify(positionsRefined, null, 2))
     console.log(`Successfully wrote processed data to ${path.relative(process.cwd(), outFile)}`)
 
@@ -50,7 +50,7 @@ async function main () {
     console.log('Successfully checked integrity')
   }
 
-  async function preprocessData () {
+  async function preprocessData (): Promise<ProcessedData> {
     const refinedPositions: PositionRefined[] = []
     for await (const position of positions) {
       const refinedPosition = {
@@ -66,7 +66,10 @@ async function main () {
     // sort by company name
     refinedPositions.sort((a, b) => compare(a.company.name, b.company.name))
     console.log('Successfully preprocessed data')
-    return refinedPositions
+    return {
+      updatedAt: Date.now(),
+      positions: refinedPositions
+    }
   }
 
   async function groupByType (positions: PositionRefined[]) {
@@ -105,7 +108,7 @@ ${positions.map(position => `
     `.trim()
   }
 
-  async function generateReadme (positionsRefined: PositionRefined[]) {
+  async function generateReadme (processedData: ProcessedData) {
     const banner = `
 # new-grad-positions
 
@@ -119,7 +122,7 @@ ${positions.map(position => `
 `.trim()
 
     let content = ''
-    const groupedByYear = await groupByYear(positionsRefined)
+    const groupedByYear = await groupByYear(processedData.positions)
     // descending sort by year
     for (const [year, positions] of Object.entries(groupedByYear).sort((a, b) => -a[0].localeCompare(b[0]))) {
       const groupedByType = await groupByType(positions)
@@ -130,7 +133,15 @@ ${positions.map(position => `
     }
 
     const footer = `
-Last updated: ${getTimeStampAtTimeZone()} (UTC+8)
+## 本地开发
+
+\`\`\`bash
+pnpm i
+pnpm generate
+pnpm dev:vite
+\`\`\`
+
+Last updated: ${getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)
 `.trim()
 
     await fs.writeFile(path.join(__dirname, '../README.md'), `
@@ -166,19 +177,6 @@ ${footer}
         ? string
         : string.replace(replacement[0], replacement[1])
     }, string)
-  }
-
-  function getTimeStampAtTimeZone (utcOffset = 8) {
-    const date = new Date()
-    date.setHours(date.getHours() + utcOffset)
-    const YYYY = date.getFullYear()
-    const MM = String(date.getUTCMonth() + 1).padStart(2, '0')
-    const dd = String(date.getUTCDate()).padStart(2, '0')
-    const hh = String(date.getUTCHours()).padStart(2, '0')
-    const mm = String(date.getUTCMinutes()).padStart(2, '0')
-    const ss = String(date.getUTCSeconds()).padStart(2, '0')
-    const timestamp = [YYYY, MM, dd].join('-') + ' ' + [hh, mm, ss].join(':')
-    return timestamp
   }
 }
 

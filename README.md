@@ -20,6 +20,7 @@
 |[Hulu](https:\/\/jobs.disneycareers.com\/search-jobs?orgIds=391-28648&ascf=\[{%22key%22:%22custom\_fields.IndustryCustomField%22,%22value%22:%22Hulu%22}\])|实习生|[Hulu 2022暑期实习项目招聘来啦](https:\/\/mp.weixin.qq.com\/s\/RyvQZPNZJUQto3hFcwLKgQ)|2022-02-25|外企|
 |[京东](https:\/\/zhaopin.jd.com\/)|实习生|[京东2022暑期实习生招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/L3oZpuBwoybBRxpOTbjwkg)|2022-03-07|私企|
 |[联想](https:\/\/talent.lenovo.com.cn\/)|实习生|[联想中国2022实习生招聘-高频Q&A来啦！](https:\/\/mp.weixin.qq.com\/s\/\_\_RQ18y2KeimWAeOUVpHVg)|2022-04-15|私企|
+|[美的](http:\/\/careers.midea.com\/)|实习生|[美的集团2022美少年实习招聘启动！](https:\/\/mp.weixin.qq.com\/s\/WRxlbT05KMgOeLcDVKWHhw)|2022-03-30|私企|
 |[美团](https:\/\/campus.meituan.com\/recruit)|实习生|[美团春招启动! 1万+offer等你拿！](https:\/\/mp.weixin.qq.com\/s\/p9\_jPgRcDnz0iOOVedIAQA)|2022-02-23|私企|
 |[Paypal](https:\/\/www.paypal.com\/us\/webapps\/mpp\/jobs\/locations\/china)|实习生|[PayPal 2022暑期实习正式启动](https:\/\/mp.weixin.qq.com\/s\/qRd\_flyPkWD8XS5UB-8X4A)|2022-03-18|外企|
 |[苹果](https:\/\/www.apple.com\/careers\/cn\/)|实习生|[Apple 校园春招开启，虚位以待。](https:\/\/mp.weixin.qq.com\/s\/y1EdX-Q4gYsq1XZSMZdQTA)|2022-03-24|外企|
@@ -31,4 +32,4 @@
 |[亚马逊](https:\/\/jobs.bytedance.com\/)|实习生|[你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/\_E-CdOfzBLPYNOipjOXZ6w)|2022-02-25|外企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|实习生|[字节跳动 2022 春季校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/mee1XP80u1oBs2NbX-reHw)|2022-02-17|私企|
 
-Last updated: 2022-04-24 00:54:07 (UTC+8)
+Last updated: 2022-04-24 18:07:11 (UTC+8)

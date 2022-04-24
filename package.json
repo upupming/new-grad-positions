@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "readme": "esno src/generate-readme.ts",
+    "generate": "esno src/generate-readme.ts",
     "prepare": "husky install",
     "dev": "speedy dev",
     "build": "speedy build",

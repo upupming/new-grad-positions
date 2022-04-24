@@ -1,10 +1,6 @@
 body {
   margin: 0;
-  font-family: "SF Pro SC","HanHei SC","SF Pro Text","Myriad Set Pro","SF Pro Icons","PingFang SC","Helvetica Neue","Helvetica","Arial",sans-serif;
-}
-
-* {
-  @apply bg-themeable-background text-themeable-foreground;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif,sans-serif;
 }
 
 a {
@@ -15,7 +11,10 @@ a {
 }
 
 input[type='text'] {
-  @apply outline-none w-1/1 text-xl border-themeable-cyan border-width-1px rounded-md h-10 bg-themeable-background px-2 py-5;
+  @apply outline-none w-1/1 text-xl border-themeable-selection border-width-1px rounded-md h-10 bg-themeable-background px-2 py-5;
+}
+input[type='text']:focus {
+  @apply border-themeable-cyan;
 }
 
 /* https://stackoverflow.com/a/34854325/8242705 */
@@ -49,3 +48,6 @@ th,td {
   @apply whitespace-nowrap border-themeable-selection border-width-1px text-center p-2;
 }
 
+.nav-icon {
+  @apply h-8 w-8;
+}

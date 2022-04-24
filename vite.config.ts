@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     WindiCSS()
   ],
-  base: '/new-grad-positions'
+  base: './'
 })
