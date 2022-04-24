@@ -53,7 +53,7 @@ function Footer () {
       <div><a href='./data-processed.json'>网页数据</a>上次更新于 {getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)</div>
       <div><a href='https://github.com/upupming/new-grad-positions/edit/main/src/data.ts' target='_blank' rel='noreferrer'>前往 GitHub 新增数据 👉 </a></div>
       <div className='text-xl w-full flex flex-col justify-center items-center'>
-        <div>Made with <span className='text-themeable-pink scale-90 animate-love inline-block'>♥</span> by  <a className='text-themeable-green' href='https://upupming.site/' target='_blank' rel='noreferrer'>Yiming Li</a></div>
+        <div>Made with <span className='text-themeable-pink scale-90 animate-love inline-block'>♥</span> by  <a className='text-themeable-green' href='https://github.com/upupming' target='_blank' rel='noreferrer'>Yiming Li</a></div>
         <div>under <a className='text-themeable-orange' href='https://github.com/upupming/new-grad-positions/blob/main/LICENSE' target='blank'>MIT license</a></div>
       </div>
     </footer>

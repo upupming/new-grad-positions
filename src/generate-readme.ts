@@ -141,7 +141,11 @@ pnpm generate
 pnpm dev:vite
 \`\`\`
 
-Last updated: ${getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)
+## API
+
+原始数据 JSON API: https://upupming.site/new-grad-positions/data-processed.json
+
+上次更新于: ${getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)
 `.trim()
 
     await fs.writeFile(path.join(__dirname, '../README.md'), `

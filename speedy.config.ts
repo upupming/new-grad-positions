@@ -1,6 +1,6 @@
 import { defineConfig } from '@speedy-js/speedy-core'
 import windiPlugin from 'rollup-plugin-windicss'
-import { unplugin } from '@speedy-js/unplugin'
+import { unplugin, UnPluginOptions } from '@speedy-js/unplugin'
 
 export default defineConfig({
   input: {
@@ -12,5 +12,5 @@ export default defineConfig({
   html: {
     template: './index.speedy.html'
   },
-  plugins: [...windiPlugin().map(unplugin)]
+  plugins: [...windiPlugin().map(x => unplugin(x as UnPluginOptions))]
 })
