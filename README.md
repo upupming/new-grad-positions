@@ -40,4 +40,4 @@ pnpm generate
 pnpm dev:vite
 ```
 
-Last updated: 2022-04-24 22:59:05 (UTC+8)
+Last updated: 2022-04-24 23:08:37 (UTC+8)
