@@ -145,6 +145,18 @@ pnpm dev:vite
 
 原始数据 JSON API: https://upupming.site/new-grad-positions/data-processed.json
 
+作为 npm 包引入使用：
+
+\`\`\`bash
+npm i new-grad-positions
+\`\`\`
+
+\`\`\`ts
+import processedData, { ProcessedData } from 'new-grad-positions'
+
+console.log(processedData.updatedAt)
+\`\`\`
+
 上次更新于: ${getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)
 `.trim()
 
