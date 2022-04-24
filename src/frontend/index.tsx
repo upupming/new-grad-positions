@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { PositionRefined } from '../data'
 import { getTimeStringAtTimeZone } from '../util'
 // Vite does not support assert yet
-import processedData from '../data-processed.json'// assert { type: "json" }
+import processedData from '../../public/data-processed.json'// assert { type: "json" }
 import { PositionsTable } from './components/PositionsTable'
 import 'virtual:windi.css'
 
