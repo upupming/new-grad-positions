@@ -288,5 +288,70 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/WRxlbT05KMgOeLcDVKWHhw',
       date: '2022-03-30',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '腾讯音乐',
+      website: 'https://join.tencentmusic.com/campus/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/qlHPELwiYya9LzuZg51ucQ',
+      date: '2022-03-22',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '旷视科技',
+      website: 'https://app.mokahr.com/campus_apply/megviihr/38642#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/cTPtXMqEKEVb40uXUprYlw',
+      date: '2022-03-16',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '商汤科技',
+      website: 'https://hr.sensetime.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/Q-c3dYr8N0nVRhBzalyrug',
+      date: '2022-03-07',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '图森未来',
+      website: 'https://app.mokahr.com/campus_apply/tusenweilai/36102#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/fjOf8A5SoGu7frDSH7uAUA',
+      date: '2022-03-14',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType.实习生,
+    company: {
+      name: '米哈游',
+      website: 'https://join.mihoyo.com/campus-recruitment/mihoyo/43182/#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/CK_uP09qLGunc9ewnUTh7A',
+      date: '2022-02-22',
+    },
   }
 ]
