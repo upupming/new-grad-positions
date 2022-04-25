@@ -22,7 +22,7 @@ export function includes (target: any, searchList: string[]): boolean[] {
     target.forEach(item => merge(ans, includes(item, searchList)))
     return ans
   }
-  return searchList.map(search => String(target).includes(search))
+  return searchList.map(search => String(target).toLowerCase().includes(search.toLowerCase()))
 }
 
 export function PositionsTable ({
