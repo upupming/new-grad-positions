@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1650851887977,
+  "updatedAt": 1650853361569,
   "positions": [
     {
       "graduationYear": 2023,
@@ -103,6 +103,20 @@
       "graduationYear": 2023,
       "type": "实习生",
       "company": {
+        "name": "旷视科技",
+        "website": "https://app.mokahr.com/campus_apply/megviihr/38642#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/cTPtXMqEKEVb40uXUprYlw",
+        "date": "2022-03-16",
+        "title": "旷视科技2022春季校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
         "name": "联想",
         "website": "https://talent.lenovo.com.cn/",
         "type": "私企"
@@ -145,6 +159,20 @@
       "graduationYear": 2023,
       "type": "实习生",
       "company": {
+        "name": "米哈游",
+        "website": "https://join.mihoyo.com/campus-recruitment/mihoyo/43182/#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/CK_uP09qLGunc9ewnUTh7A",
+        "date": "2022-02-22",
+        "title": "米哈游2022春季校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
         "name": "Paypal",
         "website": "https://www.paypal.com/us/webapps/mpp/jobs/locations/china",
         "type": "外企"
@@ -173,6 +201,20 @@
       "graduationYear": 2023,
       "type": "实习生",
       "company": {
+        "name": "商汤科技",
+        "website": "https://hr.sensetime.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/Q-c3dYr8N0nVRhBzalyrug",
+        "date": "2022-03-07",
+        "title": "商汤科技2022春季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
         "name": "腾讯",
         "website": "https://join.qq.com/",
         "type": "私企"
@@ -181,6 +223,34 @@
         "url": "https://mp.weixin.qq.com/s/UezGc383DBV9cjMjYbNCzg",
         "date": "2022-04-11",
         "title": "腾讯2022实习生招聘全球启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "腾讯音乐",
+        "website": "https://join.tencentmusic.com/campus/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/qlHPELwiYya9LzuZg51ucQ",
+        "date": "2022-03-22",
+        "title": "腾讯音乐娱乐集团2022暑期实习生招聘全球启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "实习生",
+      "company": {
+        "name": "图森未来",
+        "website": "https://app.mokahr.com/campus_apply/tusenweilai/36102#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/fjOf8A5SoGu7frDSH7uAUA",
+        "date": "2022-03-14",
+        "title": "图森未来2022春季校园招聘全面启动！"
       }
     },
     {
