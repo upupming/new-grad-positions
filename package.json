@@ -1,6 +1,6 @@
 {
   "name": "new-grad-positions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "New grad positions database",
   "main": "public/data-processed.json",
   "types": "index.d.ts",
