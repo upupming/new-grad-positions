@@ -290,7 +290,3 @@ export const positions: Position[] = [
     }
   }
 ]
-
-// For API usage
-declare const processedData: ProcessedData
-export default processedData

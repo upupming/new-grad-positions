@@ -1,9 +1,9 @@
 {
   "name": "new-grad-positions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "New grad positions database",
   "main": "public/data-processed.json",
-  "types": "lib/data.d.ts",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "esno src/generate-readme.ts",
@@ -16,6 +16,7 @@
   },
   "files": [
     "public/data-processed.json",
+    "index.d.ts",
     "lib/data.d.ts"
   ],
   "keywords": [
