@@ -40,4 +40,20 @@ pnpm generate
 pnpm dev:vite
 ```
 
-Last updated: 2022-04-24 23:08:37 (UTC+8)
+## API
+
+原始数据 JSON API: https://upupming.site/new-grad-positions/data-processed.json
+
+作为 npm 包引入使用：
+
+```bash
+npm i new-grad-positions
+```
+
+```ts
+import processedData, { ProcessedData } from 'new-grad-positions'
+
+console.log(processedData.updatedAt)
+```
+
+上次更新于: 2022-04-25 09:48:13 (UTC+8)
