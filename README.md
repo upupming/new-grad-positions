@@ -19,12 +19,17 @@
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/index.html)|实习生|[2022年华为勇敢星实习计划正式启动](https:\/\/mp.weixin.qq.com\/s\/oT2csvg891vUtVI-1CU2OA)|2022-03-14|私企|
 |[Hulu](https:\/\/jobs.disneycareers.com\/search-jobs?orgIds=391-28648&ascf=\[{%22key%22:%22custom\_fields.IndustryCustomField%22,%22value%22:%22Hulu%22}\])|实习生|[Hulu 2022暑期实习项目招聘来啦](https:\/\/mp.weixin.qq.com\/s\/RyvQZPNZJUQto3hFcwLKgQ)|2022-02-25|外企|
 |[京东](https:\/\/zhaopin.jd.com\/)|实习生|[京东2022暑期实习生招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/L3oZpuBwoybBRxpOTbjwkg)|2022-03-07|私企|
+|[旷视科技](https:\/\/app.mokahr.com\/campus\_apply\/megviihr\/38642\#\/)|实习生|[旷视科技2022春季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/cTPtXMqEKEVb40uXUprYlw)|2022-03-16|私企|
 |[联想](https:\/\/talent.lenovo.com.cn\/)|实习生|[联想中国2022实习生招聘-高频Q&A来啦！](https:\/\/mp.weixin.qq.com\/s\/\_\_RQ18y2KeimWAeOUVpHVg)|2022-04-15|私企|
 |[美的](http:\/\/careers.midea.com\/)|实习生|[美的集团2022美少年实习招聘启动！](https:\/\/mp.weixin.qq.com\/s\/WRxlbT05KMgOeLcDVKWHhw)|2022-03-30|私企|
 |[美团](https:\/\/campus.meituan.com\/recruit)|实习生|[美团春招启动! 1万+offer等你拿！](https:\/\/mp.weixin.qq.com\/s\/p9\_jPgRcDnz0iOOVedIAQA)|2022-02-23|私企|
+|[米哈游](https:\/\/join.mihoyo.com\/campus-recruitment\/mihoyo\/43182\/\#\/)|实习生|[米哈游2022春季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/CK\_uP09qLGunc9ewnUTh7A)|2022-02-22|私企|
 |[Paypal](https:\/\/www.paypal.com\/us\/webapps\/mpp\/jobs\/locations\/china)|实习生|[PayPal 2022暑期实习正式启动](https:\/\/mp.weixin.qq.com\/s\/qRd\_flyPkWD8XS5UB-8X4A)|2022-03-18|外企|
 |[苹果](https:\/\/www.apple.com\/careers\/cn\/)|实习生|[Apple 校园春招开启，虚位以待。](https:\/\/mp.weixin.qq.com\/s\/y1EdX-Q4gYsq1XZSMZdQTA)|2022-03-24|外企|
+|[商汤科技](https:\/\/hr.sensetime.com\/)|实习生|[商汤科技2022春季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/Q-c3dYr8N0nVRhBzalyrug)|2022-03-07|私企|
 |[腾讯](https:\/\/join.qq.com\/)|实习生|[腾讯2022实习生招聘全球启动](https:\/\/mp.weixin.qq.com\/s\/UezGc383DBV9cjMjYbNCzg)|2022-04-11|私企|
+|[腾讯音乐](https:\/\/join.tencentmusic.com\/campus\/)|实习生|[腾讯音乐娱乐集团2022暑期实习生招聘全球启动！](https:\/\/mp.weixin.qq.com\/s\/qlHPELwiYya9LzuZg51ucQ)|2022-03-22|私企|
+|[图森未来](https:\/\/app.mokahr.com\/campus\_apply\/tusenweilai\/36102\#\/)|实习生|[图森未来2022春季校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/fjOf8A5SoGu7frDSH7uAUA)|2022-03-14|私企|
 |[网易](https:\/\/campus.163.com\/app\/index)|实习生|[2023届网易互联网精英实习生招聘全面启动](https:\/\/mp.weixin.qq.com\/s\/0eIEalTM4h3T9\_7iUANfdQ)|2022-03-01|私企|
 |[微软](https:\/\/careers.microsoft.com\/us\/en\/actioncenter)|实习生|[微软校招 \| 2022暑期实习招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/0kwiVC9tAH5GeaIE60dOqw)|2022-01-10|外企|
 |[小马智行](https:\/\/app.mokahr.com\/campus\_apply\/pony\/2735)|实习生|[小马智行Pony.ai 2022春季校园招聘开始啦！](https:\/\/mp.weixin.qq.com\/s\/QMpGia29XtyW4E-5rLTZkw)|2022-03-09|私企|
@@ -56,4 +61,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-04-25 09:58:07 (UTC+8)
+上次更新于: 2022-04-25 10:22:41 (UTC+8)
