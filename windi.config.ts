@@ -4,19 +4,19 @@ import { themeable } from 'tailwindcss-themeable'
 export default defineConfig({
   plugins: [
     themeable({
-      themes: []
+      themes: [],
     })
   ],
   theme: {
     extend: {
       animation: {
-        love: 'love .5s linear infinite alternate-reverse'
+        love: 'love .5s linear infinite alternate-reverse',
       },
       keyframes: {
         love: {
-          to: { transform: 'scale(1.1)' }
-        }
-      }
-    }
-  }
+          to: { transform: 'scale(1.1)', },
+        },
+      },
+    },
+  },
 })

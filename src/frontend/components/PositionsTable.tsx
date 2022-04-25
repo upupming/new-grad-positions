@@ -25,7 +25,7 @@ export function includes (target: any, searchList: string[]): boolean[] {
 }
 
 export function PositionsTable ({
-  positions
+  positions,
 }: {
   positions: PositionRefined[]
 }) {
@@ -42,16 +42,16 @@ export function PositionsTable ({
   }
   const [sortOrder, setSortOrder] = React.useState<SortOrder>(SortOrder.ASCENDING)
   const sortMethods = [
-    { path: 'company.name', name: '公司名称' },
-    { path: 'type', name: '招聘类型' },
-    { path: 'announcement.title', name: '官方公告' },
-    { path: 'announcement.date', name: '日期' },
-    { path: 'company.type', name: '公司类型' }
+    { path: 'company.name', name: '公司名称', },
+    { path: 'type', name: '招聘类型', },
+    { path: 'announcement.title', name: '官方公告', },
+    { path: 'announcement.date', name: '日期', },
+    { path: 'company.type', name: '公司类型', }
   ]
   const [sortMethodIndex, setSortMethodIndex] = React.useState(0)
 
   return (
-    <div className='positions-table p-6 space-y-6 bg-themeable-background flex-1'>
+    <div className='positions-table px-4 py-6 space-y-6 bg-themeable-background flex-1'>
       <input
         type='search' placeholder='搜索...（多个关键字用空格隔开）' value={filter} onChange={(e) => {
           setFilter(e.target.value)
@@ -120,7 +120,7 @@ export function PositionsTable ({
                           localStorage.setItem(hash, JSON.stringify(newStared))
                           return {
                             ...prev,
-                            [hash]: newStared
+                            [hash]: newStared,
                           }
                         })
                       }}

@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     WindiCSS()
   ],
-  base: './'
+  base: './',
 })

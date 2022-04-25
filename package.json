@@ -13,7 +13,8 @@
     "dev:vite": "vite dev",
     "build:vite": "vite build",
     "build:api": "rimraf lib && tsc --emitDeclarationOnly -p tsconfig.build.json",
-    "prepublishOnly": "npm run build:api"
+    "prepublishOnly": "npm run build:api",
+    "eslint:fix": "eslint --fix ."
   },
   "files": [
     "public/data-processed.json",

@@ -8,7 +8,7 @@ import { getHash, getTimeStringAtTimeZone } from './util'
 
 async function main () {
   const browser = await puppeteer.launch({
-    executablePath: Launcher.getInstallations()[0]
+    executablePath: Launcher.getInstallations()[0],
   })
 
   try {
@@ -28,7 +28,7 @@ async function main () {
   async function getTitleFromUrl (url: string): Promise<string> {
     const page = await browser.newPage()
     await page.goto(url, {
-      waitUntil: 'domcontentloaded'
+      waitUntil: 'domcontentloaded',
     })
     const title = await page.waitForFunction("document.querySelector('title')?.innerText")
 
@@ -57,8 +57,8 @@ async function main () {
         ...position,
         announcement: {
           ...position.announcement,
-          title: await getTitleFromUrl(position.announcement.url)
-        }
+          title: await getTitleFromUrl(position.announcement.url),
+        },
       }
       refinedPositions.push(refinedPosition)
     }
@@ -68,7 +68,7 @@ async function main () {
     console.log('Successfully preprocessed data')
     return {
       updatedAt: Date.now(),
-      positions: refinedPositions
+      positions: refinedPositions,
     }
   }
 

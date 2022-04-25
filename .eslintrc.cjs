@@ -5,10 +5,17 @@ module.exports = {
     'standard-with-typescript'
   ],
   parserOptions: {
-    project: './tsconfig.json'
+    project: './tsconfig.json',
   },
   rules: {
     '@typescript-eslint/explicit-function-return-type': 'off',
-    '@typescript-eslint/strict-boolean-expressions': 'off'
-  }
+    '@typescript-eslint/strict-boolean-expressions': 'off',
+    'comma-dangle': ['error', {
+      arrays: 'never',
+      objects: 'always',
+      imports: 'never',
+      exports: 'never',
+      functions: 'never',
+    }],
+  },
 }
