@@ -6,6 +6,7 @@ import { getTimeStringAtTimeZone } from '../util'
 import processedData from '../../public/data-processed.json'// assert { type: "json" }
 import { PositionsTable } from './components/PositionsTable'
 import 'virtual:windi.css'
+// import 'animate.css'
 
 import './index.css'
 

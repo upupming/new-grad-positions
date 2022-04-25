@@ -3,6 +3,7 @@ import { PositionRefined } from '../../data'
 import { getHash } from '../../util'
 import { get } from 'lodash-es'
 import { compare } from 'pinyin'
+import FlipMove from 'react-flip-move'
 
 const isObject = (val: any) => val && typeof val === 'object'
 export function includes (target: any, searchList: string[]): boolean[] {
@@ -100,7 +101,11 @@ export function PositionsTable ({
             </tr>
           </thead>
 
-          <tbody>
+          {/* @ts-expect-error */}
+          <FlipMove
+            enterAnimation='elevator' leaveAnimation='elevator' staggerDurationBy='30'
+            duration={300} typeName='tbody'
+          >
             {positions.sort((a, b) => {
               const aStarted = started[getHash(a)]; const bStarted = started[getHash(b)]
               if (aStarted !== bStarted) return aStarted ? -1 : 1
@@ -151,7 +156,7 @@ export function PositionsTable ({
                     <td>{position.company.type}</td>
                   </tr>)
             ))}
-          </tbody>
+          </FlipMove>
         </table>
       </div>
     </div>
