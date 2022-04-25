@@ -1,6 +1,6 @@
 {
   "name": "new-grad-positions",
-  "version": "0.0.2",
+  "version": "0.0.2-alpha.2",
   "description": "New grad positions database",
   "main": "public/data-processed.json",
   "types": "index.d.ts",
@@ -12,7 +12,8 @@
     "build": "speedy build",
     "dev:vite": "vite dev",
     "build:vite": "vite build",
-    "build:api": "rimraf lib && tsc --emitDeclarationOnly -p tsconfig.build.json"
+    "build:api": "rimraf lib && tsc --emitDeclarationOnly -p tsconfig.build.json",
+    "prepublishOnly": "npm run build:api"
   },
   "files": [
     "public/data-processed.json",
