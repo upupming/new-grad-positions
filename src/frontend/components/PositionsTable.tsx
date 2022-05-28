@@ -52,14 +52,15 @@ export function PositionsTable ({
   const [sortMethodIndex, setSortMethodIndex] = React.useState(0)
 
   return (
-    <div className='positions-table px-4 py-6 space-y-6 bg-themeable-background flex-1'>
+    <div className='positions-table px-4 py-6 space-y-6 bg-themeable-background flex-1 flex flex-col items-center'>
       <input
         type='search' placeholder='搜索...（多个关键字用空格隔开）' value={filter} onChange={(e) => {
           setFilter(e.target.value)
         }}
+        className='max-w-150'
       />
-      <div>
-        <div className='flex flex-row px-2 justify-between items-center'>
+      <div className='w-full'>
+        <div className='flex flex-row px-2 items-center space-x-10 justify-center'>
           <div className='space-x-2'>
             <label htmlFor='sort-method'>排序方式:</label>
             <select
@@ -87,7 +88,7 @@ export function PositionsTable ({
           </div>
         </div>
       </div>
-      <div className='overflow-auto flex items-center p-2'>
+      <div className='overflow-auto flex items-center p-2 w-full'>
         <table className='m-auto'>
           <thead>
             <tr>

@@ -129,7 +129,7 @@ ${positions.map(position => `
       const groupedByType = await groupByType(positions)
       // ascending sort by type
       for (const [type, positions] of Object.entries(groupedByType).sort((a, b) => a[0].localeCompare(b[0]))) {
-        content += await generateReadmeForYearAndType(Number(year), type as PositionType, positions) + '\n'
+        content += '\n' + await generateReadmeForYearAndType(Number(year), type as PositionType, positions) + '\n'
       }
     }
 

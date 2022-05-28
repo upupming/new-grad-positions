@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1650860157481,
+  "updatedAt": 1653710020229,
   "positions": [
     {
       "graduationYear": 2023,
@@ -237,6 +237,20 @@
         "url": "https://mp.weixin.qq.com/s/qlHPELwiYya9LzuZg51ucQ",
         "date": "2022-03-22",
         "title": "腾讯音乐娱乐集团2022暑期实习生招聘全球启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "TP-LINK",
+        "website": "https://hr.tp-link.com.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/iWWqaU4dtpeq535dyQqpfw",
+        "date": "2022-05-27",
+        "title": "TP-LINK 2023届提前批校园招聘正式启动"
       }
     },
     {

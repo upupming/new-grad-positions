@@ -353,5 +353,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/CK_uP09qLGunc9ewnUTh7A',
       date: '2022-02-22',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'TP-LINK',
+      website: 'https://hr.tp-link.com.cn/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/iWWqaU4dtpeq535dyQqpfw',
+      date: '2022-05-27',
+    },
   }
 ]

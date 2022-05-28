@@ -9,6 +9,12 @@
 
 <!-- DO NOT MODIFY THIS FILE, IT IS AUTOMATICALLY GENERATED FROM src/generate-readme.ts -->
 
+## 2023 届全职（秋季）招聘
+
+|公司名称|招聘类型|官方公告|日期|公司类型|
+|-|-|-|-|-|
+|[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
+
 ## 2023 届实习生招聘
 
 |公司名称|招聘类型|官方公告|日期|公司类型|
@@ -62,4 +68,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-04-25 12:15:57 (UTC+8)
+上次更新于: 2022-05-28 11:53:40 (UTC+8)
