@@ -13,7 +13,10 @@
 
 |公司名称|招聘类型|官方公告|日期|公司类型|
 |-|-|-|-|-|
+|[百度](https:\/\/talent.baidu.com\/external\/baidu\/campus.html\#\/jobList)|全职（秋季）|[AIDU计划启动！百度面向全球招募顶尖技术人才](https:\/\/mp.weixin.qq.com\/s\/v8BVCDofVc5rAAdNzaxvSA)|2022-05-06|私企|
+|[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
+|[Zoom](https:\/\/www.zoom.us)|全职（秋季）|[Zoom视界星专项校招内推\(音视频算法\)22,23届长期有效\_招聘信息\_牛客网](https:\/\/www.nowcoder.com\/discuss\/967171)|2022-06-10|私企|
 
 ## 2023 届实习生招聘
 
@@ -68,4 +71,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-05-28 12:06:53 (UTC+8)
+上次更新于: 2022-06-12 00:20:13 (UTC+8)
