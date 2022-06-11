@@ -366,5 +366,44 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/iWWqaU4dtpeq535dyQqpfw',
       date: '2022-05-27',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Zoom',
+      website: 'https://www.zoom.us',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://www.nowcoder.com/discuss/967171',
+      date: '2022-06-10',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '大疆',
+      website: 'https://we.dji.com/zh-CN/campus/inspiration',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/gWHyYIJPucWhV46OuVhj3Q',
+      date: '2022-05-05',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '百度',
+      website: 'https://talent.baidu.com/external/baidu/campus.html#/jobList',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/v8BVCDofVc5rAAdNzaxvSA',
+      date: '2022-05-06',
+    },
   }
 ]
