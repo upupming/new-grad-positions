@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1653710813177,
+  "updatedAt": 1654964413700,
   "positions": [
     {
       "graduationYear": 2023,
@@ -31,6 +31,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "百度",
+        "website": "https://talent.baidu.com/external/baidu/campus.html#/jobList",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/v8BVCDofVc5rAAdNzaxvSA",
+        "date": "2022-05-06",
+        "title": "AIDU计划启动！百度面向全球招募顶尖技术人才"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "哔哩哔哩",
@@ -41,6 +55,20 @@
         "url": "https://mp.weixin.qq.com/s/sPc70Ye48FFrDtMWZu3pcQ",
         "date": "2022-04-18",
         "title": "哔哩哔哩游戏2022春季实习招聘 Q&A"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "大疆",
+        "website": "https://we.dji.com/zh-CN/campus/inspiration",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/gWHyYIJPucWhV46OuVhj3Q",
+        "date": "2022-05-05",
+        "title": "大疆创新 2023 “无疆者”大咖计划启动"
       }
     },
     {
@@ -349,6 +377,20 @@
         "url": "https://mp.weixin.qq.com/s/mee1XP80u1oBs2NbX-reHw",
         "date": "2022-02-17",
         "title": "字节跳动 2022 春季校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Zoom",
+        "website": "https://www.zoom.us",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://www.nowcoder.com/discuss/967171",
+        "date": "2022-06-10",
+        "title": "Zoom视界星专项校招内推(音视频算法)22,23届长期有效_招聘信息_牛客网"
       }
     }
   ]
