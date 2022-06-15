@@ -405,5 +405,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/v8BVCDofVc5rAAdNzaxvSA',
       date: '2022-05-06',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '腾讯',
+      website: 'https://join.qq.com/post.html?query=p_8',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/aeE9dWVV8fWcwcN6Pt35rQ',
+      date: '2022-06-15',
+    },
   }
 ]
