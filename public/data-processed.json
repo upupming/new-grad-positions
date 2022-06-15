@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1654964413700,
+  "updatedAt": 1655305234297,
   "positions": [
     {
       "graduationYear": 2023,
@@ -255,6 +255,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "腾讯",
+        "website": "https://join.qq.com/post.html?query=p_8",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/aeE9dWVV8fWcwcN6Pt35rQ",
+        "date": "2022-06-15",
+        "title": "腾讯2023校园招聘技术大咖招募启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "腾讯音乐",
@@ -390,7 +404,7 @@
       "announcement": {
         "url": "https://www.nowcoder.com/discuss/967171",
         "date": "2022-06-10",
-        "title": "Zoom视界星专项校招内推(音视频算法)22,23届长期有效_招聘信息_牛客网"
+        "title": "找工作吗哥们,965wlb哦哥们~Zoom校招内推了解下_招聘信息_牛客网"
       }
     }
   ]
