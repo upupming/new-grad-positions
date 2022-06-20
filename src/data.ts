@@ -418,5 +418,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/aeE9dWVV8fWcwcN6Pt35rQ',
       date: '2022-06-15',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/8r-sELJKyaq-PnVOPUP8GQ',
+      date: '2022-06-20',
+    },
   }
 ]
