@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1655305234297,
+  "updatedAt": 1655738041810,
   "positions": [
     {
       "graduationYear": 2023,
@@ -97,6 +97,20 @@
         "url": "https://mp.weixin.qq.com/s/oT2csvg891vUtVI-1CU2OA",
         "date": "2022-03-14",
         "title": "2022年华为勇敢星实习计划正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/8r-sELJKyaq-PnVOPUP8GQ",
+        "date": "2022-06-20",
+        "title": "华为杭厦区域23届校招\"提前批\"正式启动！我们只为寻找一起改变世界的你！"
       }
     },
     {
