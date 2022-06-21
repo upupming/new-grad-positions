@@ -18,7 +18,7 @@
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
-|[Zoom](https:\/\/www.zoom.us)|全职（秋季）|[找工作吗哥们,965wlb哦哥们~Zoom校招内推了解下\_招聘信息\_牛客网](https:\/\/www.nowcoder.com\/discuss\/967171)|2022-06-10|私企|
+|[Zoom](https:\/\/www.zoom.us)|全职（秋季）|[Zoom “视界星” 计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/Iq3bxmcYKWH6qK7iQY5\_\_Q)|2022-06-10|私企|
 
 ## 2023 届实习生招聘
 
@@ -73,4 +73,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-06-20 23:14:01 (UTC+8)
+上次更新于: 2022-06-21 13:17:43 (UTC+8)
