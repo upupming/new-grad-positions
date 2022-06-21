@@ -376,7 +376,7 @@ export const positions: Position[] = [
       type: CompanyType.私企,
     },
     announcement: {
-      url: 'https://www.nowcoder.com/discuss/967171',
+      url: 'https://mp.weixin.qq.com/s/Iq3bxmcYKWH6qK7iQY5__Q',
       date: '2022-06-10',
     },
   },
