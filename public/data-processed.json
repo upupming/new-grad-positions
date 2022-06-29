@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1655788663496,
+  "updatedAt": 1656518676667,
   "positions": [
     {
       "graduationYear": 2023,
@@ -391,6 +391,20 @@
         "url": "https://mp.weixin.qq.com/s/_E-CdOfzBLPYNOipjOXZ6w",
         "date": "2022-02-25",
         "title": "你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "英特尔",
+        "website": "https://chinacampus.jobs.intel.cn/intel/home/index?page=campus",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw",
+        "date": "2022-06-28",
+        "title": "英特尔中国2023校园招聘“芯”动开启！"
       }
     },
     {
