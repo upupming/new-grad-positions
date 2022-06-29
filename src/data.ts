@@ -431,5 +431,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/8r-sELJKyaq-PnVOPUP8GQ',
       date: '2022-06-20',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '英特尔',
+      website: 'https://chinacampus.jobs.intel.cn/intel/home/index?page=campus',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw',
+      date: '2022-06-28',
+    },
   }
 ]
