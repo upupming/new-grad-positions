@@ -444,5 +444,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw',
       date: '2022-06-28',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '九坤投资',
+      website: 'https://app.mokahr.com/campus_apply/ubiquantrecruit',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/eNYYzfsueVxBXKwH_Dk7kg',
+      date: '2022-07-01',
+    },
   }
 ]
