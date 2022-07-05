@@ -470,5 +470,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/IwhVPuHB_Va2AqZTHaCaMw',
       date: '2022-07-04',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '网易游戏雷火',
+      website: 'https://leihuo.163.com/campus/#/full',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/h6PvUeRyuQy0WONDOeSptA',
+      date: '2022-07-05',
+    },
   }
 ]
