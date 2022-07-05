@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657007759604,
+  "updatedAt": 1657037000513,
   "positions": [
     {
       "graduationYear": 2023,
@@ -447,6 +447,20 @@
         "url": "https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw",
         "date": "2022-06-28",
         "title": "英特尔中国2023校园招聘“芯”动开启！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中兴通讯",
+        "website": "https://job.zte.com.cn/cn/campus-recruitment",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/21pMdR06Xop2aU98YfZtnQ",
+        "date": "2022-06-24",
+        "title": "中兴通讯2023届“未来领军”人才招聘正式启动"
       }
     },
     {
