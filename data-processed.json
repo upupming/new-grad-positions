@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1656774889302,
+  "updatedAt": 1656998536283,
   "positions": [
     {
       "graduationYear": 2023,
@@ -223,6 +223,20 @@
         "url": "https://mp.weixin.qq.com/s/CK_uP09qLGunc9ewnUTh7A",
         "date": "2022-02-22",
         "title": "米哈游2022春季校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "米哈游",
+        "website": "https://campus.mihoyo.com/#/campus/position",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/IwhVPuHB_Va2AqZTHaCaMw",
+        "date": "2022-07-04",
+        "title": "米哈游2023秋季校园招聘正式启动！"
       }
     },
     {
