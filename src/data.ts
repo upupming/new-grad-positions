@@ -457,5 +457,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/eNYYzfsueVxBXKwH_Dk7kg',
       date: '2022-07-01',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '米哈游',
+      website: 'https://campus.mihoyo.com/#/campus/position',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/IwhVPuHB_Va2AqZTHaCaMw',
+      date: '2022-07-04',
+    },
   }
 ]
