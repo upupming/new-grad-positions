@@ -483,5 +483,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/h6PvUeRyuQy0WONDOeSptA',
       date: '2022-07-05',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '中兴通讯',
+      website: 'https://job.zte.com.cn/cn/campus-recruitment',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/21pMdR06Xop2aU98YfZtnQ',
+      date: '2022-06-24',
+    },
   }
 ]
