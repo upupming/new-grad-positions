@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1656998536283,
+  "updatedAt": 1657007759604,
   "positions": [
     {
       "graduationYear": 2023,
@@ -363,6 +363,20 @@
         "url": "https://mp.weixin.qq.com/s/0eIEalTM4h3T9_7iUANfdQ",
         "date": "2022-03-01",
         "title": "2023届网易互联网精英实习生招聘全面启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "网易游戏雷火",
+        "website": "https://leihuo.163.com/campus/#/full",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/h6PvUeRyuQy0WONDOeSptA",
+        "date": "2022-07-05",
+        "title": "网易游戏雷火2023届秋季校园招聘全球开启！"
       }
     },
     {
