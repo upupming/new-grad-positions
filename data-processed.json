@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657037000513,
+  "updatedAt": 1657122293650,
   "positions": [
     {
       "graduationYear": 2023,
@@ -237,6 +237,20 @@
         "url": "https://mp.weixin.qq.com/s/IwhVPuHB_Va2AqZTHaCaMw",
         "date": "2022-07-04",
         "title": "米哈游2023秋季校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "OPPO",
+        "website": "https://careers.oppo.com/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/9qwR91Zq9kYAuCzalQa_yQ",
+        "date": "2022-07-01",
+        "title": "OPPO 2023届校园招聘提前批专场启动"
       }
     },
     {
