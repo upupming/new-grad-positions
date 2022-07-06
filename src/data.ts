@@ -496,5 +496,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/21pMdR06Xop2aU98YfZtnQ',
       date: '2022-06-24',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'OPPO',
+      website: 'https://careers.oppo.com/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/9qwR91Zq9kYAuCzalQa_yQ',
+      date: '2022-07-01',
+    },
   }
 ]
