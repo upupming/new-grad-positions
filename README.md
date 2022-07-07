@@ -15,6 +15,7 @@
 |-|-|-|-|-|
 |[百度](https:\/\/talent.baidu.com\/external\/baidu\/campus.html\#\/jobList)|全职（秋季）|[AIDU计划启动！百度面向全球招募顶尖技术人才](https:\/\/mp.weixin.qq.com\/s\/v8BVCDofVc5rAAdNzaxvSA)|2022-05-06|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
+|[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
 |[九坤投资](https:\/\/app.mokahr.com\/campus\_apply\/ubiquantrecruit)|全职（秋季）|[九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/eNYYzfsueVxBXKwH\_Dk7kg)|2022-07-01|私企|
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
@@ -79,4 +80,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-07-06 23:44:53 (UTC+8)
+上次更新于: 2022-07-07 10:58:24 (UTC+8)
