@@ -509,5 +509,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/9qwR91Zq9kYAuCzalQa_yQ',
       date: '2022-07-01',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '大疆',
+      website: 'https://we.dji.com/zh-CN/campus/recruitment',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/j4bgh7DnQJ5V1-_QV3SRgA',
+      date: '2022-07-06',
+    },
   }
 ]
