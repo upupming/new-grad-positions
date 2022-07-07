@@ -43,8 +43,8 @@ export function PositionsTable ({
   }
   const [sortOrder, setSortOrder] = React.useState<SortOrder>(SortOrder.ASCENDING)
   const sortMethods = [
-    { path: 'company.name', name: '公司名称', },
     { path: 'type', name: '招聘类型', },
+    { path: 'company.name', name: '公司名称', },
     { path: 'announcement.title', name: '官方公告', },
     { path: 'announcement.date', name: '日期', },
     { path: 'company.type', name: '公司类型', }
