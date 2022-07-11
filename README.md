@@ -17,6 +17,12 @@
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
+|[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为2012实验室2022年顶尖人才招聘公告](https:\/\/mp.weixin.qq.com\/s\/DsiVv7iNy\_02-IBV1Cn4Ew)|2022-06-17|私企|
+|[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[顶尖人才招聘\|华为中央软件院](https:\/\/mp.weixin.qq.com\/s\/PPMHKBu-NSshfT4AGFvFrA)|2022-06-21|私企|
+|[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为集团IT 2023届顶尖人才招聘](https:\/\/mp.weixin.qq.com\/s\/Xf\_FUTTpFs6v75ov-PBtTw)|2022-06-20|私企|
+|[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[官宣｜华为终端2023届校招启动](https:\/\/mp.weixin.qq.com\/s\/BvvGqy91sUDrda0Rzbd1Xw)|2022-06-30|私企|
+|[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为计算产品线面向全球招募天才少年](https:\/\/mp.weixin.qq.com\/s\/a-C-P-d1xBVdVy6meoe0cQ)|2022-05-07|私企|
+|[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为计算产品线2023届顶尖招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/EhaRtWKqXLfJ975RSAewJg)|2022-06-16|私企|
 |[九坤投资](https:\/\/app.mokahr.com\/campus\_apply\/ubiquantrecruit)|全职（秋季）|[九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/eNYYzfsueVxBXKwH\_Dk7kg)|2022-07-01|私企|
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届校园招聘提前批专场启动](https:\/\/mp.weixin.qq.com\/s\/9qwR91Zq9kYAuCzalQa\_yQ)|2022-07-01|私企|
@@ -81,4 +87,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-07-11 19:00:24 (UTC+8)
+上次更新于: 2022-07-11 19:15:00 (UTC+8)
