@@ -614,4 +614,17 @@ export const positions: Position[] = [
       date: '2022-06-16',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '旷视',
+      website: 'https://app.mokahr.com/campus_apply/megviihr/38642#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/46P9j8JbUXoMqwmPwjWejA',
+      date: '2022-07-11',
+    },
+  }
 ]
