@@ -25,6 +25,7 @@
 |[网易游戏雷火](https:\/\/leihuo.163.com\/campus\/\#\/full)|全职（秋季）|[网易游戏雷火2023届秋季校园招聘全球开启！](https:\/\/mp.weixin.qq.com\/s\/h6PvUeRyuQy0WONDOeSptA)|2022-07-05|私企|
 |[英特尔](https:\/\/chinacampus.jobs.intel.cn\/intel\/home\/index?page=campus)|全职（秋季）|[英特尔中国2023校园招聘“芯”动开启！](https:\/\/mp.weixin.qq.com\/s\/IQoDLc1gvx0LLIfyTmyErw)|2022-06-28|外企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
+|[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
 |[Zoom](https:\/\/www.zoom.us)|全职（秋季）|[Zoom “视界星” 计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/Iq3bxmcYKWH6qK7iQY5\_\_Q)|2022-06-10|私企|
 
 ## 2023 届实习生招聘
@@ -80,4 +81,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-07-07 19:24:11 (UTC+8)
+上次更新于: 2022-07-11 19:00:24 (UTC+8)
