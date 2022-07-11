@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657537224650,
+  "updatedAt": 1657538100069,
   "positions": [
     {
       "graduationYear": 2023,
@@ -125,6 +125,90 @@
         "url": "https://mp.weixin.qq.com/s/8r-sELJKyaq-PnVOPUP8GQ",
         "date": "2022-06-20",
         "title": "华为杭厦区域23届校招\"提前批\"正式启动！我们只为寻找一起改变世界的你！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/DsiVv7iNy_02-IBV1Cn4Ew",
+        "date": "2022-06-17",
+        "title": "华为2012实验室2022年顶尖人才招聘公告"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/PPMHKBu-NSshfT4AGFvFrA",
+        "date": "2022-06-21",
+        "title": "顶尖人才招聘|华为中央软件院"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/Xf_FUTTpFs6v75ov-PBtTw",
+        "date": "2022-06-20",
+        "title": "华为集团IT 2023届顶尖人才招聘"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/BvvGqy91sUDrda0Rzbd1Xw",
+        "date": "2022-06-30",
+        "title": "官宣｜华为终端2023届校招启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/a-C-P-d1xBVdVy6meoe0cQ",
+        "date": "2022-05-07",
+        "title": "华为计算产品线面向全球招募天才少年"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "华为",
+        "website": "https://career.huawei.com/reccampportal/portal5/campus-recruitment.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/EhaRtWKqXLfJ975RSAewJg",
+        "date": "2022-06-16",
+        "title": "华为计算产品线2023届顶尖招聘正式启动"
       }
     },
     {
