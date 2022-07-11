@@ -535,5 +535,83 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA',
       date: '2022-07-07',
     },
-  }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/DsiVv7iNy_02-IBV1Cn4Ew',
+      date: '2022-06-17',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/PPMHKBu-NSshfT4AGFvFrA',
+      date: '2022-06-21',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/Xf_FUTTpFs6v75ov-PBtTw',
+      date: '2022-06-20',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/BvvGqy91sUDrda0Rzbd1Xw',
+      date: '2022-06-30',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/a-C-P-d1xBVdVy6meoe0cQ',
+      date: '2022-05-07',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '华为',
+      website: 'https://career.huawei.com/reccampportal/portal5/campus-recruitment.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/EhaRtWKqXLfJ975RSAewJg',
+      date: '2022-06-16',
+    },
+  },
 ]
