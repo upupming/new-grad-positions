@@ -626,5 +626,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/46P9j8JbUXoMqwmPwjWejA',
       date: '2022-07-11',
     },
-  }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '英伟达',
+      website: 'https://app.mokahr.com/campus-recruitment/nvidia/47111#/',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/ItFls1KKSHTmHprybXNN-g',
+      date: '2022-07-11',
+    },
+  },
 ]
