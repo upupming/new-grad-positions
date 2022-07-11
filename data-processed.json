@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657193051569,
+  "updatedAt": 1657537224650,
   "positions": [
     {
       "graduationYear": 2023,
@@ -503,6 +503,20 @@
         "url": "https://mp.weixin.qq.com/s/mee1XP80u1oBs2NbX-reHw",
         "date": "2022-02-17",
         "title": "字节跳动 2022 春季校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "字节跳动",
+        "website": "https://jobs.bytedance.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA",
+        "date": "2022-07-07",
+        "title": "字节跳动 2023 校园招聘研发提前批正式启动！"
       }
     },
     {
