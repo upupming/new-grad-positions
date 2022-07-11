@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657551431172,
+  "updatedAt": 1657556236091,
   "positions": [
     {
       "graduationYear": 2023,
@@ -573,6 +573,20 @@
         "url": "https://mp.weixin.qq.com/s/IQoDLc1gvx0LLIfyTmyErw",
         "date": "2022-06-28",
         "title": "英特尔中国2023校园招聘“芯”动开启！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "英伟达",
+        "website": "https://app.mokahr.com/campus-recruitment/nvidia/47111#/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/ItFls1KKSHTmHprybXNN-g",
+        "date": "2022-07-11",
+        "title": "招人啦||2023届秋招启动咯"
       }
     },
     {
