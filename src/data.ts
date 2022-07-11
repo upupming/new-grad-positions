@@ -522,5 +522,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/j4bgh7DnQJ5V1-_QV3SRgA',
       date: '2022-07-06',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '字节跳动',
+      website: 'https://jobs.bytedance.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA',
+      date: '2022-07-07',
+    },
   }
 ]
