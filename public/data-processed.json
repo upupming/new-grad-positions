@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657538100069,
+  "updatedAt": 1657551431172,
   "positions": [
     {
       "graduationYear": 2023,
@@ -251,6 +251,20 @@
         "url": "https://mp.weixin.qq.com/s/eNYYzfsueVxBXKwH_Dk7kg",
         "date": "2022-07-01",
         "title": "九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "旷视",
+        "website": "https://app.mokahr.com/campus_apply/megviihr/38642#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/46P9j8JbUXoMqwmPwjWejA",
+        "date": "2022-07-11",
+        "title": "旷视科技2023校园招聘提前批正式启动！"
       }
     },
     {
