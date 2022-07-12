@@ -640,4 +640,17 @@ export const positions: Position[] = [
       date: '2022-07-11',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '科大讯飞',
+      website: 'https://campus.iflytek.com/official-pc/jobList',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/JzYmFsh4Yyyu_O0lgo2LNw',
+      date: '2022-07-12',
+    },
+  },
 ]
