@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657556236091,
+  "updatedAt": 1657626700045,
   "positions": [
     {
       "graduationYear": 2023,
@@ -251,6 +251,20 @@
         "url": "https://mp.weixin.qq.com/s/eNYYzfsueVxBXKwH_Dk7kg",
         "date": "2022-07-01",
         "title": "九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "科大讯飞",
+        "website": "https://campus.iflytek.com/official-pc/jobList",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/JzYmFsh4Yyyu_O0lgo2LNw",
+        "date": "2022-07-12",
+        "title": "科大讯飞2023届秋季校园招聘正式启动！"
       }
     },
     {
