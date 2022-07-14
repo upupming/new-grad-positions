@@ -653,4 +653,17 @@ export const positions: Position[] = [
       date: '2022-07-12',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '百度',
+      website: 'https://talent.baidu.com/jobs/list',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw',
+      date: '2022-07-14',
+    },
+  },
 ]
