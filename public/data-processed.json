@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657626700045,
+  "updatedAt": 1657777202063,
   "positions": [
     {
       "graduationYear": 2023,
@@ -41,6 +41,20 @@
         "url": "https://mp.weixin.qq.com/s/v8BVCDofVc5rAAdNzaxvSA",
         "date": "2022-05-06",
         "title": "AIDU计划启动！百度面向全球招募顶尖技术人才"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "百度",
+        "website": "https://talent.baidu.com/jobs/list",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw",
+        "date": "2022-07-14",
+        "title": "百度2023届校园招聘正式启动！"
       }
     },
     {

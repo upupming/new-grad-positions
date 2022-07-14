@@ -14,6 +14,7 @@
 |公司名称|招聘类型|官方公告|日期|公司类型|
 |-|-|-|-|-|
 |[百度](https:\/\/talent.baidu.com\/external\/baidu\/campus.html\#\/jobList)|全职（秋季）|[AIDU计划启动！百度面向全球招募顶尖技术人才](https:\/\/mp.weixin.qq.com\/s\/v8BVCDofVc5rAAdNzaxvSA)|2022-05-06|私企|
+|[百度](https:\/\/talent.baidu.com\/jobs\/list)|全职（秋季）|[百度2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/jYknxjBSLmRzgS3ralz7hw)|2022-07-14|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
@@ -90,4 +91,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-07-12 19:51:40 (UTC+8)
+上次更新于: 2022-07-14 13:40:02 (UTC+8)
