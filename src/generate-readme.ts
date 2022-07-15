@@ -26,16 +26,21 @@ async function main () {
   }
 
   async function getTitleFromUrl (url: string): Promise<string> {
-    const page = await browser.newPage()
-    await page.goto(url, {
-      waitUntil: 'domcontentloaded',
-    })
-    const title = await page.waitForFunction("document.querySelector('title')?.innerText")
+    try {
+      const page = await browser.newPage()
+      await page.goto(url, {
+        waitUntil: 'domcontentloaded',
+      })
+      const title = await page.waitForFunction("document.querySelector('title')?.innerText")
 
-    if (title == null) {
-      throw new Error(`Failed to get title from url: ${url}`)
+      if (title == null) {
+        throw new Error(`Failed to get title from url: ${url}`)
+      }
+      return (await title.jsonValue())
+    } catch (err) {
+      console.log(`遇到错误 ${(err as Error).message ?? '未知错误'}，重试中...`)
+      return await getTitleFromUrl(url)
     }
-    return (await title.jsonValue())
   }
 
   async function checkIntegrity (positions: Position[]) {
