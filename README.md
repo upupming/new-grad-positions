@@ -32,6 +32,7 @@
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
 |[网易游戏雷火](https:\/\/leihuo.163.com\/campus\/\#\/full)|全职（秋季）|[网易游戏雷火2023届秋季校园招聘全球开启！](https:\/\/mp.weixin.qq.com\/s\/h6PvUeRyuQy0WONDOeSptA)|2022-07-05|私企|
+|[蔚来](https:\/\/nio.jobs.feishu.cn\/campus)|全职（秋季）|[校招 \| 蔚来2023届秋招研发提前批启动](https:\/\/mp.weixin.qq.com\/s\/S0ta29gUPSAM0Pb8cSJL5Q)|2022-06-20|私企|
 |[英特尔](https:\/\/chinacampus.jobs.intel.cn\/intel\/home\/index?page=campus)|全职（秋季）|[英特尔中国2023校园招聘“芯”动开启！](https:\/\/mp.weixin.qq.com\/s\/IQoDLc1gvx0LLIfyTmyErw)|2022-06-28|外企|
 |[英伟达](https:\/\/app.mokahr.com\/campus-recruitment\/nvidia\/47111\#\/)|全职（秋季）|[招人啦\|\|2023届秋招启动咯](https:\/\/mp.weixin.qq.com\/s\/ItFls1KKSHTmHprybXNN-g)|2022-07-11|外企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
@@ -91,4 +92,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-07-14 13:40:02 (UTC+8)
+上次更新于: 2022-07-15 15:17:28 (UTC+8)
