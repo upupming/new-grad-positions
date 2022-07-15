@@ -41,7 +41,7 @@ export function PositionsTable ({
     ASCENDING = 'ASCENDING',
     DESCENDING = 'DESCENDING',
   }
-  const [sortOrder, setSortOrder] = React.useState<SortOrder>(SortOrder.ASCENDING)
+  const [sortOrder, setSortOrder] = React.useState<SortOrder>(SortOrder.DESCENDING)
   const sortMethods = [
     { path: 'type', name: '招聘类型', },
     { path: 'company.name', name: '公司名称', },
@@ -49,7 +49,7 @@ export function PositionsTable ({
     { path: 'announcement.date', name: '日期', },
     { path: 'company.type', name: '公司类型', }
   ]
-  const [sortMethodIndex, setSortMethodIndex] = React.useState(0)
+  const [sortMethodIndex, setSortMethodIndex] = React.useState(3)
 
   return (
     <div className='positions-table px-4 py-6 space-y-6 bg-themeable-background flex-1 flex flex-col items-center'>
