@@ -666,4 +666,17 @@ export const positions: Position[] = [
       date: '2022-07-14',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '蔚来',
+      website: 'https://nio.jobs.feishu.cn/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/S0ta29gUPSAM0Pb8cSJL5Q',
+      date: '2022-06-20',
+    },
+  },
 ]
