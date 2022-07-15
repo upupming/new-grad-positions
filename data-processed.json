@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657777202063,
+  "updatedAt": 1657869448696,
   "positions": [
     {
       "graduationYear": 2023,
@@ -531,6 +531,20 @@
         "url": "https://mp.weixin.qq.com/s/h6PvUeRyuQy0WONDOeSptA",
         "date": "2022-07-05",
         "title": "网易游戏雷火2023届秋季校园招聘全球开启！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "蔚来",
+        "website": "https://nio.jobs.feishu.cn/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/S0ta29gUPSAM0Pb8cSJL5Q",
+        "date": "2022-06-20",
+        "title": "校招 | 蔚来2023届秋招研发提前批启动"
       }
     },
     {
