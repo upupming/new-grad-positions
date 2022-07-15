@@ -1,5 +1,5 @@
 import { PositionRefined, positions, Position, PositionType, ProcessedData } from './data'
-import puppeteer from 'puppeteer-core'
+import puppeteer, { JSHandle } from 'puppeteer-core'
 import { Launcher } from 'chrome-launcher'
 import { promises as fs } from 'fs'
 import path from 'path'
@@ -7,7 +7,7 @@ import { compare } from 'pinyin'
 import { getHash, getTimeStringAtTimeZone } from './util'
 
 async function main () {
-  const browser = await puppeteer.launch({
+  let browser = await puppeteer.launch({
     executablePath: Launcher.getInstallations()[0],
   })
 
@@ -26,21 +26,26 @@ async function main () {
   }
 
   async function getTitleFromUrl (url: string): Promise<string> {
+    let title: JSHandle<string>
     try {
       const page = await browser.newPage()
       await page.goto(url, {
         waitUntil: 'domcontentloaded',
       })
-      const title = await page.waitForFunction("document.querySelector('title')?.innerText")
-
-      if (title == null) {
-        throw new Error(`Failed to get title from url: ${url}`)
-      }
-      return (await title.jsonValue())
+      title = await page.waitForFunction("document.querySelector('title')?.innerText")
     } catch (err) {
       console.log(`遇到错误 ${(err as Error).message ?? '未知错误'}，重试中...`)
+      await browser.close()
+      browser = await puppeteer.launch({
+        executablePath: Launcher.getInstallations()[0],
+      })
       return await getTitleFromUrl(url)
     }
+
+    if (title == null) {
+      throw new Error(`Failed to get title from url: ${url}`)
+    }
+    return (await title.jsonValue())
   }
 
   async function checkIntegrity (positions: Position[]) {
