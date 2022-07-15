@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { createRoot } from 'react-dom/client'
 import { PositionRefined } from '../data'
 import { getTimeStringAtTimeZone } from '../util'
@@ -63,6 +63,15 @@ function Footer () {
 
 function App () {
   const [theme, setTheme] = React.useState<Theme>('dracula')
+  // 加载 App 时, 网页外观跟随用户系统设置
+  useEffect(() => {
+    if (window.matchMedia?.('(prefers-color-scheme: dark)').matches) {
+      setTheme('dracula')
+    } else {
+      setTheme('material')
+    }
+  }, [])
+
   return (
     <div className={`flex flex-col bg-themeable-background h-screen text-themeable-foreground themeable-${theme}`}>
       <Nav onThemeChange={setTheme} />
