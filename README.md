@@ -92,4 +92,4 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 ```
 
-上次更新于: 2022-07-15 22:49:42 (UTC+8)
+上次更新于: 2022-07-15 23:42:47 (UTC+8)
