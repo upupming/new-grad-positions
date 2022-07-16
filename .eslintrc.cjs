@@ -10,12 +10,14 @@ module.exports = {
   rules: {
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/strict-boolean-expressions': 'off',
-    'comma-dangle': ['error', {
-      arrays: 'never',
-      objects: 'always',
-      imports: 'never',
-      exports: 'never',
-      functions: 'never',
-    }],
+    'comma-dangle': [
+      'error', {
+        arrays: 'never',
+        objects: 'always',
+        imports: 'never',
+        exports: 'never',
+        functions: 'never',
+      }
+    ],
   },
 }

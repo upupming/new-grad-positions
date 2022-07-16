@@ -1,14 +1,16 @@
 import React, { useEffect } from 'react'
 import { createRoot } from 'react-dom/client'
-import { PositionRefined } from '../data'
+import { ProcessedData } from '../data'
 import { getTimeStringAtTimeZone } from '../util'
 // Vite does not support assert yet
-import processedData from '../../public/data-processed.json'// assert { type: "json" }
-import { PositionsTable } from './components/PositionsTable'
+import _processedData from '../../public/data-processed.json'// assert { type: "json" }
+import { PositionsGrid } from './containers/PositionsGrid'
 import 'virtual:windi.css'
 // import 'animate.css'
 
 import './index.css'
+
+const processedData = _processedData as ProcessedData
 
 export type Theme = 'dracula' | 'material'
 
@@ -41,11 +43,11 @@ function Nav ({ theme, setTheme, }: NavProps) {
 
 function Footer () {
   return (
-    <footer className='p-4 flex flex-col items-center justify-center bg-themeable-selection space-y-4'>
+    <footer className='p-4 flex flex-col items-center justify-center bg-themeable-selection-200 space-y-4'>
       <div><a href='./data-processed.json'>网页数据</a>上次更新于 {getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)</div>
       <div><a href='https://github.com/upupming/new-grad-positions/edit/main/src/data.ts' target='_blank' rel='noreferrer'>前往 GitHub 新增数据 👉 </a></div>
       <div className='text-xl w-full flex flex-col justify-center items-center'>
-        <div>Made with <span className='text-themeable-pink scale-90 animate-love inline-block'>♥</span> by  <a className='text-themeable-green' href='https://github.com/upupming' target='_blank' rel='noreferrer'>Yiming Li</a></div>
+        <div>Made with <span className='text-themeable-pink transform scale-80 animate-love inline-block'>♥</span> by  <a className='text-themeable-green' href='https://github.com/upupming' target='_blank' rel='noreferrer'>Yiming Li</a></div>
         <div>under <a className='text-themeable-orange' href='https://github.com/upupming/new-grad-positions/blob/main/LICENSE' target='blank'>MIT license</a></div>
       </div>
     </footer>
@@ -64,9 +66,9 @@ function App () {
   }, [])
 
   return (
-    <div className={`flex flex-col bg-themeable-background h-screen text-themeable-foreground themeable-${theme}`}>
+    <div className={`flex flex-col bg-themeable-background h-screen text-themeable-foreground themeable-${theme} overflow-scroll`}>
       <Nav theme={theme} setTheme={setTheme} />
-      <PositionsTable positions={processedData.positions as PositionRefined[]} />
+      <PositionsGrid positions={processedData.positions} />
       <Footer />
     </div>
   )

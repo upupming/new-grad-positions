@@ -54,3 +54,8 @@ th,td {
 .nav-icon {
   @apply h-8 w-8;
 }
+
+/* show menu when dropdown is hovering */
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

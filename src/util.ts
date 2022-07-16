@@ -1,4 +1,4 @@
-import { Position } from './data'
+import type { Position } from './data'
 
 export const getHash = (position: Position) => {
   return `${position.company.name}_${position.graduationYear}_${position.type}_${position.announcement.url}`

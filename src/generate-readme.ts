@@ -168,6 +168,8 @@ import processedData, { ProcessedData } from 'new-grad-positions'
 console.log(processedData.updatedAt)
 \`\`\`
 
+---
+
 上次更新于: ${getTimeStringAtTimeZone(new Date(processedData.updatedAt))} (UTC+8)
 `.trim()
 
