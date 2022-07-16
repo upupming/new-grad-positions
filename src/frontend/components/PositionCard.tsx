@@ -21,11 +21,14 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
   return (
     <>
       <div
-        className='bg-themeable-comment-200 p-4 rounded-xl flex flex-col space-y-1  hover:scale-102 shadow-lg hover:shadow-themeable-selection transform cursor-pointer transition-transform transition-shadow duration-500 ease' onClick={() => {
-        // window.open(position.company.website)
+        className='bg-themeable-comment-200 p-4 rounded-xl flex flex-col space-y-1  hover:scale-102 shadow-lg hover:shadow-themeable-selection transform cursor-pointer duration-500 ease' onClick={() => {
+          // window.open(position.company.website)
           setModelOpen((modelOpen) => {
             return !modelOpen
           })
+        }}
+        style={{
+          transitionProperty: 'transform, box-shadow',
         }}
       >
         <div className='flex justify-between items-center'>
