@@ -25,7 +25,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           pnpm i
-          pnpm generate
+          git diff --name-only HEAD~1 HEAD | grep src/data.ts && pnpm generate
           pnpm build:vite
 
       - name: Commit files
@@ -34,7 +34,7 @@ jobs:
           git config --local user.email github-actions[bot]@users.noreply.github.com
           git status
           git add .
-          git commit -m "Generate README.md using src/data.ts"
+          git diff-index --quiet HEAD || git commit -m "Generate README.md using src/data.ts"
           git log
       - name: Push changes
         uses: ad-m/github-push-action@master
