@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1657965155042,
+  "updatedAt": 1657972933460,
   "positions": [
     {
       "graduationYear": 2023,
@@ -629,6 +629,20 @@
         "url": "https://mp.weixin.qq.com/s/ItFls1KKSHTmHprybXNN-g",
         "date": "2022-07-11",
         "title": "招人啦||2023届秋招启动咯"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "哲库",
+        "website": "https://app.mokahr.com/campus-recruitment/zeku",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/ZsgT5AhU83c2kGvZe3qDAg",
+        "date": "2022-07-11",
+        "title": "ZEKU校招 | 2023届提前批空宣预告"
       }
     },
     {
