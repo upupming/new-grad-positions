@@ -22,7 +22,7 @@ export const SortMethod: React.FC<SortMethodProps> = ({
   destroy,
 }) => {
   return (
-    <div className='flex items-center flex items-center justify-between bg-themeable-selection-200 rounded-md p-2 border-transparent hover:border-themeable-cyan border-width-1px w-full'>
+    <div className='flex items-center flex items-center justify-between bg-themeable-selection-200 rounded-md p-2 border-transparent hover:border-themeable-cyan border-width-1px w-full' title={order === SortOrder.ASCENDING ? '升序' : '降序'}>
       <div className='font-bold'>{name}</div>
       <div className='flex items-center'>
         {order === SortOrder.ASCENDING

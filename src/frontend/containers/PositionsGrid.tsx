@@ -3,7 +3,7 @@ import { PositionRefined } from '../../data'
 import { getHash } from '../../util'
 import { PositionCard } from '../components/PositionCard'
 import { SortMethod } from '../components/SortMethod'
-import { availableSortMethods, SortMethodWithOrder, SortOrder } from '../common/const'
+import { availableSortMethods, FILTERS_KEY, NOTES_KEY, SortMethodWithOrder, SortOrder, SORT_METHODS_KEY, STARED_KEY } from '../common/const'
 import { SortMethodAdder } from '../components/SortMethodAdder'
 import { compare } from 'pinyin'
 import { get } from 'lodash-es'
@@ -13,12 +13,6 @@ import { includes } from '../common/utils'
 export interface PositionsGridProps {
   positions: PositionRefined[]
 }
-
-export const NEW_GRADUATE_POSITION_HASH = 'new-graduate-position'
-
-const STARED_KEY = NEW_GRADUATE_POSITION_HASH + '-stared'
-const SORT_METHODS_KEY = NEW_GRADUATE_POSITION_HASH + '-sort-conditions'
-const FILTERS_KEY = NEW_GRADUATE_POSITION_HASH + '-filters'
 
 const defaultSortMethods: SortMethodWithOrder[] = [
   { path: 'type', order: SortOrder.ASCENDING, name: '招聘类型', }, { path: 'announcement.date', order: SortOrder.DESCENDING, name: '日期', }, { path: 'company.name', order: SortOrder.ASCENDING, name: '公司名称', }]
@@ -38,6 +32,11 @@ export const PositionsGrid: React.FC<PositionsGridProps> = ({ positions, }) => {
   const setFilters = (filters: string[]) => {
     localStorage.setItem(FILTERS_KEY, JSON.stringify(filters))
     _setFilters(filters)
+  }
+  const [notesMap, _setNotesMap] = useState(JSON.parse(localStorage.getItem(NOTES_KEY) ?? '{}') as { [key: string]: string })
+  const setNotesMap = (newNotesMap: { [key: string]: string }) => {
+    localStorage.setItem(NOTES_KEY, JSON.stringify(newNotesMap))
+    _setNotesMap(newNotesMap)
   }
   const searchRef = useRef<HTMLInputElement>(null)
 
@@ -112,6 +111,10 @@ export const PositionsGrid: React.FC<PositionsGridProps> = ({ positions, }) => {
                   stared={staredMap[hash]}
                   setStared={(newStared) => {
                     setStaredMap({ ...staredMap, [hash]: newStared, })
+                  }}
+                  notes={notesMap[hash]}
+                  updateNotes={(newNotes) => {
+                    setNotesMap({ ...notesMap, [hash]: newNotes, })
                   }}
                 />
                 )

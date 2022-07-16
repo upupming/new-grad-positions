@@ -41,7 +41,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-          force: true
+          force: false
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
