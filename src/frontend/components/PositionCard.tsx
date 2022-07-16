@@ -67,7 +67,7 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
         </div>
 
       </div>
-      <div className={`z-10 ${modelOpen ? 'block' : 'hidden'}`} role='dialog' aria-modal='true'>
+      <div className={`z-10 ${modelOpen ? 'block' : 'hidden'} fixed`} role='dialog' aria-modal='true'>
         <div className='fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity' />
 
         <div className='fixed z-10 inset-0 overflow-y-auto'>
