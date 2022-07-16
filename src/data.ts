@@ -678,5 +678,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/S0ta29gUPSAM0Pb8cSJL5Q',
       date: '2022-06-20',
     },
-  }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '哲库',
+      website: 'https://app.mokahr.com/campus-recruitment/zeku',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/ZsgT5AhU83c2kGvZe3qDAg',
+      date: '2022-07-11',
+    },
+  },
 ]
