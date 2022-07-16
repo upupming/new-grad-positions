@@ -87,7 +87,7 @@ export const PositionsGrid: React.FC<PositionsGridProps> = ({ positions, }) => {
           />
         </div>
         <hr />
-        <div className='grid grid-cols-2 sm:grid-cols-3 gap-x-8 gap-y-4 bg-themeable-background'>
+        <div className='grid grid-cols-1 gap-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-8 gap-y-4 bg-themeable-background'>
           {positions.sort((a, b) => {
             const aStared = Boolean(staredMap[getHash(a)])
             const bStared = Boolean(staredMap[getHash(b)])
