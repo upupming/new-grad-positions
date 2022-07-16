@@ -49,10 +49,10 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
       </div>
       <div className='pb-1' />
       <div className='flex items-center'>
-        <IconCalendar /> <div className='px-2'>{position.announcement.date}</div>
+        <IconCalendar /> <div className='px-2'>发布于 {position.announcement.date}</div>
       </div>
       <div className='flex items-center'>
-        <IconGraduation /> <div className='px-2'>{position.graduationYear}</div>
+        <IconGraduation /> <div className='px-2'>{position.graduationYear} 届</div>
       </div>
       <div className='flex items-center'>
         <IconEmployeeType /> <div className='px-2'>{position.company.type} | {position.type}</div>
