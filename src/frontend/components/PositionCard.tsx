@@ -75,7 +75,7 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
             <div className='bg-themeable-background rounded-md p-4 max-w-80vw max-h-50vh w-200 h-100 flex flex-col'>
               <div className='text-2xl'><a href={position.announcement.url} target='_blank' rel='noreferrer'>{position.company.name}-{position.announcement.title}</a> 笔记</div>
               <div className='flex w-full v-full flex-1'>
-                <textarea className='outline-none text-xl mt-8 mb-4 mx-8 p-4 resize-none border-width-1px p-2 m-2 bg-themeable-background flex-1' value={notes} onChange={(e) => updateNotes(e.target.value)} />
+                <textarea className='outline-none text-xl mt-8 mb-4 mx-8 p-4 resize-none border-width-1px p-2 m-2 bg-themeable-background flex-1' value={notes} onChange={(e) => updateNotes(e.target.value)} placeholder='在此输入笔记...' />
               </div>
               <div className='px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse'>
                 <button type='button' className='mt-3 w-full inline-flex justify-center rounded-md border border-themeable-selection shadow-sm px-4 py-2 bg-themeable-background text-base font-medium hover:bg-themeable-background-100 focus:outline-none  sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm' onClick={() => setModelOpen(false)}>关闭</button>
