@@ -704,5 +704,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/0Wdou6EiUfrD0e0KPEULVg',
       date: '2022-07-15',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '美的',
+      website: 'http://www.wjx.top/vm/PqrvaMT.aspx',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/LHB-Ig926nhAkTggoceEGA',
+      date: '2022-07-04',
+    },
   }
 ]
