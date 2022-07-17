@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1658067223376,
+  "updatedAt": 1658067712978,
   "positions": [
     {
       "graduationYear": 2023,
@@ -349,6 +349,20 @@
         "url": "https://mp.weixin.qq.com/s/WRxlbT05KMgOeLcDVKWHhw",
         "date": "2022-03-30",
         "title": "美的集团2022美少年实习招聘启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "美的",
+        "website": "http://www.wjx.top/vm/PqrvaMT.aspx",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/LHB-Ig926nhAkTggoceEGA",
+        "date": "2022-07-04",
+        "title": "美的集团2023校招提前批正式启动！"
       }
     },
     {
