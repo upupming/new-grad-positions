@@ -21,6 +21,7 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
   return (
     <>
       <div
+        title={notes ? `笔记: ${notes}` : ''}
         className='bg-themeable-comment-200 p-4 rounded-xl flex flex-col space-y-1  hover:scale-102 shadow-lg hover:shadow-themeable-selection transform cursor-pointer duration-500 ease' onClick={() => {
           // window.open(position.company.website)
           setModelOpen((modelOpen) => {

@@ -692,4 +692,17 @@ export const positions: Position[] = [
       date: '2022-07-11',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '联想中国',
+      website: 'https://talent.lenovo.com.cn/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/0Wdou6EiUfrD0e0KPEULVg',
+      date: '2022-07-15',
+    },
+  }
 ]
