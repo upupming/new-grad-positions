@@ -27,6 +27,7 @@
 |[九坤投资](https:\/\/app.mokahr.com\/campus\_apply\/ubiquantrecruit)|全职（秋季）|[九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/eNYYzfsueVxBXKwH\_Dk7kg)|2022-07-01|私企|
 |[科大讯飞](https:\/\/campus.iflytek.com\/official-pc\/jobList)|全职（秋季）|[科大讯飞2023届秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/JzYmFsh4Yyyu\_O0lgo2LNw)|2022-07-12|私企|
 |[旷视](https:\/\/app.mokahr.com\/campus\_apply\/megviihr\/38642\#\/)|全职（秋季）|[旷视科技2023校园招聘提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/46P9j8JbUXoMqwmPwjWejA)|2022-07-11|私企|
+|[联想中国](https:\/\/talent.lenovo.com.cn\/)|全职（秋季）|[联想中国2023校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/0Wdou6EiUfrD0e0KPEULVg)|2022-07-15|私企|
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届校园招聘提前批专场启动](https:\/\/mp.weixin.qq.com\/s\/9qwR91Zq9kYAuCzalQa\_yQ)|2022-07-01|私企|
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
@@ -95,4 +96,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-07-16 21:24:02 (UTC+8)
+上次更新于: 2022-07-17 22:13:43 (UTC+8)
