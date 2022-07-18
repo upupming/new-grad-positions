@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1658067712978,
+  "updatedAt": 1658119004770,
   "positions": [
     {
       "graduationYear": 2023,
@@ -461,6 +461,20 @@
         "url": "https://mp.weixin.qq.com/s/Q-c3dYr8N0nVRhBzalyrug",
         "date": "2022-03-07",
         "title": "商汤科技2022春季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Shopee",
+        "website": "https://app.mokahr.com/campus_apply/shopee/2962#/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ",
+        "date": "2022-07-18",
+        "title": "Shopee研发中心2023校园招聘正式启动"
       }
     },
     {
