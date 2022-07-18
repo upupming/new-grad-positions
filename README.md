@@ -31,6 +31,7 @@
 |[美的](http:\/\/www.wjx.top\/vm\/PqrvaMT.aspx)|全职（秋季）|[美的集团2023校招提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/LHB-Ig926nhAkTggoceEGA)|2022-07-04|私企|
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届校园招聘提前批专场启动](https:\/\/mp.weixin.qq.com\/s\/9qwR91Zq9kYAuCzalQa\_yQ)|2022-07-01|私企|
+|[Shopee](https:\/\/app.mokahr.com\/campus\_apply\/shopee\/2962\#\/)|全职（秋季）|[Shopee研发中心2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/7Tcqfs31VWna1-Bx7FREaQ)|2022-07-18|外企|
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
 |[网易游戏雷火](https:\/\/leihuo.163.com\/campus\/\#\/full)|全职（秋季）|[网易游戏雷火2023届秋季校园招聘全球开启！](https:\/\/mp.weixin.qq.com\/s\/h6PvUeRyuQy0WONDOeSptA)|2022-07-05|私企|
@@ -97,4 +98,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-07-17 22:21:52 (UTC+8)
+上次更新于: 2022-07-18 12:36:44 (UTC+8)
