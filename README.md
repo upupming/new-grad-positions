@@ -17,6 +17,7 @@
 |[百度](https:\/\/talent.baidu.com\/jobs\/list)|全职（秋季）|[百度2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/jYknxjBSLmRzgS3ralz7hw)|2022-07-14|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
+|[海尔](http:\/\/vta.maker.haier.net\/client\/campusmobile\/activity\/id\/18.html)|全职（秋季）|[海尔校招提前批，提前出发啦！](https:\/\/mp.weixin.qq.com\/s?\_\_biz=MzA3MzIzODc5MQ==&mid=2454382623&idx=1&sn=475b256e8ad7a938a55dff45cc69c48b&chksm=88ac5877bfdbd1618f6e52aee10a3b8dc34974e0292606cd9f11a4d6350c9a620cc6bd6dae5d&mpshare=1&scene=23&srcid=0717Ox3q4ushytTiIBASKTe0&sharer\_sharetime=1658048425410&sharer\_shareid=fcdd77543f29b035f162d5e36e4960d9%23rd)|2022-06-06|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为2012实验室2022年顶尖人才招聘公告](https:\/\/mp.weixin.qq.com\/s\/DsiVv7iNy\_02-IBV1Cn4Ew)|2022-06-17|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[顶尖人才招聘\|华为中央软件院](https:\/\/mp.weixin.qq.com\/s\/PPMHKBu-NSshfT4AGFvFrA)|2022-06-21|私企|
@@ -98,4 +99,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-07-18 12:36:44 (UTC+8)
+上次更新于: 2022-07-18 13:35:11 (UTC+8)
