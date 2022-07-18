@@ -717,5 +717,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/LHB-Ig926nhAkTggoceEGA',
       date: '2022-07-04',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Shopee',
+      website: 'https://app.mokahr.com/campus_apply/shopee/2962#/',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ',
+      date: '2022-07-18',
+    },
   }
 ]
