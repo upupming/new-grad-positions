@@ -730,5 +730,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ',
       date: '2022-07-18',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '海尔',
+      website: 'http://vta.maker.haier.net/client/campusmobile/activity/id/18.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s?__biz=MzA3MzIzODc5MQ==&mid=2454382623&idx=1&sn=475b256e8ad7a938a55dff45cc69c48b&chksm=88ac5877bfdbd1618f6e52aee10a3b8dc34974e0292606cd9f11a4d6350c9a620cc6bd6dae5d&mpshare=1&scene=23&srcid=0717Ox3q4ushytTiIBASKTe0&sharer_sharetime=1658048425410&sharer_shareid=fcdd77543f29b035f162d5e36e4960d9%23rd',
+      date: '2022-06-06',
+    },
   }
 ]
