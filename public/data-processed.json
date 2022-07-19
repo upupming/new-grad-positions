@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1658122511828,
+  "updatedAt": 1658198433730,
   "positions": [
     {
       "graduationYear": 2023,
@@ -615,6 +615,20 @@
         "url": "https://mp.weixin.qq.com/s/0kwiVC9tAH5GeaIE60dOqw",
         "date": "2022-01-10",
         "title": "微软校招 | 2022暑期实习招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小红书",
+        "website": "https://job.xiaohongshu.com/m/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ",
+        "date": "2022-07-19",
+        "title": "小红书REDstar顶尖技术人才招聘计划正式启动！"
       }
     },
     {
