@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1658198433730,
+  "updatedAt": 1658299471490,
   "positions": [
     {
       "graduationYear": 2023,
@@ -769,6 +769,20 @@
         "url": "https://mp.weixin.qq.com/s/Iq3bxmcYKWH6qK7iQY5__Q",
         "date": "2022-06-10",
         "title": "Zoom “视界星” 计划正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Zoom",
+        "website": "https://www.nowcoder.com/careers/zoom/102351",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ",
+        "date": "2022-07-20",
+        "title": "Zoom 2023届校园招聘正式启动"
       }
     }
   ]
