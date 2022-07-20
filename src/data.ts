@@ -756,5 +756,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ',
       date: '2022-07-19',
     },
-  }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Zoom',
+      website: 'https://www.nowcoder.com/careers/zoom/102351',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/tlYuYBAUyJuUpF8c5YYCvQ',
+      date: '2022-07-20',
+    },
+  },
 ]
