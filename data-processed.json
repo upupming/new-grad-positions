@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1658299471490,
+  "updatedAt": 1658811099177,
   "positions": [
     {
       "graduationYear": 2023,
@@ -573,6 +573,20 @@
         "url": "https://mp.weixin.qq.com/s/0eIEalTM4h3T9_7iUANfdQ",
         "date": "2022-03-01",
         "title": "2023届网易互联网精英实习生招聘全面启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "网易游戏互娱",
+        "website": "https://game.campus.163.com/position/12/?sc=1",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/m1vqIEX2s0a5CUir40YuKw",
+        "date": "2022-07-26",
+        "title": "网易游戏（互娱）2023校园招聘全球启动！"
       }
     },
     {
