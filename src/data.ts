@@ -770,4 +770,17 @@ export const positions: Position[] = [
       date: '2022-07-20',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '网易游戏互娱',
+      website: 'https://game.campus.163.com/position/12/?sc=1',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/m1vqIEX2s0a5CUir40YuKw',
+      date: '2022-07-26',
+    },
+  },
 ]
