@@ -35,6 +35,7 @@
 |[Shopee](https:\/\/app.mokahr.com\/campus\_apply\/shopee\/2962\#\/)|全职（秋季）|[Shopee研发中心2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/7Tcqfs31VWna1-Bx7FREaQ)|2022-07-18|外企|
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
+|[网易游戏互娱](https:\/\/game.campus.163.com\/position\/12\/?sc=1)|全职（秋季）|[网易游戏（互娱）2023校园招聘全球启动！](https:\/\/mp.weixin.qq.com\/s\/m1vqIEX2s0a5CUir40YuKw)|2022-07-26|私企|
 |[网易游戏雷火](https:\/\/leihuo.163.com\/campus\/\#\/full)|全职（秋季）|[网易游戏雷火2023届秋季校园招聘全球开启！](https:\/\/mp.weixin.qq.com\/s\/h6PvUeRyuQy0WONDOeSptA)|2022-07-05|私企|
 |[蔚来](https:\/\/nio.jobs.feishu.cn\/campus)|全职（秋季）|[校招 \| 蔚来2023届秋招研发提前批启动](https:\/\/mp.weixin.qq.com\/s\/S0ta29gUPSAM0Pb8cSJL5Q)|2022-06-20|私企|
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书REDstar顶尖技术人才招聘计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/EKzJkrnZ9INSIqLJ7Z70QQ)|2022-07-19|私企|
@@ -101,4 +102,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-07-20 14:44:31 (UTC+8)
+上次更新于: 2022-07-26 12:51:39 (UTC+8)
