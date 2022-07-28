@@ -783,4 +783,56 @@ export const positions: Position[] = [
       date: '2022-07-26',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '快手',
+      website: 'https://campus.kuaishou.cn/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA',
+      date: '2022-07-28',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '荣耀',
+      website: 'https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A',
+      date: '2022-07-26',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '特斯拉',
+      website: 'https://app.mokahr.com/campus_apply/tesla/41460?sourceToken=927ae25b0bf38126a21b1c83955c7ba0#/',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/YeY1MVQc9bwIP7QhdDgaow',
+      date: '2022-07-27',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '海康威视',
+      website: 'https://campushr.hikvision.com/school.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/FnzIRYdOxsQKgWq1eKAZFw',
+      date: '2022-07-27',
+    },
+  }
 ]
