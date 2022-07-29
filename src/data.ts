@@ -834,5 +834,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/FnzIRYdOxsQKgWq1eKAZFw',
       date: '2022-07-27',
     },
-  }
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '地平线',
+      website: 'https://horizon.hotjob.cn/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA',
+      date: '2022-07-28',
+    },
+  },
 ]
