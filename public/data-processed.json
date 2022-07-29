@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659069014176,
+  "updatedAt": 1659069223122,
   "positions": [
     {
       "graduationYear": 2023,
@@ -97,6 +97,20 @@
         "url": "https://mp.weixin.qq.com/s/j4bgh7DnQJ5V1-_QV3SRgA",
         "date": "2022-07-06",
         "title": "大疆 2023 “拓疆者”秋季校园招聘"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "地平线",
+        "website": "https://horizon.hotjob.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA",
+        "date": "2022-07-28",
+        "title": "上场，与世界交手 | 地平线2023届秋季校园招聘正式启动"
       }
     },
     {
