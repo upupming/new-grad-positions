@@ -64,7 +64,10 @@ async function main () {
   async function preprocessData (): Promise<ProcessedData> {
     const refinedPositions: PositionRefined[] = []
     const urls = positions.map(p => p.announcement.url)
-    const titles = await Promise.all(urls.map(getTitleFromUrl))
+    const titles = []
+    for (let i = 0; i < urls.length; i += 10) {
+      titles.push(...await Promise.all(urls.slice(i, i + 10).map(getTitleFromUrl)))
+    }
     for (let i = 0; i < positions.length; i++) {
       const position = positions[i]
       const refinedPosition = {
