@@ -779,7 +779,7 @@ export const positions: Position[] = [
       type: CompanyType.私企,
     },
     announcement: {
-      url: 'https://mp.weixin.qq.com/s/m1vqIEX2s0a5CUir40YuKw',
+      url: 'https://mp.weixin.qq.com/s/6ATQsmddGiJ3wRRlfxncuw',
       date: '2022-07-26',
     },
   },
