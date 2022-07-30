@@ -783,4 +783,17 @@ export const positions: Position[] = [
       date: '2022-07-26',
     },
   },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '美团',
+      website: 'https://campus.meituan.com/recruit',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/1JpCjvPPTOsUOpn3qhc70Q',
+      date: '2022-07-29',
+    },
+  },
 ]
