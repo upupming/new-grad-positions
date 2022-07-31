@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1658811099177,
+  "updatedAt": 1659069223122,
   "positions": [
     {
       "graduationYear": 2023,
@@ -103,6 +103,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "地平线",
+        "website": "https://horizon.hotjob.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA",
+        "date": "2022-07-28",
+        "title": "上场，与世界交手 | 地平线2023届秋季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "海尔",
         "website": "http://vta.maker.haier.net/client/campusmobile/activity/id/18.html",
         "type": "私企"
@@ -125,6 +139,20 @@
         "url": "https://mp.weixin.qq.com/s/JRnyR4_5Mox4Y5KlbbVwyQ",
         "date": "2022-04-01",
         "title": "海康威视2023届超新星实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "海康威视",
+        "website": "https://campushr.hikvision.com/school.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/FnzIRYdOxsQKgWq1eKAZFw",
+        "date": "2022-07-27",
+        "title": "海康威视2023届「启明星」技术达人校园招聘启动"
       }
     },
     {
@@ -299,6 +327,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "快手",
+        "website": "https://campus.kuaishou.cn/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/TIFg_GD-XYob0y9MBxugxA",
+        "date": "2022-07-28",
+        "title": "快手2023秋季校园招聘启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "旷视",
         "website": "https://app.mokahr.com/campus_apply/megviihr/38642#/",
         "type": "私企"
@@ -465,6 +507,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "荣耀",
+        "website": "https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/G_Z_vVqvSux3xN264mEu-A",
+        "date": "2022-07-26",
+        "title": "校招 | 荣耀2023届校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "商汤科技",
@@ -489,6 +545,20 @@
         "url": "https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ",
         "date": "2022-07-18",
         "title": "Shopee研发中心2023校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "特斯拉",
+        "website": "https://app.mokahr.com/campus_apply/tesla/41460?sourceToken=927ae25b0bf38126a21b1c83955c7ba0#/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/YeY1MVQc9bwIP7QhdDgaow",
+        "date": "2022-07-27",
+        "title": "无畏，才有为！特斯拉2023秋季校园招聘正式启动"
       }
     },
     {
@@ -584,9 +654,9 @@
         "type": "私企"
       },
       "announcement": {
-        "url": "https://mp.weixin.qq.com/s/m1vqIEX2s0a5CUir40YuKw",
+        "url": "https://mp.weixin.qq.com/s/6ATQsmddGiJ3wRRlfxncuw",
         "date": "2022-07-26",
-        "title": "网易游戏（互娱）2023校园招聘全球启动！"
+        "title": "网易游戏（互娱）2023校园招聘启动！"
       }
     },
     {

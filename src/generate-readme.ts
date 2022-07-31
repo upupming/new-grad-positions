@@ -26,6 +26,7 @@ async function main () {
   }
 
   async function getTitleFromUrl (url: string): Promise<string> {
+    console.log(`Get title of url: ${url} ...`)
     let title: JSHandle<string>
     try {
       const page = await browser.newPage()
@@ -62,12 +63,18 @@ async function main () {
 
   async function preprocessData (): Promise<ProcessedData> {
     const refinedPositions: PositionRefined[] = []
-    for await (const position of positions) {
+    const urls = positions.map(p => p.announcement.url)
+    const titles = []
+    for (let i = 0; i < urls.length; i += 10) {
+      titles.push(...await Promise.all(urls.slice(i, i + 10).map(getTitleFromUrl)))
+    }
+    for (let i = 0; i < positions.length; i++) {
+      const position = positions[i]
       const refinedPosition = {
         ...position,
         announcement: {
           ...position.announcement,
-          title: await getTitleFromUrl(position.announcement.url),
+          title: titles[i],
         },
       }
       refinedPositions.push(refinedPosition)
