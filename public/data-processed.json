@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659339289436,
+  "updatedAt": 1659355216149,
   "positions": [
     {
       "graduationYear": 2023,
@@ -111,6 +111,20 @@
         "url": "https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA",
         "date": "2022-07-28",
         "title": "上场，与世界交手 | 地平线2023届秋季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "广汽丰田",
+        "website": "https://gac-toyota.m.zhiye.com/JobAd/Info?adid=620661636",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/PvxbmUfcCAcpwt9uwZdkfA",
+        "date": "2022-08-01",
+        "title": "广汽丰田2023校园招聘正式启动"
       }
     },
     {
@@ -283,6 +297,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "吉利",
+        "website": "https://campus.geely.com",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/-6LYDJ_3QxBu0BP_aLaWmQ",
+        "date": "2022-08-01",
+        "title": "吉利 2023 全球校园招聘全面启动！快和杨倩一起成为吉利同路人~"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "京东",
@@ -447,20 +475,6 @@
         "url": "https://mp.weixin.qq.com/s/p9_jPgRcDnz0iOOVedIAQA",
         "date": "2022-02-23",
         "title": "美团春招启动! 1万+offer等你拿！"
-      }
-    },
-    {
-      "graduationYear": 2023,
-      "type": "全职（秋季）",
-      "company": {
-        "name": "美团",
-        "website": "https://campus.meituan.com/recruit",
-        "type": "私企"
-      },
-      "announcement": {
-        "url": "https://mp.weixin.qq.com/s/1JpCjvPPTOsUOpn3qhc70Q",
-        "date": "2022-07-29",
-        "title": "【招聘推荐】美团2023届校园招聘全面启动"
       }
     },
     {
