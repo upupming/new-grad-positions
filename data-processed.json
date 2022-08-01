@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659069223122,
+  "updatedAt": 1659336096399,
   "positions": [
     {
       "graduationYear": 2023,
@@ -299,6 +299,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "京东",
+        "website": "https://campus.jd.com/api/wx/position/index?type=present",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig",
+        "date": "2022-08-01",
+        "title": "寻找燃力「实」足的你｜京东2023校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "九坤投资",
         "website": "https://app.mokahr.com/campus_apply/ubiquantrecruit",
         "type": "私企"
@@ -433,6 +447,34 @@
         "url": "https://mp.weixin.qq.com/s/p9_jPgRcDnz0iOOVedIAQA",
         "date": "2022-02-23",
         "title": "美团春招启动! 1万+offer等你拿！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "美团",
+        "website": "https://campus.meituan.com/recruit",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/1JpCjvPPTOsUOpn3qhc70Q",
+        "date": "2022-07-29",
+        "title": "【招聘推荐】美团2023届校园招聘全面启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "美团",
+        "website": "https://campus.meituan.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/d-t1zIJFmOvCuwcN374j7g",
+        "date": "2022-08-01",
+        "title": "招5000人！美团2023届校园招聘全面启动"
       }
     },
     {
@@ -699,6 +741,20 @@
         "url": "https://mp.weixin.qq.com/s/0kwiVC9tAH5GeaIE60dOqw",
         "date": "2022-01-10",
         "title": "微软校招 | 2022暑期实习招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "微软",
+        "website": "https://careers.microsoft.com/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/xVcUSUdsKprCVf6xHor-Rg",
+        "date": "2022-08-01",
+        "title": "校招|微软2023校园招聘正式开启！"
       }
     },
     {
