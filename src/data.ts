@@ -860,5 +860,5 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA',
       date: '2022-07-28',
     },
-  },
+  }
 ]
