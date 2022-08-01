@@ -860,5 +860,44 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA',
       date: '2022-07-28',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '美团',
+      website: 'https://campus.meituan.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/d-t1zIJFmOvCuwcN374j7g',
+      date: '2022-08-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '微软',
+      website: 'https://careers.microsoft.com/',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/xVcUSUdsKprCVf6xHor-Rg',
+      date: '2022-08-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '京东',
+      website: 'https://campus.jd.com/api/wx/position/index?type=present',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig',
+      date: '2022-08-01',
+    },
   }
 ]
