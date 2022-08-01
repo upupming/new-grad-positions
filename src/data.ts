@@ -909,7 +909,7 @@ export const positions: Position[] = [
       type: CompanyType.私企,
     },
     announcement: {
-      url: 'https://mp.weixin.qq.com/s/PvxbmUfcCAcpwt9uwZdkfA?scene=25#wechat_redirect',
+      url: 'https://mp.weixin.qq.com/s/PvxbmUfcCAcpwt9uwZdkfA',
       date: '2022-08-01',
     },
   }
