@@ -27,7 +27,12 @@ jobs:
       - name: Install and Build 🔧
         run: |
           pnpm i
-          git diff --name-only HEAD~1 HEAD | grep src/data.ts && pnpm generate
+          MESSAGE=$(git log -1 HEAD --pretty=format:%s)
+          if [[ "$MESSAGE" == *fgen* ]]; then
+            pnpm generate
+          else
+            git diff --name-only HEAD~1 HEAD | grep src/data.ts && pnpm generate
+          fi
           pnpm build:vite
 
       - name: Commit files

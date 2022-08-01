@@ -1,5 +1,5 @@
 import { PositionRefined, positions, Position, PositionType, ProcessedData } from './data'
-import puppeteer, { JSHandle } from 'puppeteer-core'
+import puppeteer, { Browser, JSHandle } from 'puppeteer-core'
 import { Launcher } from 'chrome-launcher'
 import { promises as fs } from 'fs'
 import path from 'path'
@@ -7,7 +7,7 @@ import { compare } from 'pinyin'
 import { getHash, getTimeStringAtTimeZone } from './util'
 
 async function main () {
-  let browser = await puppeteer.launch({
+  const browser = await puppeteer.launch({
     executablePath: Launcher.getInstallations()[0],
   })
 
@@ -22,10 +22,13 @@ async function main () {
 
     await generateReadme(positionsRefined)
   } finally {
-    await browser.close()
+    await browser?.close()
   }
 
   async function getTitleFromUrl (url: string): Promise<string> {
+    let browser: Browser | null = await puppeteer.launch({
+      executablePath: Launcher.getInstallations()[0],
+    })
     console.log(`Get title of url: ${url} ...`)
     let title: JSHandle<string>
     try {
@@ -36,11 +39,12 @@ async function main () {
       title = await page.waitForFunction("document.querySelector('title')?.innerText")
     } catch (err) {
       console.log(`遇到错误 ${(err as Error).message ?? '未知错误'}，重试中...`)
-      await browser.close()
-      browser = await puppeteer.launch({
-        executablePath: Launcher.getInstallations()[0],
-      })
+      await browser?.close()
+      browser = null
       return await getTitleFromUrl(url)
+    } finally {
+      await browser?.close()
+      browser = null
     }
 
     if (title == null) {
@@ -65,7 +69,7 @@ async function main () {
     const refinedPositions: PositionRefined[] = []
     const urls = positions.map(p => p.announcement.url)
     const titles = []
-    const poolSize = 5
+    const poolSize = 10
     for (let i = 0; i < urls.length; i += poolSize) {
       titles.push(...await Promise.all(urls.slice(i, i + poolSize).map(getTitleFromUrl)))
     }
