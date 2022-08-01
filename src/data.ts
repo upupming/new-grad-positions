@@ -787,19 +787,6 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-      name: '美团',
-      website: 'https://campus.meituan.com/recruit',
-      type: CompanyType.私企,
-    },
-    announcement: {
-      url: 'https://mp.weixin.qq.com/s/1JpCjvPPTOsUOpn3qhc70Q',
-      date: '2022-07-29',
-    },
-  },
-  {
-    graduationYear: 2023,
-    type: PositionType['全职（秋季）'],
-    company: {
       name: '快手',
       website: 'https://campus.kuaishou.cn/',
       type: CompanyType.私企,
@@ -897,6 +884,32 @@ export const positions: Position[] = [
     },
     announcement: {
       url: 'https://mp.weixin.qq.com/s/MS_iH_osZOxmcuniIFd2ig',
+      date: '2022-08-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '吉利',
+      website: 'https://campus.geely.com',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/-6LYDJ_3QxBu0BP_aLaWmQ',
+      date: '2022-08-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '广汽丰田',
+      website: 'https://gac-toyota.m.zhiye.com/JobAd/Info?adid=620661636',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/PvxbmUfcCAcpwt9uwZdkfA?scene=25#wechat_redirect',
       date: '2022-08-01',
     },
   }
