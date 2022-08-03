@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659355216149,
+  "updatedAt": 1659538233391,
   "positions": [
     {
       "graduationYear": 2023,
@@ -69,6 +69,20 @@
         "url": "https://mp.weixin.qq.com/s/sPc70Ye48FFrDtMWZu3pcQ",
         "date": "2022-04-18",
         "title": "哔哩哔哩游戏2022春季实习招聘 Q&A"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "传音控股",
+        "website": "https://transsion.m.zhiye.com/xzzw.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/68OJpWSBQaHFJQ6RkzUB4Q",
+        "date": "2022-07-29",
+        "title": "传音控股2023届全球校园招聘正式启动"
       }
     },
     {
@@ -167,6 +181,20 @@
         "url": "https://mp.weixin.qq.com/s/FnzIRYdOxsQKgWq1eKAZFw",
         "date": "2022-07-27",
         "title": "海康威视2023届「启明星」技术达人校园招聘启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "寒武纪",
+        "website": "https://app.mokahr.com/campus_apply/cambricon/1112#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/JToWHkUG7BjHebh7i_xaqA",
+        "date": "2022-07-29",
+        "title": "寒武纪2023届夏季校园招聘正式启动"
       }
     },
     {
@@ -705,6 +733,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "网易互联网",
+        "website": "https://campus.163.com/app/net/position",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/FvhPCULRXmw-04gF4bpnaQ",
+        "date": "2022-08-02",
+        "title": "网易互联网2023届秋季校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "网易游戏互娱",
         "website": "https://game.campus.163.com/position/12/?sc=1",
         "type": "私企"
@@ -825,6 +867,20 @@
         "url": "https://mp.weixin.qq.com/s/_E-CdOfzBLPYNOipjOXZ6w",
         "date": "2022-02-25",
         "title": "你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "鹰角",
+        "website": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/aTusLZxjI-mOleiMj1o5xg",
+        "date": "2022-08-02",
+        "title": "鹰角网络2023秋季校园招聘正式批招募开启！"
       }
     },
     {
