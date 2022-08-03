@@ -912,5 +912,44 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/PvxbmUfcCAcpwt9uwZdkfA',
       date: '2022-08-01',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '鹰角',
+      website: 'https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/aTusLZxjI-mOleiMj1o5xg',
+      date: '2022-08-02',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '传音控股',
+      website: 'https://transsion.m.zhiye.com/xzzw.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/68OJpWSBQaHFJQ6RkzUB4Q',
+      date: '2022-07-29',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '寒武纪',
+      website: 'https://app.mokahr.com/campus_apply/cambricon/1112#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/JToWHkUG7BjHebh7i_xaqA',
+      date: '2022-07-29',
+    },
   }
 ]
