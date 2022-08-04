@@ -852,6 +852,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: 'Momenta',
+      website: 'https://momenta.jobs.feishu.cn/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw',
+      date: '2022-07-29',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '美团',
       website: 'https://campus.meituan.com/',
       type: CompanyType.私企,
