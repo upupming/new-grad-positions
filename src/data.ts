@@ -1029,5 +1029,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g',
       date: '2022-08-01',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '招银网络科技',
+      website: 'https://cmbnt.cmbchina.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/p0d4UAeaHZKOlA80qkhs_w',
+      date: '2022-08-04',
+    },
   }
 ]
