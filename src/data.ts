@@ -977,5 +977,31 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/FvhPCULRXmw-04gF4bpnaQ',
       date: '2022-08-02',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '搜狐',
+      website: 'https://hr.sohu.com/social-recruitment/sohu/43256#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/DSuXGHY5FA2X5eqtBU3QrQ',
+      date: '2022-08-03',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '360',
+      website: 'http://360campus.zhiye.com/jobs',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g',
+      date: '2022-08-01',
+    },
   }
 ]
