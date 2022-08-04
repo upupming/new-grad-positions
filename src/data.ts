@@ -917,6 +917,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '蔚来',
+      website: 'https://campus.nio.com/#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/RBfwJuyO6rQaeO4MRt1Oaw',
+      date: '2022-08-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '鹰角',
       website: 'https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/',
       type: CompanyType.私企,
