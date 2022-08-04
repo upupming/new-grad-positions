@@ -1,6 +1,20 @@
 {
-  "updatedAt": 1659584891020,
+  "updatedAt": 1659627313507,
   "positions": [
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "360",
+        "website": "http://360campus.zhiye.com/jobs",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g",
+        "date": "2022-08-01",
+        "title": "极客飞扬，与梦想零距离 | 360集团2023全球校园招聘正式启动！"
+      }
+    },
     {
       "graduationYear": 2023,
       "type": "实习生",
@@ -629,6 +643,20 @@
         "url": "https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ",
         "date": "2022-07-18",
         "title": "Shopee研发中心2023校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "搜狐",
+        "website": "https://hr.sohu.com/social-recruitment/sohu/43256#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/DSuXGHY5FA2X5eqtBU3QrQ",
+        "date": "2022-08-03",
+        "title": "搜狐集团2023秋季校园招聘正式启动啦！"
       }
     },
     {
