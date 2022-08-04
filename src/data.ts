@@ -774,6 +774,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '深信服科技',
+      website: 'https://hr.sangfor.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g',
+      date: '2022-07-25',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '网易游戏互娱',
       website: 'https://game.campus.163.com/position/12/?sc=1',
       type: CompanyType.私企,
