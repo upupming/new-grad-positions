@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659538233391,
+  "updatedAt": 1659584891020,
   "positions": [
     {
       "graduationYear": 2023,
@@ -783,6 +783,20 @@
         "url": "https://mp.weixin.qq.com/s/S0ta29gUPSAM0Pb8cSJL5Q",
         "date": "2022-06-20",
         "title": "校招 | 蔚来2023届秋招研发提前批启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "蔚来",
+        "website": "https://campus.nio.com/#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/RBfwJuyO6rQaeO4MRt1Oaw",
+        "date": "2022-08-01",
+        "title": "校招 | 蔚来2023届校园招募正式启动"
       }
     },
     {

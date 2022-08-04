@@ -50,6 +50,7 @@
 |[网易游戏互娱](https:\/\/game.campus.163.com\/position\/12\/?sc=1)|全职（秋季）|[网易游戏（互娱）2023校园招聘启动！](https:\/\/mp.weixin.qq.com\/s\/6ATQsmddGiJ3wRRlfxncuw)|2022-07-26|私企|
 |[网易游戏雷火](https:\/\/leihuo.163.com\/campus\/\#\/full)|全职（秋季）|[网易游戏雷火2023届秋季校园招聘全球开启！](https:\/\/mp.weixin.qq.com\/s\/h6PvUeRyuQy0WONDOeSptA)|2022-07-05|私企|
 |[蔚来](https:\/\/nio.jobs.feishu.cn\/campus)|全职（秋季）|[校招 \| 蔚来2023届秋招研发提前批启动](https:\/\/mp.weixin.qq.com\/s\/S0ta29gUPSAM0Pb8cSJL5Q)|2022-06-20|私企|
+|[蔚来](https:\/\/campus.nio.com\/\#\/)|全职（秋季）|[校招 \| 蔚来2023届校园招募正式启动](https:\/\/mp.weixin.qq.com\/s\/RBfwJuyO6rQaeO4MRt1Oaw)|2022-08-01|私企|
 |[微软](https:\/\/careers.microsoft.com\/)|全职（秋季）|[校招\|微软2023校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/xVcUSUdsKprCVf6xHor-Rg)|2022-08-01|外企|
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书REDstar顶尖技术人才招聘计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/EKzJkrnZ9INSIqLJ7Z70QQ)|2022-07-19|私企|
 |[鹰角](https:\/\/jobs.hypergryph.com\/campus\_apply\/hypergryph\/26326\#\/)|全职（秋季）|[鹰角网络2023秋季校园招聘正式批招募开启！](https:\/\/mp.weixin.qq.com\/s\/aTusLZxjI-mOleiMj1o5xg)|2022-08-02|私企|
@@ -116,4 +117,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-03 22:50:33 (UTC+8)
+上次更新于: 2022-08-04 11:48:11 (UTC+8)
