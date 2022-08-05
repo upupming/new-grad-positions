@@ -774,6 +774,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '深信服科技',
+      website: 'https://hr.sangfor.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g',
+      date: '2022-07-25',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '网易游戏互娱',
       website: 'https://game.campus.163.com/position/12/?sc=1',
       type: CompanyType.私企,
@@ -846,6 +859,19 @@ export const positions: Position[] = [
     announcement: {
       url: 'https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA',
       date: '2022-07-28',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Momenta',
+      website: 'https://momenta.jobs.feishu.cn/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw',
+      date: '2022-07-29',
     },
   },
   {
@@ -1002,6 +1028,19 @@ export const positions: Position[] = [
     announcement: {
       url: 'https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g',
       date: '2022-08-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '招银网络科技',
+      website: 'https://cmbnt.cmbchina.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/p0d4UAeaHZKOlA80qkhs_w',
+      date: '2022-08-04',
     },
   }
 ]
