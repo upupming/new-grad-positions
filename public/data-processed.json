@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659627313507,
+  "updatedAt": 1659665536311,
   "positions": [
     {
       "graduationYear": 2023,
@@ -565,6 +565,20 @@
       "graduationYear": 2023,
       "type": "全职（秋季）",
       "company": {
+        "name": "Momenta",
+        "website": "https://momenta.jobs.feishu.cn/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/p4_Uo90ulqh53nPvrhXvuw",
+        "date": "2022-07-29",
+        "title": "Momenta 2023届校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
         "name": "OPPO",
         "website": "https://careers.oppo.com/campus",
         "type": "私企"
@@ -629,6 +643,20 @@
         "url": "https://mp.weixin.qq.com/s/Q-c3dYr8N0nVRhBzalyrug",
         "date": "2022-03-07",
         "title": "商汤科技2022春季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "深信服科技",
+        "website": "https://hr.sangfor.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/cma6-0jtb2uXFRV00aAf4g",
+        "date": "2022-07-25",
+        "title": "深信服2023届校园招聘提前批正式启动！"
       }
     },
     {
@@ -951,6 +979,20 @@
         "url": "https://mp.weixin.qq.com/s/ItFls1KKSHTmHprybXNN-g",
         "date": "2022-07-11",
         "title": "招人啦||2023届秋招启动咯"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "招银网络科技",
+        "website": "https://cmbnt.cmbchina.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/p0d4UAeaHZKOlA80qkhs_w",
+        "date": "2022-08-04",
+        "title": "招商银行·招银网络科技2023全球校园招聘正式启动！"
       }
     },
     {

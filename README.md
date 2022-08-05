@@ -41,8 +41,10 @@
 |[美的](http:\/\/www.wjx.top\/vm\/PqrvaMT.aspx)|全职（秋季）|[美的集团2023校招提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/LHB-Ig926nhAkTggoceEGA)|2022-07-04|私企|
 |[美团](https:\/\/campus.meituan.com\/)|全职（秋季）|[招5000人！美团2023届校园招聘全面启动](https:\/\/mp.weixin.qq.com\/s\/d-t1zIJFmOvCuwcN374j7g)|2022-08-01|私企|
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
+|[Momenta](https:\/\/momenta.jobs.feishu.cn\/campus)|全职（秋季）|[Momenta 2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/p4\_Uo90ulqh53nPvrhXvuw)|2022-07-29|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届校园招聘提前批专场启动](https:\/\/mp.weixin.qq.com\/s\/9qwR91Zq9kYAuCzalQa\_yQ)|2022-07-01|私企|
 |[荣耀](https:\/\/career.hihonor.com\/SU60eea919bef57c1023f6fe78\/pb\/school.html)|全职（秋季）|[校招 \| 荣耀2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/G\_Z\_vVqvSux3xN264mEu-A)|2022-07-26|私企|
+|[深信服科技](https:\/\/hr.sangfor.com\/)|全职（秋季）|[深信服2023届校园招聘提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/cma6-0jtb2uXFRV00aAf4g)|2022-07-25|私企|
 |[Shopee](https:\/\/app.mokahr.com\/campus\_apply\/shopee\/2962\#\/)|全职（秋季）|[Shopee研发中心2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/7Tcqfs31VWna1-Bx7FREaQ)|2022-07-18|外企|
 |[搜狐](https:\/\/hr.sohu.com\/social-recruitment\/sohu\/43256\#\/)|全职（秋季）|[搜狐集团2023秋季校园招聘正式启动啦！](https:\/\/mp.weixin.qq.com\/s\/DSuXGHY5FA2X5eqtBU3QrQ)|2022-08-03|私企|
 |[特斯拉](https:\/\/app.mokahr.com\/campus\_apply\/tesla\/41460?sourceToken=927ae25b0bf38126a21b1c83955c7ba0\#\/)|全职（秋季）|[无畏，才有为！特斯拉2023秋季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/YeY1MVQc9bwIP7QhdDgaow)|2022-07-27|外企|
@@ -58,6 +60,7 @@
 |[鹰角](https:\/\/jobs.hypergryph.com\/campus\_apply\/hypergryph\/26326\#\/)|全职（秋季）|[鹰角网络2023秋季校园招聘正式批招募开启！](https:\/\/mp.weixin.qq.com\/s\/aTusLZxjI-mOleiMj1o5xg)|2022-08-02|私企|
 |[英特尔](https:\/\/chinacampus.jobs.intel.cn\/intel\/home\/index?page=campus)|全职（秋季）|[英特尔中国2023校园招聘“芯”动开启！](https:\/\/mp.weixin.qq.com\/s\/IQoDLc1gvx0LLIfyTmyErw)|2022-06-28|外企|
 |[英伟达](https:\/\/app.mokahr.com\/campus-recruitment\/nvidia\/47111\#\/)|全职（秋季）|[招人啦\|\|2023届秋招启动咯](https:\/\/mp.weixin.qq.com\/s\/ItFls1KKSHTmHprybXNN-g)|2022-07-11|外企|
+|[招银网络科技](https:\/\/cmbnt.cmbchina.com\/)|全职（秋季）|[招商银行·招银网络科技2023全球校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/p0d4UAeaHZKOlA80qkhs\_w)|2022-08-04|私企|
 |[哲库](https:\/\/app.mokahr.com\/campus-recruitment\/zeku)|全职（秋季）|[ZEKU校招 \| 2023届提前批空宣预告](https:\/\/mp.weixin.qq.com\/s\/ZsgT5AhU83c2kGvZe3qDAg)|2022-07-11|私企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
@@ -119,4 +122,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-04 23:35:13 (UTC+8)
+上次更新于: 2022-08-05 10:12:16 (UTC+8)
