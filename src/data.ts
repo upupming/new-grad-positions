@@ -1,7 +1,7 @@
 export enum PositionType {
   '实习生' = '实习生',
   '全职（秋季）' = '全职（秋季）',
-  '全职补录（春季）' = '全职补录（春季）'
+  '全职补录（春季）' = '全职补录（春季）',
 }
 
 export enum CompanyType {
@@ -1041,6 +1041,19 @@ export const positions: Position[] = [
     announcement: {
       url: 'https://mp.weixin.qq.com/s/p0d4UAeaHZKOlA80qkhs_w',
       date: '2022-08-04',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '依图科技',
+      website: 'https://app.mokahr.com/campus_apply/yitu-inc/3700#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/-XqpFp6Qu_a8E3Iuck1Wng',
+      date: '2022-08-05',
     },
   }
 ]
