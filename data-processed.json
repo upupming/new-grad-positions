@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659665536311,
+  "updatedAt": 1659748459187,
   "positions": [
     {
       "graduationYear": 2023,
@@ -937,6 +937,20 @@
         "url": "https://mp.weixin.qq.com/s/_E-CdOfzBLPYNOipjOXZ6w",
         "date": "2022-02-25",
         "title": "你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "依图科技",
+        "website": "https://app.mokahr.com/campus_apply/yitu-inc/3700#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/-XqpFp6Qu_a8E3Iuck1Wng",
+        "date": "2022-08-05",
+        "title": "依图科技【2023届秋季校招】正式启动！"
       }
     },
     {
