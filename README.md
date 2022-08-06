@@ -57,6 +57,7 @@
 |[蔚来](https:\/\/campus.nio.com\/\#\/)|全职（秋季）|[校招 \| 蔚来2023届校园招募正式启动](https:\/\/mp.weixin.qq.com\/s\/RBfwJuyO6rQaeO4MRt1Oaw)|2022-08-01|私企|
 |[微软](https:\/\/careers.microsoft.com\/)|全职（秋季）|[校招\|微软2023校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/xVcUSUdsKprCVf6xHor-Rg)|2022-08-01|外企|
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书REDstar顶尖技术人才招聘计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/EKzJkrnZ9INSIqLJ7Z70QQ)|2022-07-19|私企|
+|[依图科技](https:\/\/app.mokahr.com\/campus\_apply\/yitu-inc\/3700\#\/)|全职（秋季）|[依图科技【2023届秋季校招】正式启动！](https:\/\/mp.weixin.qq.com\/s\/-XqpFp6Qu\_a8E3Iuck1Wng)|2022-08-05|私企|
 |[鹰角](https:\/\/jobs.hypergryph.com\/campus\_apply\/hypergryph\/26326\#\/)|全职（秋季）|[鹰角网络2023秋季校园招聘正式批招募开启！](https:\/\/mp.weixin.qq.com\/s\/aTusLZxjI-mOleiMj1o5xg)|2022-08-02|私企|
 |[英特尔](https:\/\/chinacampus.jobs.intel.cn\/intel\/home\/index?page=campus)|全职（秋季）|[英特尔中国2023校园招聘“芯”动开启！](https:\/\/mp.weixin.qq.com\/s\/IQoDLc1gvx0LLIfyTmyErw)|2022-06-28|外企|
 |[英伟达](https:\/\/app.mokahr.com\/campus-recruitment\/nvidia\/47111\#\/)|全职（秋季）|[招人啦\|\|2023届秋招启动咯](https:\/\/mp.weixin.qq.com\/s\/ItFls1KKSHTmHprybXNN-g)|2022-07-11|外企|
@@ -122,4 +123,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-05 10:12:16 (UTC+8)
+上次更新于: 2022-08-06 09:14:19 (UTC+8)
