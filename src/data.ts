@@ -1055,5 +1055,31 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/-XqpFp6Qu_a8E3Iuck1Wng',
       date: '2022-08-05',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '完美世界',
+      website: 'https://jobs.games.wanmei.com/school.html',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/4YNUK5Wa0pVCPZOqr8tNFQ',
+      date: '2022-08-02',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '4399',
+      website: 'http://web.4399.com/campus/yjsgw/cehualei/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw',
+      date: '2022-08-02',
+    },
   }
 ]
