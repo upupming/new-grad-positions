@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659748459187,
+  "updatedAt": 1659842852377,
   "positions": [
     {
       "graduationYear": 2023,
@@ -13,6 +13,20 @@
         "url": "https://mp.weixin.qq.com/s/5HjD1Xh18Kb7Alez9hf--g",
         "date": "2022-08-01",
         "title": "极客飞扬，与梦想零距离 | 360集团2023全球校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "4399",
+        "website": "http://web.4399.com/campus/yjsgw/cehualei/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw",
+        "date": "2022-08-02",
+        "title": "4399游戏2023届校园招聘正式启动！"
       }
     },
     {
@@ -769,6 +783,20 @@
         "url": "https://mp.weixin.qq.com/s/fjOf8A5SoGu7frDSH7uAUA",
         "date": "2022-03-14",
         "title": "图森未来2022春季校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "完美世界",
+        "website": "https://jobs.games.wanmei.com/school.html",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/4YNUK5Wa0pVCPZOqr8tNFQ",
+        "date": "2022-08-02",
+        "title": "完美世界2023届秋季全球校园招聘正式开启！"
       }
     },
     {

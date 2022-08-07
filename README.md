@@ -14,6 +14,7 @@
 |公司名称|招聘类型|官方公告|日期|公司类型|
 |-|-|-|-|-|
 |[360](http:\/\/360campus.zhiye.com\/jobs)|全职（秋季）|[极客飞扬，与梦想零距离 \| 360集团2023全球校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/5HjD1Xh18Kb7Alez9hf--g)|2022-08-01|私企|
+|[4399](http:\/\/web.4399.com\/campus\/yjsgw\/cehualei\/)|全职（秋季）|[4399游戏2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/K8OT7G\_MFp3YNV79-f0imw)|2022-08-02|私企|
 |[百度](https:\/\/talent.baidu.com\/external\/baidu\/campus.html\#\/jobList)|全职（秋季）|[AIDU计划启动！百度面向全球招募顶尖技术人才](https:\/\/mp.weixin.qq.com\/s\/v8BVCDofVc5rAAdNzaxvSA)|2022-05-06|私企|
 |[百度](https:\/\/talent.baidu.com\/jobs\/list)|全职（秋季）|[百度2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/jYknxjBSLmRzgS3ralz7hw)|2022-07-14|私企|
 |[传音控股](https:\/\/transsion.m.zhiye.com\/xzzw.html)|全职（秋季）|[传音控股2023届全球校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/68OJpWSBQaHFJQ6RkzUB4Q)|2022-07-29|私企|
@@ -50,6 +51,7 @@
 |[特斯拉](https:\/\/app.mokahr.com\/campus\_apply\/tesla\/41460?sourceToken=927ae25b0bf38126a21b1c83955c7ba0\#\/)|全职（秋季）|[无畏，才有为！特斯拉2023秋季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/YeY1MVQc9bwIP7QhdDgaow)|2022-07-27|外企|
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
+|[完美世界](https:\/\/jobs.games.wanmei.com\/school.html)|全职（秋季）|[完美世界2023届秋季全球校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/4YNUK5Wa0pVCPZOqr8tNFQ)|2022-08-02|私企|
 |[网易互联网](https:\/\/campus.163.com\/app\/net\/position)|全职（秋季）|[网易互联网2023届秋季校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/FvhPCULRXmw-04gF4bpnaQ)|2022-08-02|私企|
 |[网易游戏互娱](https:\/\/game.campus.163.com\/position\/12\/?sc=1)|全职（秋季）|[网易游戏（互娱）2023校园招聘启动！](https:\/\/mp.weixin.qq.com\/s\/6ATQsmddGiJ3wRRlfxncuw)|2022-07-26|私企|
 |[网易游戏雷火](https:\/\/leihuo.163.com\/campus\/\#\/full)|全职（秋季）|[网易游戏雷火2023届秋季校园招聘全球开启！](https:\/\/mp.weixin.qq.com\/s\/h6PvUeRyuQy0WONDOeSptA)|2022-07-05|私企|
@@ -123,4 +125,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-06 09:14:19 (UTC+8)
+上次更新于: 2022-08-07 11:27:32 (UTC+8)
