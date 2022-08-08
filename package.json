@@ -68,7 +68,7 @@
     "husky": "^7.0.4",
     "lodash-es": "^4.17.21",
     "pinyin": "^2.11.2",
-    "puppeteer-core": "^13.5.2",
+    "puppeteer-core": "^16.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-flip-move": "3.0.4",
