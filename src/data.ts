@@ -1073,6 +1073,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '去哪儿旅行',
+      website: 'https://campus.qunar.com',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/srsxEdf-RPlKFTaHKq_dWQ',
+      date: '2022-08-05',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '4399',
       website: 'http://web.4399.com/campus/yjsgw/cehualei/',
       type: CompanyType.私企,
