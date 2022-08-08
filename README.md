@@ -33,6 +33,7 @@
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为计算产品线面向全球招募天才少年](https:\/\/mp.weixin.qq.com\/s\/a-C-P-d1xBVdVy6meoe0cQ)|2022-05-07|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为计算产品线2023届顶尖招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/EhaRtWKqXLfJ975RSAewJg)|2022-06-16|私企|
 |[吉利](https:\/\/campus.geely.com)|全职（秋季）|[吉利 2023 全球校园招聘全面启动！快和杨倩一起成为吉利同路人~](https:\/\/mp.weixin.qq.com\/s\/-6LYDJ\_3QxBu0BP\_aLaWmQ)|2022-08-01|私企|
+|[交通银行](https:\/\/job.bankcomm.com\/)|全职（秋季）|[交通银行2023校园招聘火热启动！](https:\/\/mp.weixin.qq.com\/s\/G-lmDqlsW1yblApEyHlcsw)|2022-08-08|国企|
 |[京东](https:\/\/campus.jd.com\/api\/wx\/position\/index?type=present)|全职（秋季）|[寻找燃力「实」足的你｜京东2023校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/MS\_iH\_osZOxmcuniIFd2ig)|2022-08-01|私企|
 |[九坤投资](https:\/\/app.mokahr.com\/campus\_apply\/ubiquantrecruit)|全职（秋季）|[九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/eNYYzfsueVxBXKwH\_Dk7kg)|2022-07-01|私企|
 |[科大讯飞](https:\/\/campus.iflytek.com\/official-pc\/jobList)|全职（秋季）|[科大讯飞2023届秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/JzYmFsh4Yyyu\_O0lgo2LNw)|2022-07-12|私企|
@@ -44,6 +45,7 @@
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
 |[Momenta](https:\/\/momenta.jobs.feishu.cn\/campus)|全职（秋季）|[Momenta 2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/p4\_Uo90ulqh53nPvrhXvuw)|2022-07-29|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届校园招聘提前批专场启动](https:\/\/mp.weixin.qq.com\/s\/9qwR91Zq9kYAuCzalQa\_yQ)|2022-07-01|私企|
+|[去哪儿旅行](https:\/\/campus.qunar.com)|全职（秋季）|[去哪儿旅行2023届校园招聘火热开启](https:\/\/mp.weixin.qq.com\/s\/srsxEdf-RPlKFTaHKq\_dWQ)|2022-08-05|私企|
 |[荣耀](https:\/\/career.hihonor.com\/SU60eea919bef57c1023f6fe78\/pb\/school.html)|全职（秋季）|[校招 \| 荣耀2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/G\_Z\_vVqvSux3xN264mEu-A)|2022-07-26|私企|
 |[深信服科技](https:\/\/hr.sangfor.com\/)|全职（秋季）|[深信服2023届校园招聘提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/cma6-0jtb2uXFRV00aAf4g)|2022-07-25|私企|
 |[Shopee](https:\/\/app.mokahr.com\/campus\_apply\/shopee\/2962\#\/)|全职（秋季）|[Shopee研发中心2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/7Tcqfs31VWna1-Bx7FREaQ)|2022-07-18|外企|
@@ -59,6 +61,7 @@
 |[蔚来](https:\/\/campus.nio.com\/\#\/)|全职（秋季）|[校招 \| 蔚来2023届校园招募正式启动](https:\/\/mp.weixin.qq.com\/s\/RBfwJuyO6rQaeO4MRt1Oaw)|2022-08-01|私企|
 |[微软](https:\/\/careers.microsoft.com\/)|全职（秋季）|[校招\|微软2023校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/xVcUSUdsKprCVf6xHor-Rg)|2022-08-01|外企|
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书REDstar顶尖技术人才招聘计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/EKzJkrnZ9INSIqLJ7Z70QQ)|2022-07-19|私企|
+|[小马智行](https:\/\/app.mokahr.com\/campus-recruitment\/pony\/42966\/)|全职（秋季）|[小马智行Pony.ai 2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/\_vGUVFolSYJCDKihJevu7A)|2022-08-05|私企|
 |[依图科技](https:\/\/app.mokahr.com\/campus\_apply\/yitu-inc\/3700\#\/)|全职（秋季）|[依图科技【2023届秋季校招】正式启动！](https:\/\/mp.weixin.qq.com\/s\/-XqpFp6Qu\_a8E3Iuck1Wng)|2022-08-05|私企|
 |[鹰角](https:\/\/jobs.hypergryph.com\/campus\_apply\/hypergryph\/26326\#\/)|全职（秋季）|[鹰角网络2023秋季校园招聘正式批招募开启！](https:\/\/mp.weixin.qq.com\/s\/aTusLZxjI-mOleiMj1o5xg)|2022-08-02|私企|
 |[英特尔](https:\/\/chinacampus.jobs.intel.cn\/intel\/home\/index?page=campus)|全职（秋季）|[英特尔中国2023校园招聘“芯”动开启！](https:\/\/mp.weixin.qq.com\/s\/IQoDLc1gvx0LLIfyTmyErw)|2022-06-28|外企|
@@ -125,4 +128,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-07 11:27:32 (UTC+8)
+上次更新于: 2022-08-08 23:20:25 (UTC+8)
