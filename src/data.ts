@@ -1094,5 +1094,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw',
       date: '2022-08-02',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '小马智行',
+      website: 'https://app.mokahr.com/campus-recruitment/pony/42966/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/_vGUVFolSYJCDKihJevu7A',
+      date: '2022-08-05',
+    },
   }
 ]
