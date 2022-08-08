@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659842852377,
+  "updatedAt": 1659972025973,
   "positions": [
     {
       "graduationYear": 2023,
@@ -367,6 +367,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "交通银行",
+        "website": "https://job.bankcomm.com/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/G-lmDqlsW1yblApEyHlcsw",
+        "date": "2022-08-08",
+        "title": "交通银行2023校园招聘火热启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "京东",
@@ -629,6 +643,20 @@
         "url": "https://mp.weixin.qq.com/s/y1EdX-Q4gYsq1XZSMZdQTA",
         "date": "2022-03-24",
         "title": "Apple 校园春招开启，虚位以待。"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "去哪儿旅行",
+        "website": "https://campus.qunar.com",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/srsxEdf-RPlKFTaHKq_dWQ",
+        "date": "2022-08-05",
+        "title": "去哪儿旅行2023届校园招聘火热开启"
       }
     },
     {
@@ -937,6 +965,20 @@
         "url": "https://mp.weixin.qq.com/s/QMpGia29XtyW4E-5rLTZkw",
         "date": "2022-03-09",
         "title": "小马智行Pony.ai 2022春季校园招聘开始啦！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小马智行",
+        "website": "https://app.mokahr.com/campus-recruitment/pony/42966/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/_vGUVFolSYJCDKihJevu7A",
+        "date": "2022-08-05",
+        "title": "小马智行Pony.ai 2023校园招聘正式启动"
       }
     },
     {
