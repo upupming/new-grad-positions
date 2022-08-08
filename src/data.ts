@@ -1094,5 +1094,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/K8OT7G_MFp3YNV79-f0imw',
       date: '2022-08-02',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '交通银行',
+      website: 'https://job.bankcomm.com/',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/G-lmDqlsW1yblApEyHlcsw',
+      date: '2022-08-08',
+    },
   }
 ]
