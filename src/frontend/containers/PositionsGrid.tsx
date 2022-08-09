@@ -44,11 +44,11 @@ export const PositionsGrid: React.FC<PositionsGridProps> = ({ positions, }) => {
     <div className='max-w-400 m-auto'>
       <div className='m-8 space-y-2 flex flex-col items-center'>
         <input
-          type='search' placeholder='搜索...'
+          type='search' placeholder='搜索...（多个关键字用空格隔开）'
           ref={searchRef}
           onKeyDown={(e) => {
             if (e.key === 'Enter') {
-              searchRef.current?.value && setFilters([...new Set([...filters, searchRef.current.value])])
+              searchRef.current?.value && setFilters(searchRef.current.value.split(' ').filter(Boolean))
             }
           }}
           className='max-w-150'
