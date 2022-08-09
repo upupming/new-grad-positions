@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1659972025973,
+  "updatedAt": 1660013435411,
   "positions": [
     {
       "graduationYear": 2023,
@@ -1007,6 +1007,20 @@
         "url": "https://mp.weixin.qq.com/s/_E-CdOfzBLPYNOipjOXZ6w",
         "date": "2022-02-25",
         "title": "你有一个实习邀请丨亚马逊中国2022实习生招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "亚马逊",
+        "website": "https://www.amazon.jobs/zh/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg",
+        "date": "2022-08-08",
+        "title": "亚马逊中国2023校园招聘正式启动！"
       }
     },
     {
