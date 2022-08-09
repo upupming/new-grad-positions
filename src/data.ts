@@ -1120,5 +1120,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/_vGUVFolSYJCDKihJevu7A',
       date: '2022-08-05',
     },
+  },
+  {
+	graduationYear: 2023,
+	type: PositionType['全职（秋季）'],
+	company: {
+	  name: '亚马逊',
+	  website: 'https://www.amazon.jobs/zh/',
+	  type: CompanyType.外企,
+	},
+	announcement: {
+	  url: 'https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg',
+	  date: '2022-08-08'
+	},
   }
 ]
