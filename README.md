@@ -62,6 +62,7 @@
 |[微软](https:\/\/careers.microsoft.com\/)|全职（秋季）|[校招\|微软2023校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/xVcUSUdsKprCVf6xHor-Rg)|2022-08-01|外企|
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书REDstar顶尖技术人才招聘计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/EKzJkrnZ9INSIqLJ7Z70QQ)|2022-07-19|私企|
 |[小马智行](https:\/\/app.mokahr.com\/campus-recruitment\/pony\/42966\/)|全职（秋季）|[小马智行Pony.ai 2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/\_vGUVFolSYJCDKihJevu7A)|2022-08-05|私企|
+|[亚马逊](https:\/\/www.amazon.jobs\/zh\/)|全职（秋季）|[亚马逊中国2023校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/kyHn\_tUs-iXOlfWD\_JnUeg)|2022-08-08|外企|
 |[依图科技](https:\/\/app.mokahr.com\/campus\_apply\/yitu-inc\/3700\#\/)|全职（秋季）|[依图科技【2023届秋季校招】正式启动！](https:\/\/mp.weixin.qq.com\/s\/-XqpFp6Qu\_a8E3Iuck1Wng)|2022-08-05|私企|
 |[鹰角](https:\/\/jobs.hypergryph.com\/campus\_apply\/hypergryph\/26326\#\/)|全职（秋季）|[鹰角网络2023秋季校园招聘正式批招募开启！](https:\/\/mp.weixin.qq.com\/s\/aTusLZxjI-mOleiMj1o5xg)|2022-08-02|私企|
 |[英特尔](https:\/\/chinacampus.jobs.intel.cn\/intel\/home\/index?page=campus)|全职（秋季）|[英特尔中国2023校园招聘“芯”动开启！](https:\/\/mp.weixin.qq.com\/s\/IQoDLc1gvx0LLIfyTmyErw)|2022-06-28|外企|
@@ -128,4 +129,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-08 23:20:25 (UTC+8)
+上次更新于: 2022-08-09 10:50:35 (UTC+8)
