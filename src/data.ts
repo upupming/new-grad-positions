@@ -1125,13 +1125,26 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-	  name: '亚马逊',
-	  website: 'https://www.amazon.jobs/zh/',
-	  type: CompanyType.外企,
+      name: '亚马逊',
+      website: 'https://www.amazon.jobs/zh/',
+      type: CompanyType.外企,
     },
     announcement: {
-	  url: 'https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg',
-	  date: '2022-08-08',
+      url: 'https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg',
+      date: '2022-08-08',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '字节跳动',
+      website: 'https://jobs.bytedance.com/campus/m/position?type=2',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/2xgtgjcDXD4CLl0oEsUFWg',
+      date: '2022-08-10',
     },
   }
 ]
