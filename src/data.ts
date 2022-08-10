@@ -1133,5 +1133,31 @@ export const positions: Position[] = [
 	  url: 'https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg',
 	  date: '2022-08-08',
     },
+  },
+	{
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+	  name: '字节跳动',
+	  website: 'https://job.toutiao.com/campus/?spread=ZHMP9K6',
+	  type: CompanyType.私企,
+    },
+    announcement: {
+	  url: 'https://mp.weixin.qq.com/s/2xgtgjcDXD4CLl0oEsUFWg',
+	  date: '2022-08-10',
+    },
+  },
+	{
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+	  name: '哔哩哔哩',
+	  website: 'https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts',
+	  type: CompanyType.私企,
+    },
+    announcement: {
+	  url: 'https://mp.weixin.qq.com/s/jqwevXb8MJb7tYSZN_lEKQ',
+	  date: '2022-08-10',
+    },
   }
 ]
