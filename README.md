@@ -17,6 +17,7 @@
 |[4399](http:\/\/web.4399.com\/campus\/yjsgw\/cehualei\/)|全职（秋季）|[4399游戏2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/K8OT7G\_MFp3YNV79-f0imw)|2022-08-02|私企|
 |[百度](https:\/\/talent.baidu.com\/external\/baidu\/campus.html\#\/jobList)|全职（秋季）|[AIDU计划启动！百度面向全球招募顶尖技术人才](https:\/\/mp.weixin.qq.com\/s\/v8BVCDofVc5rAAdNzaxvSA)|2022-05-06|私企|
 |[百度](https:\/\/talent.baidu.com\/jobs\/list)|全职（秋季）|[百度2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/jYknxjBSLmRzgS3ralz7hw)|2022-07-14|私企|
+|[哔哩哔哩](https:\/\/jobs.bilibili.com\/campus\/positions?channel=bilibiliaccounts)|全职（秋季）|[哔哩哔哩2023届秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/jqwevXb8MJb7tYSZN\_lEKQ)|2022-08-10|私企|
 |[传音控股](https:\/\/transsion.m.zhiye.com\/xzzw.html)|全职（秋季）|[传音控股2023届全球校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/68OJpWSBQaHFJQ6RkzUB4Q)|2022-07-29|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
@@ -71,6 +72,7 @@
 |[哲库](https:\/\/app.mokahr.com\/campus-recruitment\/zeku)|全职（秋季）|[ZEKU校招 \| 2023届提前批空宣预告](https:\/\/mp.weixin.qq.com\/s\/ZsgT5AhU83c2kGvZe3qDAg)|2022-07-11|私企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
+|[字节跳动](https:\/\/job.toutiao.com\/campus\/?spread=ZHMP9K6)|全职（秋季）|[字节跳动 2023 校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/2xgtgjcDXD4CLl0oEsUFWg)|2022-08-10|私企|
 |[Zoom](https:\/\/www.zoom.us)|全职（秋季）|[Zoom “视界星” 计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/Iq3bxmcYKWH6qK7iQY5\_\_Q)|2022-06-10|私企|
 |[Zoom](https:\/\/www.nowcoder.com\/careers\/zoom\/102351)|全职（秋季）|[Zoom 2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/tlYuYBAUyJuUpF8c5YYCvQ)|2022-07-20|外企|
 
@@ -129,4 +131,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-09 20:34:14 (UTC+8)
+上次更新于: 2022-08-10 23:17:54 (UTC+8)

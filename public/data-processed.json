@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1660048454719,
+  "updatedAt": 1660144674729,
   "positions": [
     {
       "graduationYear": 2023,
@@ -97,6 +97,20 @@
         "url": "https://mp.weixin.qq.com/s/sPc70Ye48FFrDtMWZu3pcQ",
         "date": "2022-04-18",
         "title": "哔哩哔哩游戏2022春季实习招聘 Q&A"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "哔哩哔哩",
+        "website": "https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/jqwevXb8MJb7tYSZN_lEKQ",
+        "date": "2022-08-10",
+        "title": "哔哩哔哩2023届秋季校园招聘正式启动！"
       }
     },
     {
@@ -1147,6 +1161,20 @@
         "url": "https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA",
         "date": "2022-07-07",
         "title": "字节跳动 2023 校园招聘研发提前批正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "字节跳动",
+        "website": "https://job.toutiao.com/campus/?spread=ZHMP9K6",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/2xgtgjcDXD4CLl0oEsUFWg",
+        "date": "2022-08-10",
+        "title": "字节跳动 2023 校园招聘正式启动"
       }
     },
     {
