@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1660144674729,
+  "updatedAt": 1660493329746,
   "positions": [
     {
       "graduationYear": 2023,
@@ -223,6 +223,20 @@
         "url": "https://mp.weixin.qq.com/s/FnzIRYdOxsQKgWq1eKAZFw",
         "date": "2022-07-27",
         "title": "海康威视2023届「启明星」技术达人校园招聘启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "海康威视",
+        "website": "https://campushr.hikvision.com/home",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/fkLtyFYWbwz1NeKk7mRLbA",
+        "date": "2022-08-02",
+        "title": "海康威视2023届全球校园招聘全面启动！"
       }
     },
     {
@@ -1119,6 +1133,20 @@
         "url": "https://mp.weixin.qq.com/s/ZsgT5AhU83c2kGvZe3qDAg",
         "date": "2022-07-11",
         "title": "ZEKU校招 | 2023届提前批空宣预告"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国电信天翼云",
+        "website": "https://ctyun.hotjob.cn",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/-vTinwze72nK42XtnmAmKQ",
+        "date": "2022-08-09",
+        "title": "中国电信天翼云2023届校园招聘正式启动！"
       }
     },
     {

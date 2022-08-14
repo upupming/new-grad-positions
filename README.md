@@ -25,6 +25,7 @@
 |[广汽丰田](https:\/\/gac-toyota.m.zhiye.com\/JobAd\/Info?adid=620661636)|全职（秋季）|[广汽丰田2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/PvxbmUfcCAcpwt9uwZdkfA)|2022-08-01|私企|
 |[海尔](http:\/\/vta.maker.haier.net\/client\/campusmobile\/activity\/id\/18.html)|全职（秋季）|[海尔校招提前批，提前出发啦！](https:\/\/mp.weixin.qq.com\/s?\_\_biz=MzA3MzIzODc5MQ==&mid=2454382623&idx=1&sn=475b256e8ad7a938a55dff45cc69c48b&chksm=88ac5877bfdbd1618f6e52aee10a3b8dc34974e0292606cd9f11a4d6350c9a620cc6bd6dae5d&mpshare=1&scene=23&srcid=0717Ox3q4ushytTiIBASKTe0&sharer\_sharetime=1658048425410&sharer\_shareid=fcdd77543f29b035f162d5e36e4960d9%23rd)|2022-06-06|私企|
 |[海康威视](https:\/\/campushr.hikvision.com\/school.html)|全职（秋季）|[海康威视2023届「启明星」技术达人校园招聘启动](https:\/\/mp.weixin.qq.com\/s\/FnzIRYdOxsQKgWq1eKAZFw)|2022-07-27|私企|
+|[海康威视](https:\/\/campushr.hikvision.com\/home)|全职（秋季）|[海康威视2023届全球校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/fkLtyFYWbwz1NeKk7mRLbA)|2022-08-02|国企|
 |[寒武纪](https:\/\/app.mokahr.com\/campus\_apply\/cambricon\/1112\#\/)|全职（秋季）|[寒武纪2023届夏季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/JToWHkUG7BjHebh7i\_xaqA)|2022-07-29|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为2012实验室2022年顶尖人才招聘公告](https:\/\/mp.weixin.qq.com\/s\/DsiVv7iNy\_02-IBV1Cn4Ew)|2022-06-17|私企|
@@ -70,6 +71,7 @@
 |[英伟达](https:\/\/app.mokahr.com\/campus-recruitment\/nvidia\/47111\#\/)|全职（秋季）|[招人啦\|\|2023届秋招启动咯](https:\/\/mp.weixin.qq.com\/s\/ItFls1KKSHTmHprybXNN-g)|2022-07-11|外企|
 |[招银网络科技](https:\/\/cmbnt.cmbchina.com\/)|全职（秋季）|[招商银行·招银网络科技2023全球校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/p0d4UAeaHZKOlA80qkhs\_w)|2022-08-04|私企|
 |[哲库](https:\/\/app.mokahr.com\/campus-recruitment\/zeku)|全职（秋季）|[ZEKU校招 \| 2023届提前批空宣预告](https:\/\/mp.weixin.qq.com\/s\/ZsgT5AhU83c2kGvZe3qDAg)|2022-07-11|私企|
+|[中国电信天翼云](https:\/\/ctyun.hotjob.cn)|全职（秋季）|[中国电信天翼云2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/-vTinwze72nK42XtnmAmKQ)|2022-08-09|国企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
 |[字节跳动](https:\/\/job.toutiao.com\/campus\/?spread=ZHMP9K6)|全职（秋季）|[字节跳动 2023 校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/2xgtgjcDXD4CLl0oEsUFWg)|2022-08-10|私企|
@@ -131,4 +133,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-10 23:17:54 (UTC+8)
+上次更新于: 2022-08-15 00:08:49 (UTC+8)
