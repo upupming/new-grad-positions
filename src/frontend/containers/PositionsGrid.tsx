@@ -48,7 +48,7 @@ export const PositionsGrid: React.FC<PositionsGridProps> = ({ positions, }) => {
           ref={searchRef}
           onKeyDown={(e) => {
             if (e.key === 'Enter') {
-              searchRef.current?.value && setFilters(searchRef.current.value.split(' ').filter(Boolean))
+              searchRef.current && setFilters(searchRef.current.value.split(' ').filter(Boolean))
             }
           }}
           className='max-w-150'
