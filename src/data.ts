@@ -1086,6 +1086,32 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '中国电信天翼云',
+      website: 'https://ctyun.hotjob.cn',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/-vTinwze72nK42XtnmAmKQ',
+      date: '2022-08-09',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '海康威视',
+      website: 'https://campushr.hikvision.com/home',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/fkLtyFYWbwz1NeKk7mRLbA',
+      date: '2022-08-02',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '4399',
       website: 'http://web.4399.com/campus/yjsgw/cehualei/',
       type: CompanyType.私企,
@@ -1134,7 +1160,7 @@ export const positions: Position[] = [
 	  date: '2022-08-08',
     },
   },
-	{
+  {
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
@@ -1147,7 +1173,7 @@ export const positions: Position[] = [
 	  date: '2022-08-10',
     },
   },
-	{
+  {
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
