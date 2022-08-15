@@ -3,6 +3,8 @@ import { PositionRefined } from '../../data'
 
 import IconEmployeeType from '~icons/clarity/employee-line'
 import IconCalendar from '~icons/material-symbols/calendar-month-outline-rounded'
+import IconCopy from '~icons/material-symbols/content-copy'
+import IconSuccess from '~icons/icon-park-outline/correct'
 import IconGraduation from '~icons/ph/graduation-cap'
 import IconStarBorder from '~icons/ic/baseline-star-border'
 import IconStarSolid from '~icons/ic/baseline-star'
@@ -17,6 +19,7 @@ export interface PositionCardProps {
 
 export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, setStared, notes, updateNotes, }) => {
   const [modelOpen, setModelOpen] = React.useState(false)
+  const [copied, setCopied] = React.useState(false)
 
   return (
     <>
@@ -38,21 +41,48 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
               <div className='text-2xl font-bold'>{position.company.name}</div>
             </a>
           </div>
-          {stared
-            ? <IconStarSolid
-                className='text-2xl text-themeable-cyan cursor-pointer transform hover:scale-125 transition-transform hover:text-themeable-cyan'
-                onClick={(e) => {
-                  setStared(false)
-                  e.stopPropagation()
-                }}
-              />
-            : <IconStarBorder
-                className='text-2xl cursor-pointer transform hover:scale-125 transition-transform hover:text-themeable-cyan'
-                onClick={(e) => {
-                  setStared(true)
-                  e.stopPropagation()
-                }}
-              />}
+          <div className='flex items-center space-x-4'>
+            <div title='复制职位信息'>
+              {
+              copied
+                ? <IconSuccess className='transform hover:scale-125 transition-all' />
+                : <IconCopy
+                    // eslint-disable-next-line @typescript-eslint/no-misused-promises
+                    className='transform scale-125 hover:scale-150 transition-all' onClick={(e) => {
+                      navigator.clipboard.writeText(`
+${position.company.name}: ${position.company.website}
+${position.announcement.title}: ${position.announcement.url}
+${position.graduationYear} ${position.type}
+前往 https://upupming.site/new-grad-positions/ 查看所有职位
+                      `.trim()).then(() => {
+                        setCopied(true)
+                        setTimeout(() => {
+                          setCopied(false)
+                        }, 1000)
+                      }).catch(() => {})
+                      e.stopPropagation()
+                    }}
+                  />
+            }
+            </div>
+            <div title='收藏职位'>
+              {stared
+                ? <IconStarSolid
+                    className='text-2xl text-themeable-cyan cursor-pointer transform hover:scale-125 transition-transform hover:text-themeable-cyan'
+                    onClick={(e) => {
+                      setStared(false)
+                      e.stopPropagation()
+                    }}
+                  />
+                : <IconStarBorder
+                    className='text-2xl cursor-pointer transform hover:scale-125 transition-transform hover:text-themeable-cyan'
+                    onClick={(e) => {
+                      setStared(true)
+                      e.stopPropagation()
+                    }}
+                  />}
+            </div>
+          </div>
         </div>
         <div>
           <a href={position.announcement.url} rel='nofollow noreferrer' target='_blank' onClick={(e) => e.stopPropagation()}>

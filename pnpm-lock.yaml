@@ -4,6 +4,7 @@ specifiers:
   '@iconify-json/carbon': 1.0.8
   '@iconify-json/clarity': 1.1.4
   '@iconify-json/ic': 1.1.7
+  '@iconify-json/icon-park-outline': 1.1.5
   '@iconify-json/material-symbols': 1.1.10
   '@iconify-json/mdi': 1.0.7
   '@iconify-json/ph': 1.1.2
@@ -50,6 +51,7 @@ devDependencies:
   '@iconify-json/carbon': 1.0.8
   '@iconify-json/clarity': 1.1.4
   '@iconify-json/ic': 1.1.7
+  '@iconify-json/icon-park-outline': 1.1.5
   '@iconify-json/material-symbols': 1.1.10
   '@iconify-json/mdi': 1.0.7
   '@iconify-json/ph': 1.1.2
@@ -377,6 +379,12 @@ packages:
 
   /@iconify-json/ic/1.1.7:
     resolution: {integrity: sha512-CYwkhja02SZoevezNHSqM7d1lpsRJxKt9fzvn3MpRxI8s2v3LNmhGiD/bTq3uFgqQMRPp+OnD+OOjHrMo7ah1g==}
+    dependencies:
+      '@iconify/types': 1.1.0
+    dev: true
+
+  /@iconify-json/icon-park-outline/1.1.5:
+    resolution: {integrity: sha512-OINrvalE6fo5rtVdCkI5VU5wka+DV0VV7Yrweh7WXDUgSeh1rdQ9v8KmePE+M/0J+NTXoCeq7nKTE+R33Vrqiw==}
     dependencies:
       '@iconify/types': 1.1.0
     dev: true

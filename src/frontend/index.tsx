@@ -60,16 +60,11 @@ function Footer () {
   )
 }
 
+// 加载 App 时, 网页外观跟随用户系统设置
+const defaultTheme = window.matchMedia?.('(prefers-color-scheme: dark)').matches ? 'dracula' : 'material'
+
 function App () {
-  const [theme, setTheme] = React.useState<Theme>('dracula')
-  // 加载 App 时, 网页外观跟随用户系统设置
-  useEffect(() => {
-    if (window.matchMedia?.('(prefers-color-scheme: dark)').matches) {
-      setTheme('dracula')
-    } else {
-      setTheme('material')
-    }
-  }, [])
+  const [theme, setTheme] = React.useState<Theme>(defaultTheme)
 
   return (
     <div className={`flex flex-col bg-themeable-background h-screen text-themeable-foreground themeable-${theme} overflow-scroll`}>
