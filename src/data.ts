@@ -1151,39 +1151,65 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-	  name: '亚马逊',
-	  website: 'https://www.amazon.jobs/zh/',
-	  type: CompanyType.外企,
+      name: '亚马逊',
+      website: 'https://www.amazon.jobs/zh/',
+      type: CompanyType.外企,
     },
     announcement: {
-	  url: 'https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg',
-	  date: '2022-08-08',
+      url: 'https://mp.weixin.qq.com/s/kyHn_tUs-iXOlfWD_JnUeg',
+      date: '2022-08-08',
     },
   },
   {
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-	  name: '字节跳动',
-	  website: 'https://job.toutiao.com/campus/?spread=ZHMP9K6',
-	  type: CompanyType.私企,
+      name: '字节跳动',
+      website: 'https://job.toutiao.com/campus/?spread=ZHMP9K6',
+      type: CompanyType.私企,
     },
     announcement: {
-	  url: 'https://mp.weixin.qq.com/s/2xgtgjcDXD4CLl0oEsUFWg',
-	  date: '2022-08-10',
+      url: 'https://mp.weixin.qq.com/s/2xgtgjcDXD4CLl0oEsUFWg',
+      date: '2022-08-10',
     },
   },
   {
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-	  name: '哔哩哔哩',
-	  website: 'https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts',
-	  type: CompanyType.私企,
+      name: '哔哩哔哩',
+      website: 'https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts',
+      type: CompanyType.私企,
     },
     announcement: {
-	  url: 'https://mp.weixin.qq.com/s/jqwevXb8MJb7tYSZN_lEKQ',
-	  date: '2022-08-10',
+      url: 'https://mp.weixin.qq.com/s/jqwevXb8MJb7tYSZN_lEKQ',
+      date: '2022-08-10',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '阿里巴巴',
+      website: 'https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Ftalent.alibaba.com%2Fcampus%2Fhome',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/icpSIIt0Z_oxJqNc8w3AEw',
+      date: '2022-08-18',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '小米',
+      website: 'https://hr.xiaomi.com/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/HRdoNhsIs6HcFPDgd_dwBQ',
+      date: '2022-08-18',
     },
   }
 ]
