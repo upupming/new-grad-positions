@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1660493329746,
+  "updatedAt": 1660803334630,
   "positions": [
     {
       "graduationYear": 2023,
@@ -41,6 +41,20 @@
         "url": "https://mp.weixin.qq.com/s/ImsLgsFI5o28pjWJObqDFg",
         "date": "2022-02-28",
         "title": "阿里巴巴春季2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "阿里巴巴",
+        "website": "https://mp.weixinbridge.com/mp/wapredirect?url=https%3A%2F%2Ftalent.alibaba.com%2Fcampus%2Fhome",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/icpSIIt0Z_oxJqNc8w3AEw",
+        "date": "2022-08-18",
+        "title": "阿里巴巴秋季2023届校园招聘正式启动！"
       }
     },
     {
@@ -1021,6 +1035,20 @@
         "url": "https://mp.weixin.qq.com/s/u-8NOL8K65LAridlAEwJLw",
         "date": "2022-04-19",
         "title": "小米春季实习生宣讲会最全预告！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小米",
+        "website": "https://hr.xiaomi.com/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/HRdoNhsIs6HcFPDgd_dwBQ",
+        "date": "2022-08-18",
+        "title": "小米集团2023全球校园招聘全面启动"
       }
     },
     {
