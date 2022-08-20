@@ -45,10 +45,10 @@ export const PositionCard: React.FC<PositionCardProps> = ({ position, stared, se
             <div title='复制职位信息'>
               {
               copied
-                ? <IconSuccess className='transform hover:scale-125 transition-all' />
+                ? <IconSuccess className='transform scale-125' />
                 : <IconCopy
                     // eslint-disable-next-line @typescript-eslint/no-misused-promises
-                    className='transform scale-125 hover:scale-150 transition-all' onClick={(e) => {
+                    className='transform scale-125' onClick={(e) => {
                       navigator.clipboard.writeText(`
 ${position.company.name}: ${position.company.website}
 ${position.announcement.title}: ${position.announcement.url}
@@ -68,14 +68,14 @@ ${position.graduationYear} ${position.type}
             <div title='收藏职位'>
               {stared
                 ? <IconStarSolid
-                    className='text-2xl text-themeable-cyan cursor-pointer transform hover:scale-125 transition-transform hover:text-themeable-cyan'
+                    className='text-2xl text-themeable-cyan cursor-pointer hover:text-themeable-cyan'
                     onClick={(e) => {
                       setStared(false)
                       e.stopPropagation()
                     }}
                   />
                 : <IconStarBorder
-                    className='text-2xl cursor-pointer transform hover:scale-125 transition-transform hover:text-themeable-cyan'
+                    className='text-2xl cursor-pointer hover:text-themeable-cyan'
                     onClick={(e) => {
                       setStared(true)
                       e.stopPropagation()
