@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1660803334630,
+  "updatedAt": 1661225904188,
   "positions": [
     {
       "graduationYear": 2023,
@@ -993,6 +993,20 @@
         "url": "https://mp.weixin.qq.com/s/EKzJkrnZ9INSIqLJ7Z70QQ",
         "date": "2022-07-19",
         "title": "小红书REDstar顶尖技术人才招聘计划正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "小红书",
+        "website": "https://job.xiaohongshu.com/m/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/6IM9XkgfLCEU9BAPGbjz4g",
+        "date": "2022-08-22",
+        "title": "小红书2023届校园招聘正式启动！"
       }
     },
     {

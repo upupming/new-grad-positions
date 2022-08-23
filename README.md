@@ -64,6 +64,7 @@
 |[蔚来](https:\/\/campus.nio.com\/\#\/)|全职（秋季）|[校招 \| 蔚来2023届校园招募正式启动](https:\/\/mp.weixin.qq.com\/s\/RBfwJuyO6rQaeO4MRt1Oaw)|2022-08-01|私企|
 |[微软](https:\/\/careers.microsoft.com\/)|全职（秋季）|[校招\|微软2023校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/xVcUSUdsKprCVf6xHor-Rg)|2022-08-01|外企|
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书REDstar顶尖技术人才招聘计划正式启动！](https:\/\/mp.weixin.qq.com\/s\/EKzJkrnZ9INSIqLJ7Z70QQ)|2022-07-19|私企|
+|[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/6IM9XkgfLCEU9BAPGbjz4g)|2022-08-22|私企|
 |[小马智行](https:\/\/app.mokahr.com\/campus-recruitment\/pony\/42966\/)|全职（秋季）|[小马智行Pony.ai 2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/\_vGUVFolSYJCDKihJevu7A)|2022-08-05|私企|
 |[小米](https:\/\/hr.xiaomi.com\/campus)|全职（秋季）|[小米集团2023全球校园招聘全面启动](https:\/\/mp.weixin.qq.com\/s\/HRdoNhsIs6HcFPDgd\_dwBQ)|2022-08-18|私企|
 |[亚马逊](https:\/\/www.amazon.jobs\/zh\/)|全职（秋季）|[亚马逊中国2023校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/kyHn\_tUs-iXOlfWD\_JnUeg)|2022-08-08|外企|
@@ -135,4 +136,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-18 14:15:34 (UTC+8)
+上次更新于: 2022-08-23 11:38:24 (UTC+8)
