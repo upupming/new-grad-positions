@@ -1211,5 +1211,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/HRdoNhsIs6HcFPDgd_dwBQ',
       date: '2022-08-18',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '小红书',
+      website: 'https://job.xiaohongshu.com/m/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/6IM9XkgfLCEU9BAPGbjz4g',
+      date: '2022-08-22',
+    },
   }
 ]
