@@ -69,7 +69,7 @@ async function main () {
     const refinedPositions: PositionRefined[] = []
     const urls = positions.map(p => p.announcement.url)
     const titles = []
-    const poolSize = 40
+    const poolSize = 20
     for (let i = 0; i < urls.length; i += poolSize) {
       titles.push(...await Promise.all(urls.slice(i, i + poolSize).map(getTitleFromUrl)))
     }

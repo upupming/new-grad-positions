@@ -1276,5 +1276,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/vt76qeBy9YEQ-Yoj7acmYg',
       date: '2022-08-24',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '佳期投资',
+      website: 'https://www.jqinvestments.com/careers',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/vJfNh3PdKM_XtrKtYWf9og',
+      date: '2022-08-24',
+    },
   }
 ]
