@@ -59,6 +59,7 @@
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
 |[腾讯音乐](https:\/\/join.tencentmusic.com\/campus\/)|全职（秋季）|[腾讯音乐娱乐集团2023校园招聘全球启动](https:\/\/mp.weixin.qq.com\/s\/dE28r8lUsWoP4OfNzSCMOg)|2022-08-22|私企|
 |[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届提前批校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/iWWqaU4dtpeq535dyQqpfw)|2022-05-27|私企|
+|[TP-LINK](https:\/\/hr.tp-link.com.cn\/)|全职（秋季）|[TP-LINK 2023届秋季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/vt76qeBy9YEQ-Yoj7acmYg)|2022-08-24|私企|
 |[完美世界](https:\/\/jobs.games.wanmei.com\/school.html)|全职（秋季）|[完美世界2023届秋季全球校园招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/4YNUK5Wa0pVCPZOqr8tNFQ)|2022-08-02|私企|
 |[网易互联网](https:\/\/campus.163.com\/app\/net\/position)|全职（秋季）|[网易互联网2023届秋季校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/FvhPCULRXmw-04gF4bpnaQ)|2022-08-02|私企|
 |[网易游戏互娱](https:\/\/game.campus.163.com\/position\/12\/?sc=1)|全职（秋季）|[网易游戏（互娱）2023校园招聘启动！](https:\/\/mp.weixin.qq.com\/s\/6ATQsmddGiJ3wRRlfxncuw)|2022-07-26|私企|
@@ -139,4 +140,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-24 14:10:43 (UTC+8)
+上次更新于: 2022-08-24 14:55:37 (UTC+8)
