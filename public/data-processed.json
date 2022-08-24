@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1661225904188,
+  "updatedAt": 1661321443961,
   "positions": [
     {
       "graduationYear": 2023,
@@ -55,6 +55,20 @@
         "url": "https://mp.weixin.qq.com/s/icpSIIt0Z_oxJqNc8w3AEw",
         "date": "2022-08-18",
         "title": "阿里巴巴秋季2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Akuna Capital",
+        "website": "https://akunacapital.com/careers#careers",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/WIOlc2eBGrfmMUstKAHZ4A",
+        "date": "2022-08-19",
+        "title": "2023 Akuna Capital校园招聘正式启动！"
       }
     },
     {
@@ -661,6 +675,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "OPPO",
+        "website": "https://careers.oppo.com/campus",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/Ft9yhpIXsI0Uxi6R8yR79A",
+        "date": "2022-08-19",
+        "title": "OPPO 2023届全球校园招聘启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "Paypal",
@@ -825,6 +853,20 @@
         "url": "https://mp.weixin.qq.com/s/qlHPELwiYya9LzuZg51ucQ",
         "date": "2022-03-22",
         "title": "腾讯音乐娱乐集团2022暑期实习生招聘全球启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "腾讯音乐",
+        "website": "https://join.tencentmusic.com/campus/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/dE28r8lUsWoP4OfNzSCMOg",
+        "date": "2022-08-22",
+        "title": "腾讯音乐娱乐集团2023校园招聘全球启动"
       }
     },
     {
