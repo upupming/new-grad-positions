@@ -37,6 +37,7 @@
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为计算产品线面向全球招募天才少年](https:\/\/mp.weixin.qq.com\/s\/a-C-P-d1xBVdVy6meoe0cQ)|2022-05-07|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为计算产品线2023届顶尖招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/EhaRtWKqXLfJ975RSAewJg)|2022-06-16|私企|
 |[吉利](https:\/\/campus.geely.com)|全职（秋季）|[吉利 2023 全球校园招聘全面启动！快和杨倩一起成为吉利同路人~](https:\/\/mp.weixin.qq.com\/s\/-6LYDJ\_3QxBu0BP\_aLaWmQ)|2022-08-01|私企|
+|[佳期投资](https:\/\/www.jqinvestments.com\/careers)|全职（秋季）|[佳期投资2023年全球招聘正式开启！](https:\/\/mp.weixin.qq.com\/s\/vJfNh3PdKM\_XtrKtYWf9og)|2022-08-24|私企|
 |[交通银行](https:\/\/job.bankcomm.com\/)|全职（秋季）|[交通银行2023校园招聘火热启动！](https:\/\/mp.weixin.qq.com\/s\/G-lmDqlsW1yblApEyHlcsw)|2022-08-08|国企|
 |[京东](https:\/\/campus.jd.com\/api\/wx\/position\/index?type=present)|全职（秋季）|[寻找燃力「实」足的你｜京东2023校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/MS\_iH\_osZOxmcuniIFd2ig)|2022-08-01|私企|
 |[九坤投资](https:\/\/app.mokahr.com\/campus\_apply\/ubiquantrecruit)|全职（秋季）|[九坤投资2023校园招聘“梧桐计划”技术类提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/eNYYzfsueVxBXKwH\_Dk7kg)|2022-07-01|私企|
@@ -140,4 +141,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-24 14:55:37 (UTC+8)
+上次更新于: 2022-08-24 15:59:27 (UTC+8)

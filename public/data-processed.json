@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1661324137863,
+  "updatedAt": 1661327967653,
   "positions": [
     {
       "graduationYear": 2023,
@@ -419,6 +419,20 @@
         "url": "https://mp.weixin.qq.com/s/-6LYDJ_3QxBu0BP_aLaWmQ",
         "date": "2022-08-01",
         "title": "吉利 2023 全球校园招聘全面启动！快和杨倩一起成为吉利同路人~"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "佳期投资",
+        "website": "https://www.jqinvestments.com/careers",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/vJfNh3PdKM_XtrKtYWf9og",
+        "date": "2022-08-24",
+        "title": "佳期投资2023年全球招聘正式开启！"
       }
     },
     {
