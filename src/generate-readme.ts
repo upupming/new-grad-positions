@@ -7,10 +7,6 @@ import { compare } from 'pinyin'
 import { getHash, getTimeStringAtTimeZone } from './util'
 
 async function main () {
-  const browser = await puppeteer.launch({
-    executablePath: Launcher.getInstallations()[0],
-  })
-
   try {
     await checkIntegrity(positions)
 
@@ -22,21 +18,30 @@ async function main () {
 
     await generateReadme(positionsRefined)
   } finally {
-    await browser?.close()
+    //
   }
 
   async function getTitleFromUrl (url: string): Promise<string> {
-    let browser: Browser | null = await puppeteer.launch({
-      executablePath: Launcher.getInstallations()[0],
-    })
-    console.log(`Get title of url: ${url} ...`)
-    let title: JSHandle<string>
+    let browser: Browser | null = null
+    let title: JSHandle<string | undefined>
     try {
+      browser = await puppeteer.launch({
+        executablePath: Launcher.getInstallations()[0],
+        timeout: 5000,
+      })
+      console.log(`Get title of url: ${url} ...`)
       const page = await browser.newPage()
       await page.goto(url, {
         waitUntil: 'domcontentloaded',
       })
-      title = await page.waitForFunction("document.querySelector('title')?.innerText")
+      title = await page.waitForFunction(() => {
+        return document.querySelector('title')?.innerText
+      })
+
+      if (title == null) {
+        throw new Error(`Failed to get title from url: ${url}`)
+      }
+      return await title.jsonValue()
     } catch (err) {
       console.log(`遇到错误 ${(err as Error).message ?? '未知错误'}，重试中...`)
       await browser?.close()
@@ -46,11 +51,6 @@ async function main () {
       await browser?.close()
       browser = null
     }
-
-    if (title == null) {
-      throw new Error(`Failed to get title from url: ${url}`)
-    }
-    return (await title.jsonValue())
   }
 
   async function checkIntegrity (positions: Position[]) {
@@ -69,7 +69,7 @@ async function main () {
     const refinedPositions: PositionRefined[] = []
     const urls = positions.map(p => p.announcement.url)
     const titles = []
-    const poolSize = 10
+    const poolSize = 40
     for (let i = 0; i < urls.length; i += poolSize) {
       titles.push(...await Promise.all(urls.slice(i, i + poolSize).map(getTitleFromUrl)))
     }

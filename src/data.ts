@@ -1224,5 +1224,44 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/6IM9XkgfLCEU9BAPGbjz4g',
       date: '2022-08-22',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'OPPO',
+      website: 'https://careers.oppo.com/campus',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/Ft9yhpIXsI0Uxi6R8yR79A',
+      date: '2022-08-19',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Akuna Capital',
+      website: 'https://akunacapital.com/careers#careers',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/WIOlc2eBGrfmMUstKAHZ4A',
+      date: '2022-08-19',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '腾讯音乐',
+      website: 'https://join.tencentmusic.com/campus/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/dE28r8lUsWoP4OfNzSCMOg',
+      date: '2022-08-22',
+    },
   }
 ]
