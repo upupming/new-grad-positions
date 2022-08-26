@@ -1289,5 +1289,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/vJfNh3PdKM_XtrKtYWf9og',
       date: '2022-08-24',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Hulu',
+      website: 'https://chinajobs.disneycareers.cn/%e6%b1%82%e8%81%8c/hulu/3333/1?glat=40.73569869995117&glon=-74.17240142822266',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/wHOlSyjl63B7mybQn0DUyQ',
+      date: '2022-08-26',
+    },
   }
 ]
