@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1661327967653,
+  "updatedAt": 1661516835438,
   "positions": [
     {
       "graduationYear": 2023,
@@ -405,6 +405,20 @@
         "url": "https://mp.weixin.qq.com/s/RyvQZPNZJUQto3hFcwLKgQ",
         "date": "2022-02-25",
         "title": "Hulu 2022暑期实习项目招聘来啦"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Hulu",
+        "website": "https://chinajobs.disneycareers.cn/%e6%b1%82%e8%81%8c/hulu/3333/1?glat=40.73569869995117&glon=-74.17240142822266",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/wHOlSyjl63B7mybQn0DUyQ",
+        "date": "2022-08-26",
+        "title": "2023 Hulu/Disney Streaming与广告北京研发中心秋季校园招聘开始啦！"
       }
     },
     {
