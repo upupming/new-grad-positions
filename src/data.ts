@@ -1302,5 +1302,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/wHOlSyjl63B7mybQn0DUyQ',
       date: '2022-08-26',
     },
+  }，
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '中国中铁广州局',
+      website: 'http://www.crecg.com/web/10089120/index.html',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/F5VAJYplPZY2_hCREAbJUw',
+      date: '2022-08-31',
+    },
   }
 ]
