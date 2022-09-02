@@ -1315,5 +1315,44 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/F5VAJYplPZY2_hCREAbJUw',
       date: '2022-08-31',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '高通',
+      website: 'https://nowpick.nowcoder.com/w/company-project?dockSourceProjectId=106936',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/9nLxqfUHnrkKDkf6hoT3mw',
+      date: '2022-08-31',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'PayPal',
+      website: 'https://paypal.eightfold.ai/careers?query=Recent%20Graduate&location=Shanghai%2C%20Shanghai%2C%20China&pid=274889961056&domain=paypal.com&triggerGoButton=true',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/yvIcZfXbTaJmv5tXaO4MHw',
+      date: '2022-07-01',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'eBay',
+      website: 'https://jobs.ebayinc.com/search-jobs/2023%20RCG/403/1',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/h_rQsW6VP9x16-BQKwD9CA',
+      date: '2022-09-01',
+    },
   }
 ]
