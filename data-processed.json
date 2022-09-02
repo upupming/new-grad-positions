@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1662086435171,
+  "updatedAt": 1662092888915,
   "positions": [
     {
       "graduationYear": 2023,
@@ -195,6 +195,34 @@
         "url": "https://mp.weixin.qq.com/s/jPDFWeTp6iajfoSmivBqIA",
         "date": "2022-07-28",
         "title": "上场，与世界交手 | 地平线2023届秋季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "eBay",
+        "website": "https://jobs.ebayinc.com/search-jobs/2023%20RCG/403/1",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/h_rQsW6VP9x16-BQKwD9CA",
+        "date": "2022-09-01",
+        "title": "2023eBay校园招聘正式启动！ 加入我们创造你的亿倍可能！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "高通",
+        "website": "https://nowpick.nowcoder.com/w/company-project?dockSourceProjectId=106936",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/9nLxqfUHnrkKDkf6hoT3mw",
+        "date": "2022-08-31",
+        "title": "高通2023届校园招聘正式启动！邀你一起创想未来"
       }
     },
     {
@@ -727,6 +755,20 @@
         "url": "https://mp.weixin.qq.com/s/qRd_flyPkWD8XS5UB-8X4A",
         "date": "2022-03-18",
         "title": "PayPal 2022暑期实习正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "PayPal",
+        "website": "https://paypal.eightfold.ai/careers?query=Recent%20Graduate&location=Shanghai%2C%20Shanghai%2C%20China&pid=274889961056&domain=paypal.com&triggerGoButton=true",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/yvIcZfXbTaJmv5tXaO4MHw",
+        "date": "2022-07-01",
+        "title": "校招 | 除了Offer, PayPal还能给你什么？"
       }
     },
     {
