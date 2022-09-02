@@ -24,6 +24,8 @@
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/inspiration)|全职（秋季）|[大疆创新 2023 “无疆者”大咖计划启动](https:\/\/mp.weixin.qq.com\/s\/gWHyYIJPucWhV46OuVhj3Q)|2022-05-05|私企|
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
 |[地平线](https:\/\/horizon.hotjob.cn\/)|全职（秋季）|[上场，与世界交手 \| 地平线2023届秋季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/jPDFWeTp6iajfoSmivBqIA)|2022-07-28|私企|
+|[eBay](https:\/\/jobs.ebayinc.com\/search-jobs\/2023%20RCG\/403\/1)|全职（秋季）|[2023eBay校园招聘正式启动！ 加入我们创造你的亿倍可能！](https:\/\/mp.weixin.qq.com\/s\/h\_rQsW6VP9x16-BQKwD9CA)|2022-09-01|外企|
+|[高通](https:\/\/nowpick.nowcoder.com\/w\/company-project?dockSourceProjectId=106936)|全职（秋季）|[高通2023届校园招聘正式启动！邀你一起创想未来](https:\/\/mp.weixin.qq.com\/s\/9nLxqfUHnrkKDkf6hoT3mw)|2022-08-31|外企|
 |[广汽丰田](https:\/\/gac-toyota.m.zhiye.com\/JobAd\/Info?adid=620661636)|全职（秋季）|[广汽丰田2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/PvxbmUfcCAcpwt9uwZdkfA)|2022-08-01|私企|
 |[海尔](http:\/\/vta.maker.haier.net\/client\/campusmobile\/activity\/id\/18.html)|全职（秋季）|[海尔校招提前批，提前出发啦！](https:\/\/mp.weixin.qq.com\/s?\_\_biz=MzA3MzIzODc5MQ==&mid=2454382623&idx=1&sn=475b256e8ad7a938a55dff45cc69c48b&chksm=88ac5877bfdbd1618f6e52aee10a3b8dc34974e0292606cd9f11a4d6350c9a620cc6bd6dae5d&mpshare=1&scene=23&srcid=0717Ox3q4ushytTiIBASKTe0&sharer\_sharetime=1658048425410&sharer\_shareid=fcdd77543f29b035f162d5e36e4960d9%23rd)|2022-06-06|私企|
 |[海康威视](https:\/\/campushr.hikvision.com\/school.html)|全职（秋季）|[海康威视2023届「启明星」技术达人校园招聘启动](https:\/\/mp.weixin.qq.com\/s\/FnzIRYdOxsQKgWq1eKAZFw)|2022-07-27|私企|
@@ -52,6 +54,7 @@
 |[Momenta](https:\/\/momenta.jobs.feishu.cn\/campus)|全职（秋季）|[Momenta 2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/p4\_Uo90ulqh53nPvrhXvuw)|2022-07-29|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届校园招聘提前批专场启动](https:\/\/mp.weixin.qq.com\/s\/9qwR91Zq9kYAuCzalQa\_yQ)|2022-07-01|私企|
 |[OPPO](https:\/\/careers.oppo.com\/campus)|全职（秋季）|[OPPO 2023届全球校园招聘启动！](https:\/\/mp.weixin.qq.com\/s\/Ft9yhpIXsI0Uxi6R8yR79A)|2022-08-19|私企|
+|[PayPal](https:\/\/paypal.eightfold.ai\/careers?query=Recent%20Graduate&location=Shanghai%2C%20Shanghai%2C%20China&pid=274889961056&domain=paypal.com&triggerGoButton=true)|全职（秋季）|[校招 \| 除了Offer, PayPal还能给你什么？](https:\/\/mp.weixin.qq.com\/s\/yvIcZfXbTaJmv5tXaO4MHw)|2022-07-01|外企|
 |[去哪儿旅行](https:\/\/campus.qunar.com)|全职（秋季）|[去哪儿旅行2023届校园招聘火热开启](https:\/\/mp.weixin.qq.com\/s\/srsxEdf-RPlKFTaHKq\_dWQ)|2022-08-05|私企|
 |[荣耀](https:\/\/career.hihonor.com\/SU60eea919bef57c1023f6fe78\/pb\/school.html)|全职（秋季）|[校招 \| 荣耀2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/G\_Z\_vVqvSux3xN264mEu-A)|2022-07-26|私企|
 |[深信服科技](https:\/\/hr.sangfor.com\/)|全职（秋季）|[深信服2023届校园招聘提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/cma6-0jtb2uXFRV00aAf4g)|2022-07-25|私企|
@@ -143,4 +146,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-09-02 10:40:35 (UTC+8)
+上次更新于: 2022-09-02 12:28:08 (UTC+8)
