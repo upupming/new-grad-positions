@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1661516835438,
+  "updatedAt": 1662086435171,
   "positions": [
     {
       "graduationYear": 2023,
@@ -1273,6 +1273,20 @@
         "url": "https://mp.weixin.qq.com/s/-vTinwze72nK42XtnmAmKQ",
         "date": "2022-08-09",
         "title": "中国电信天翼云2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国中铁广州局",
+        "website": "http://www.crecg.com/web/10089120/index.html",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/F5VAJYplPZY2_hCREAbJUw",
+        "date": "2022-08-31",
+        "title": "央企校招 | 世界500强！中铁广州局2023届校园招聘正式启动"
       }
     },
     {

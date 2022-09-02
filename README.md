@@ -81,6 +81,7 @@
 |[招银网络科技](https:\/\/cmbnt.cmbchina.com\/)|全职（秋季）|[招商银行·招银网络科技2023全球校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/p0d4UAeaHZKOlA80qkhs\_w)|2022-08-04|私企|
 |[哲库](https:\/\/app.mokahr.com\/campus-recruitment\/zeku)|全职（秋季）|[ZEKU校招 \| 2023届提前批空宣预告](https:\/\/mp.weixin.qq.com\/s\/ZsgT5AhU83c2kGvZe3qDAg)|2022-07-11|私企|
 |[中国电信天翼云](https:\/\/ctyun.hotjob.cn)|全职（秋季）|[中国电信天翼云2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/-vTinwze72nK42XtnmAmKQ)|2022-08-09|国企|
+|[中国中铁广州局](http:\/\/www.crecg.com\/web\/10089120\/index.html)|全职（秋季）|[央企校招 \| 世界500强！中铁广州局2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/F5VAJYplPZY2\_hCREAbJUw)|2022-08-31|国企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
 |[字节跳动](https:\/\/job.toutiao.com\/campus\/?spread=ZHMP9K6)|全职（秋季）|[字节跳动 2023 校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/2xgtgjcDXD4CLl0oEsUFWg)|2022-08-10|私企|
@@ -142,4 +143,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-08-26 20:27:15 (UTC+8)
+上次更新于: 2022-09-02 10:40:35 (UTC+8)
