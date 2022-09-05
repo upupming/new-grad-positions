@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1662092888915,
+  "updatedAt": 1662372536777,
   "positions": [
     {
       "graduationYear": 2023,
@@ -619,6 +619,20 @@
     },
     {
       "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "龙湖集团",
+        "website": "https://app.mokahr.com/campus-recruitment/longfor/74084#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/2hbzUsyYZC57WAm-GiVm_Q",
+        "date": "2022-08-09",
+        "title": "龙湖集团2023届仕官生校园招聘火热开启！"
+      }
+    },
+    {
+      "graduationYear": 2023,
       "type": "实习生",
       "company": {
         "name": "美的",
@@ -783,6 +797,20 @@
         "url": "https://mp.weixin.qq.com/s/y1EdX-Q4gYsq1XZSMZdQTA",
         "date": "2022-03-24",
         "title": "Apple 校园春招开启，虚位以待。"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "苹果",
+        "website": "https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP+apple-store-STDNT-ASTR&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/D80tvKArO9CecDVsccISCQ",
+        "date": "2022-09-05",
+        "title": "Apple 校园秋招正式开启。"
       }
     },
     {
@@ -1315,6 +1343,20 @@
         "url": "https://mp.weixin.qq.com/s/-vTinwze72nK42XtnmAmKQ",
         "date": "2022-08-09",
         "title": "中国电信天翼云2023届校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国人寿",
+        "website": "https://chinalife.hotjob.cn/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/iqj6TjEKQDiVikFl77JQXw",
+        "date": "2022-08-24",
+        "title": "中国人寿2023年度校园招聘金融科技类提前批启动"
       }
     },
     {
