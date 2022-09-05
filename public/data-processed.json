@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1662372536777,
+  "updatedAt": 1662382307740,
   "positions": [
     {
       "graduationYear": 2023,
@@ -1007,6 +1007,20 @@
         "url": "https://mp.weixin.qq.com/s/fjOf8A5SoGu7frDSH7uAUA",
         "date": "2022-03-14",
         "title": "图森未来2022春季校园招聘全面启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Unity",
+        "website": "https://unity.cn/campus",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/QT7Ja_aqMm1yhyx2RNnHHg",
+        "date": "2022-08-31",
+        "title": "Unity中国2023校园招聘正式启动"
       }
     },
     {
