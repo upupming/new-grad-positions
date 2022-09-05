@@ -1380,5 +1380,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/h_rQsW6VP9x16-BQKwD9CA',
       date: '2022-09-01',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '苹果',
+      website: 'https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP+apple-store-STDNT-ASTR&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/D80tvKArO9CecDVsccISCQ',
+      date: '2022-09-05',
+    },
   }
 ]
