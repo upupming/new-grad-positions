@@ -1346,6 +1346,32 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '龙湖集团',
+      website: 'https://app.mokahr.com/campus-recruitment/longfor/74084#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/2hbzUsyYZC57WAm-GiVm_Q',
+      date: '2022-08-09',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '中国人寿',
+      website: 'https://chinalife.hotjob.cn/',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/iqj6TjEKQDiVikFl77JQXw',
+      date: '2022-08-24',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: 'eBay',
       website: 'https://jobs.ebayinc.com/search-jobs/2023%20RCG/403/1',
       type: CompanyType.外企,
