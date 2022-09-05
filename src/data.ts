@@ -1385,6 +1385,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: 'Unity',
+      website: 'https://unity.cn/campus',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/QT7Ja_aqMm1yhyx2RNnHHg',
+      date: '2022-08-31',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '苹果',
       website: 'https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP+apple-store-STDNT-ASTR&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089',
       type: CompanyType.外企,
