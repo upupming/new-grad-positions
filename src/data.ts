@@ -1372,6 +1372,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '中国农业银行研发中心',
+      website: 'https://career.abchina.com/build/index.html#/99',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/W1bEP5a-DZjktQeF3UpInA',
+      date: '2022-09-04',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: 'eBay',
       website: 'https://jobs.ebayinc.com/search-jobs/2023%20RCG/403/1',
       type: CompanyType.外企,
