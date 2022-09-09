@@ -1411,6 +1411,32 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '蚂蚁集团',
+      website: 'https://talent.antgroup.com/home?chInfo=ch_official',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/x8Ttp0GYWdGNm6UARGjDrw',
+      date: '2022-09-09',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '中国银行',
+      website: 'https://campus.chinahr.com/pages/2023-boc/#/',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/K3-zb_MIBE7awqSyWWw1pA',
+      date: '2022-09-08',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '苹果',
       website: 'https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP+apple-store-STDNT-ASTR&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089',
       type: CompanyType.外企,
