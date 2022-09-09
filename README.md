@@ -49,6 +49,7 @@
 |[旷视](https:\/\/app.mokahr.com\/campus\_apply\/megviihr\/38642\#\/)|全职（秋季）|[旷视科技2023校园招聘提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/46P9j8JbUXoMqwmPwjWejA)|2022-07-11|私企|
 |[联想中国](https:\/\/talent.lenovo.com.cn\/)|全职（秋季）|[联想中国2023校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/0Wdou6EiUfrD0e0KPEULVg)|2022-07-15|私企|
 |[龙湖集团](https:\/\/app.mokahr.com\/campus-recruitment\/longfor\/74084\#\/)|全职（秋季）|[龙湖集团2023届仕官生校园招聘火热开启！](https:\/\/mp.weixin.qq.com\/s\/2hbzUsyYZC57WAm-GiVm\_Q)|2022-08-09|私企|
+|[蚂蚁集团](https:\/\/talent.antgroup.com\/home?chInfo=ch\_official)|全职（秋季）|[校招\| 蚂蚁集团2023届秋招正式启动](https:\/\/mp.weixin.qq.com\/s\/x8Ttp0GYWdGNm6UARGjDrw)|2022-09-09|私企|
 |[美的](http:\/\/www.wjx.top\/vm\/PqrvaMT.aspx)|全职（秋季）|[美的集团2023校招提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/LHB-Ig926nhAkTggoceEGA)|2022-07-04|私企|
 |[美团](https:\/\/campus.meituan.com\/)|全职（秋季）|[招5000人！美团2023届校园招聘全面启动](https:\/\/mp.weixin.qq.com\/s\/d-t1zIJFmOvCuwcN374j7g)|2022-08-01|私企|
 |[米哈游](https:\/\/campus.mihoyo.com\/\#\/campus\/position)|全职（秋季）|[米哈游2023秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/IwhVPuHB\_Va2AqZTHaCaMw)|2022-07-04|私企|
@@ -89,6 +90,7 @@
 |[中国电信天翼云](https:\/\/ctyun.hotjob.cn)|全职（秋季）|[中国电信天翼云2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/-vTinwze72nK42XtnmAmKQ)|2022-08-09|国企|
 |[中国农业银行研发中心](https:\/\/career.abchina.com\/build\/index.html\#\/99)|全职（秋季）|[【招聘季】青年有志 研发未来](https:\/\/mp.weixin.qq.com\/s\/W1bEP5a-DZjktQeF3UpInA)|2022-09-04|国企|
 |[中国人寿](https:\/\/chinalife.hotjob.cn\/)|全职（秋季）|[中国人寿2023年度校园招聘金融科技类提前批启动](https:\/\/mp.weixin.qq.com\/s\/iqj6TjEKQDiVikFl77JQXw)|2022-08-24|国企|
+|[中国银行](https:\/\/campus.chinahr.com\/pages\/2023-boc\/\#\/)|全职（秋季）|[中国银行2023年全球校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/K3-zb\_MIBE7awqSyWWw1pA)|2022-09-08|国企|
 |[中国中铁广州局](http:\/\/www.crecg.com\/web\/10089120\/index.html)|全职（秋季）|[央企校招 \| 世界500强！中铁广州局2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/F5VAJYplPZY2\_hCREAbJUw)|2022-08-31|国企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
@@ -151,4 +153,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-09-06 12:54:31 (UTC+8)
+上次更新于: 2022-09-09 17:02:26 (UTC+8)
