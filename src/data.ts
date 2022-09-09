@@ -1445,5 +1445,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/D80tvKArO9CecDVsccISCQ',
       date: '2022-09-05',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '收钱吧',
+      website: 'https://jobs.shouqianba.com/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/uARBS79kTH2zi-dbS62jKA',
+      date: '2022-09-09',
+    },
   }
 ]
