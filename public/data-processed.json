@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1662714146538,
+  "updatedAt": 1662732862095,
   "positions": [
     {
       "graduationYear": 2023,
@@ -895,6 +895,20 @@
         "url": "https://mp.weixin.qq.com/s/7Tcqfs31VWna1-Bx7FREaQ",
         "date": "2022-07-18",
         "title": "Shopee研发中心2023校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "收钱吧",
+        "website": "https://jobs.shouqianba.com/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/uARBS79kTH2zi-dbS62jKA",
+        "date": "2022-09-09",
+        "title": "收钱吧2023届校园招聘全面启动"
       }
     },
     {

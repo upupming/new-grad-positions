@@ -62,6 +62,7 @@
 |[荣耀](https:\/\/career.hihonor.com\/SU60eea919bef57c1023f6fe78\/pb\/school.html)|全职（秋季）|[校招 \| 荣耀2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/G\_Z\_vVqvSux3xN264mEu-A)|2022-07-26|私企|
 |[深信服科技](https:\/\/hr.sangfor.com\/)|全职（秋季）|[深信服2023届校园招聘提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/cma6-0jtb2uXFRV00aAf4g)|2022-07-25|私企|
 |[Shopee](https:\/\/app.mokahr.com\/campus\_apply\/shopee\/2962\#\/)|全职（秋季）|[Shopee研发中心2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/7Tcqfs31VWna1-Bx7FREaQ)|2022-07-18|外企|
+|[收钱吧](https:\/\/jobs.shouqianba.com\/)|全职（秋季）|[收钱吧2023届校园招聘全面启动](https:\/\/mp.weixin.qq.com\/s\/uARBS79kTH2zi-dbS62jKA)|2022-09-09|私企|
 |[搜狐](https:\/\/hr.sohu.com\/social-recruitment\/sohu\/43256\#\/)|全职（秋季）|[搜狐集团2023秋季校园招聘正式启动啦！](https:\/\/mp.weixin.qq.com\/s\/DSuXGHY5FA2X5eqtBU3QrQ)|2022-08-03|私企|
 |[特斯拉](https:\/\/app.mokahr.com\/campus\_apply\/tesla\/41460?sourceToken=927ae25b0bf38126a21b1c83955c7ba0\#\/)|全职（秋季）|[无畏，才有为！特斯拉2023秋季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/YeY1MVQc9bwIP7QhdDgaow)|2022-07-27|外企|
 |[腾讯](https:\/\/join.qq.com\/post.html?query=p\_8)|全职（秋季）|[腾讯2023校园招聘技术大咖招募启动](https:\/\/mp.weixin.qq.com\/s\/aeE9dWVV8fWcwcN6Pt35rQ)|2022-06-15|私企|
@@ -153,4 +154,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-09-09 17:02:26 (UTC+8)
+上次更新于: 2022-09-09 22:14:22 (UTC+8)
