@@ -92,6 +92,7 @@
 |[中国农业银行研发中心](https:\/\/career.abchina.com\/build\/index.html\#\/99)|全职（秋季）|[【招聘季】青年有志 研发未来](https:\/\/mp.weixin.qq.com\/s\/W1bEP5a-DZjktQeF3UpInA)|2022-09-04|国企|
 |[中国人寿](https:\/\/chinalife.hotjob.cn\/)|全职（秋季）|[中国人寿2023年度校园招聘金融科技类提前批启动](https:\/\/mp.weixin.qq.com\/s\/iqj6TjEKQDiVikFl77JQXw)|2022-08-24|国企|
 |[中国银行](https:\/\/campus.chinahr.com\/pages\/2023-boc\/\#\/)|全职（秋季）|[中国银行2023年全球校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/K3-zb\_MIBE7awqSyWWw1pA)|2022-09-08|国企|
+|[中国邮政储蓄银行](http:\/\/psbc2023.zhaopin.com\/)|全职（秋季）|[邮你炫 耀出彩 \| 中国邮政储蓄银行2023年度校园招聘火热来袭！](https:\/\/mp.weixin.qq.com\/s\/vyF06oErkFiMG6r0WuJoBQ)|2022-08-29|国企|
 |[中国中铁广州局](http:\/\/www.crecg.com\/web\/10089120\/index.html)|全职（秋季）|[央企校招 \| 世界500强！中铁广州局2023届校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/F5VAJYplPZY2\_hCREAbJUw)|2022-08-31|国企|
 |[中兴通讯](https:\/\/job.zte.com.cn\/cn\/campus-recruitment)|全职（秋季）|[中兴通讯2023届“未来领军”人才招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/21pMdR06Xop2aU98YfZtnQ)|2022-06-24|私企|
 |[字节跳动](https:\/\/jobs.bytedance.com\/)|全职（秋季）|[字节跳动 2023 校园招聘研发提前批正式启动！](https:\/\/mp.weixin.qq.com\/s\/UIImrY1kmb9eQ2z-xYHRwA)|2022-07-07|私企|
@@ -154,4 +155,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-09-09 22:14:22 (UTC+8)
+上次更新于: 2022-09-12 12:03:58 (UTC+8)
