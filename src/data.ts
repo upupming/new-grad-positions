@@ -1437,6 +1437,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '中国邮政储蓄银行',
+      website: 'http://psbc2023.zhaopin.com/',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/vyF06oErkFiMG6r0WuJoBQ',
+      date: '2022-08-29',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '苹果',
       website: 'https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP+apple-store-STDNT-ASTR&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089',
       type: CompanyType.外企,
