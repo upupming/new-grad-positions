@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1662732862095,
+  "updatedAt": 1662955438305,
   "positions": [
     {
       "graduationYear": 2023,
@@ -1427,6 +1427,20 @@
         "url": "https://mp.weixin.qq.com/s/K3-zb_MIBE7awqSyWWw1pA",
         "date": "2022-09-08",
         "title": "中国银行2023年全球校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "中国邮政储蓄银行",
+        "website": "http://psbc2023.zhaopin.com/",
+        "type": "国企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/vyF06oErkFiMG6r0WuJoBQ",
+        "date": "2022-08-29",
+        "title": "邮你炫 耀出彩 | 中国邮政储蓄银行2023年度校园招聘火热来袭！"
       }
     },
     {
