@@ -31,6 +31,7 @@
 |[海康威视](https:\/\/campushr.hikvision.com\/school.html)|全职（秋季）|[海康威视2023届「启明星」技术达人校园招聘启动](https:\/\/mp.weixin.qq.com\/s\/FnzIRYdOxsQKgWq1eKAZFw)|2022-07-27|私企|
 |[海康威视](https:\/\/campushr.hikvision.com\/home)|全职（秋季）|[海康威视2023届全球校园招聘全面启动！](https:\/\/mp.weixin.qq.com\/s\/fkLtyFYWbwz1NeKk7mRLbA)|2022-08-02|国企|
 |[寒武纪](https:\/\/app.mokahr.com\/campus\_apply\/cambricon\/1112\#\/)|全职（秋季）|[寒武纪2023届夏季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/JToWHkUG7BjHebh7i\_xaqA)|2022-07-29|私企|
+|[Hotstar](https:\/\/jobs.lever.co\/hotstar?location=Beijing)|全职（秋季）|[Disney+ Hotstar 2023 年校园招聘](https:\/\/mp.weixin.qq.com\/s\/ZLAGxQESK0\_0\_LuXEyr1dw)|2022-09-09|外企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为杭厦区域23届校招"提前批"正式启动！我们只为寻找一起改变世界的你！](https:\/\/mp.weixin.qq.com\/s\/8r-sELJKyaq-PnVOPUP8GQ)|2022-06-20|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[华为2012实验室2022年顶尖人才招聘公告](https:\/\/mp.weixin.qq.com\/s\/DsiVv7iNy\_02-IBV1Cn4Ew)|2022-06-17|私企|
 |[华为](https:\/\/career.huawei.com\/reccampportal\/portal5\/campus-recruitment.html)|全职（秋季）|[顶尖人才招聘\|华为中央软件院](https:\/\/mp.weixin.qq.com\/s\/PPMHKBu-NSshfT4AGFvFrA)|2022-06-21|私企|
@@ -81,6 +82,7 @@
 |[小红书](https:\/\/job.xiaohongshu.com\/m\/campus)|全职（秋季）|[小红书2023届校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/6IM9XkgfLCEU9BAPGbjz4g)|2022-08-22|私企|
 |[小马智行](https:\/\/app.mokahr.com\/campus-recruitment\/pony\/42966\/)|全职（秋季）|[小马智行Pony.ai 2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/\_vGUVFolSYJCDKihJevu7A)|2022-08-05|私企|
 |[小米](https:\/\/hr.xiaomi.com\/campus)|全职（秋季）|[小米集团2023全球校园招聘全面启动](https:\/\/mp.weixin.qq.com\/s\/HRdoNhsIs6HcFPDgd\_dwBQ)|2022-08-18|私企|
+|[新浪](https:\/\/career.sina.com.cn\/campus-recruitment\/sina\/43536\#\/)|全职（秋季）|[2023届新浪&微博 校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/SfzXi7dUZk7Xnfz-zEYY\_A)|2022-08-22|私企|
 |[亚马逊](https:\/\/www.amazon.jobs\/zh\/)|全职（秋季）|[亚马逊中国2023校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/kyHn\_tUs-iXOlfWD\_JnUeg)|2022-08-08|外企|
 |[依图科技](https:\/\/app.mokahr.com\/campus\_apply\/yitu-inc\/3700\#\/)|全职（秋季）|[依图科技【2023届秋季校招】正式启动！](https:\/\/mp.weixin.qq.com\/s\/-XqpFp6Qu\_a8E3Iuck1Wng)|2022-08-05|私企|
 |[鹰角](https:\/\/jobs.hypergryph.com\/campus\_apply\/hypergryph\/26326\#\/)|全职（秋季）|[鹰角网络2023秋季校园招聘正式批招募开启！](https:\/\/mp.weixin.qq.com\/s\/aTusLZxjI-mOleiMj1o5xg)|2022-08-02|私企|
@@ -155,4 +157,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-09-12 12:03:58 (UTC+8)
+上次更新于: 2022-09-15 00:19:13 (UTC+8)

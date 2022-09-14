@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1662955438305,
+  "updatedAt": 1663172353866,
   "positions": [
     {
       "graduationYear": 2023,
@@ -307,6 +307,20 @@
         "url": "https://mp.weixin.qq.com/s/JToWHkUG7BjHebh7i_xaqA",
         "date": "2022-07-29",
         "title": "寒武纪2023届夏季校园招聘正式启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "Hotstar",
+        "website": "https://jobs.lever.co/hotstar?location=Beijing",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/ZLAGxQESK0_0_LuXEyr1dw",
+        "date": "2022-09-09",
+        "title": "Disney+ Hotstar 2023 年校园招聘"
       }
     },
     {
@@ -1259,6 +1273,20 @@
         "url": "https://mp.weixin.qq.com/s/HRdoNhsIs6HcFPDgd_dwBQ",
         "date": "2022-08-18",
         "title": "小米集团2023全球校园招聘全面启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "新浪",
+        "website": "https://career.sina.com.cn/campus-recruitment/sina/43536#/",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/SfzXi7dUZk7Xnfz-zEYY_A",
+        "date": "2022-08-22",
+        "title": "2023届新浪&微博 校园招聘正式启动"
       }
     },
     {
