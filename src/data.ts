@@ -1471,5 +1471,31 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/uARBS79kTH2zi-dbS62jKA',
       date: '2022-09-09',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: 'Hotstar',
+      website: 'https://jobs.lever.co/hotstar?location=Beijing',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/ZLAGxQESK0_0_LuXEyr1dw',
+      date: '2022-09-09',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '新浪',
+      website: 'https://career.sina.com.cn/campus-recruitment/sina/43536#/',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/SfzXi7dUZk7Xnfz-zEYY_A',
+      date: '2022-08-22',
+    },
   }
 ]
