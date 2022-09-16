@@ -410,13 +410,26 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-      name: '腾讯',
+      name: '腾讯-技术大咖专项',
       website: 'https://join.qq.com/post.html?query=p_8',
       type: CompanyType.私企,
     },
     announcement: {
       url: 'https://mp.weixin.qq.com/s/aeE9dWVV8fWcwcN6Pt35rQ',
       date: '2022-06-15',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '腾讯',
+      website: 'https://join.qq.com/post.html?query=p_1',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/2prApBfwKBBE4BxIcOg4qw',
+      date: '2022-09-15',
     },
   },
   {
