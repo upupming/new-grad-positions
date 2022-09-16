@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1663172353866,
+  "updatedAt": 1663301940244,
   "positions": [
     {
       "graduationYear": 2023,
@@ -972,6 +972,20 @@
       "type": "全职（秋季）",
       "company": {
         "name": "腾讯",
+        "website": "https://join.qq.com/post.html?query=p_1",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/2prApBfwKBBE4BxIcOg4qw",
+        "date": "2022-09-15",
+        "title": "腾讯2023校园招聘全球启动"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "腾讯-技术大咖专项",
         "website": "https://join.qq.com/post.html?query=p_8",
         "type": "私企"
       },
