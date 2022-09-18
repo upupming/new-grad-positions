@@ -371,8 +371,8 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
-      name: '飞腾信息技术有限公司',
-      website: 'https://www.phytium.com.cn/',
+      name: '飞腾',
+      website: 'https://www.wjx.top/vm/rXSPxnV.aspx#',
       type: CompanyType.国企,
     },
     announcement: {
