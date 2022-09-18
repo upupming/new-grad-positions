@@ -25,6 +25,7 @@
 |[大疆](https:\/\/we.dji.com\/zh-CN\/campus\/recruitment)|全职（秋季）|[大疆 2023 “拓疆者”秋季校园招聘](https:\/\/mp.weixin.qq.com\/s\/j4bgh7DnQJ5V1-\_QV3SRgA)|2022-07-06|私企|
 |[地平线](https:\/\/horizon.hotjob.cn\/)|全职（秋季）|[上场，与世界交手 \| 地平线2023届秋季校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/jPDFWeTp6iajfoSmivBqIA)|2022-07-28|私企|
 |[eBay](https:\/\/jobs.ebayinc.com\/search-jobs\/2023%20RCG\/403\/1)|全职（秋季）|[2023eBay校园招聘正式启动！ 加入我们创造你的亿倍可能！](https:\/\/mp.weixin.qq.com\/s\/h\_rQsW6VP9x16-BQKwD9CA)|2022-09-01|外企|
+|[飞腾](https:\/\/www.wjx.top\/vm\/rXSPxnV.aspx\#)|全职（秋季）|[飞腾2023届秋季校园招聘正式启动！](https:\/\/mp.weixin.qq.com\/s\/Uc-y7ssMcdSs\_G-g5MJVfg)|2022-09-18|国企|
 |[高通](https:\/\/nowpick.nowcoder.com\/w\/company-project?dockSourceProjectId=106936)|全职（秋季）|[高通2023届校园招聘正式启动！邀你一起创想未来](https:\/\/mp.weixin.qq.com\/s\/9nLxqfUHnrkKDkf6hoT3mw)|2022-08-31|外企|
 |[广汽丰田](https:\/\/gac-toyota.m.zhiye.com\/JobAd\/Info?adid=620661636)|全职（秋季）|[广汽丰田2023校园招聘正式启动](https:\/\/mp.weixin.qq.com\/s\/PvxbmUfcCAcpwt9uwZdkfA)|2022-08-01|私企|
 |[海尔](http:\/\/vta.maker.haier.net\/client\/campusmobile\/activity\/id\/18.html)|全职（秋季）|[海尔校招提前批，提前出发啦！](https:\/\/mp.weixin.qq.com\/s?\_\_biz=MzA3MzIzODc5MQ==&mid=2454382623&idx=1&sn=475b256e8ad7a938a55dff45cc69c48b&chksm=88ac5877bfdbd1618f6e52aee10a3b8dc34974e0292606cd9f11a4d6350c9a620cc6bd6dae5d&mpshare=1&scene=23&srcid=0717Ox3q4ushytTiIBASKTe0&sharer\_sharetime=1658048425410&sharer\_shareid=fcdd77543f29b035f162d5e36e4960d9%23rd)|2022-06-06|私企|
@@ -158,4 +159,4 @@ console.log(processedData.updatedAt)
 
 ---
 
-上次更新于: 2022-09-16 12:19:00 (UTC+8)
+上次更新于: 2022-09-18 22:14:49 (UTC+8)
