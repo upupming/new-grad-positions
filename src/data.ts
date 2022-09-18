@@ -371,6 +371,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: '飞腾',
+      website: 'https://www.wjx.top/vm/rXSPxnV.aspx#',
+      type: CompanyType.国企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/Uc-y7ssMcdSs_G-g5MJVfg',
+      date: '2022-09-18',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: 'Zoom',
       website: 'https://www.zoom.us',
       type: CompanyType.私企,
