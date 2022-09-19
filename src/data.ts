@@ -372,12 +372,12 @@ export const positions: Position[] = [
     type: PositionType['全职（秋季）'],
     company: {
       name: '飞腾',
-      website: 'https://www.wjx.top/vm/rXSPxnV.aspx#',
+      website: 'https://www.phytium.com.cn/',
       type: CompanyType.国企,
     },
     announcement: {
       url: 'https://mp.weixin.qq.com/s/Uc-y7ssMcdSs_G-g5MJVfg',
-      date: '2022-09-18',
+      date: '2022-09-02',
     },
   },
   {
