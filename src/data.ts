@@ -377,7 +377,7 @@ export const positions: Position[] = [
     },
     announcement: {
       url: 'https://mp.weixin.qq.com/s/Uc-y7ssMcdSs_G-g5MJVfg',
-      date: '2022-09-18',
+      date: '2022-09-02',
     },
   },
   {
