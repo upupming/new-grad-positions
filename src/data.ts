@@ -1515,6 +1515,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: 'FunPlus',
+      website: 'https://app.mokahr.com/su/qumjtz',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/FGYHAHXBhddNc16PV6Kl-w',
+      date: '2022-09-05',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '新浪',
       website: 'https://career.sina.com.cn/campus-recruitment/sina/43536#/',
       type: CompanyType.私企,
