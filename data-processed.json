@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1663558678643,
+  "updatedAt": 1663564768012,
   "positions": [
     {
       "graduationYear": 2023,
@@ -223,6 +223,20 @@
         "url": "https://mp.weixin.qq.com/s/Uc-y7ssMcdSs_G-g5MJVfg",
         "date": "2022-09-02",
         "title": "飞腾2023届秋季校园招聘正式启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "FunPlus",
+        "website": "https://app.mokahr.com/su/qumjtz",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/FGYHAHXBhddNc16PV6Kl-w",
+        "date": "2022-09-05",
+        "title": "FUNPLUS 2023届秋季校园招聘正式开启！"
       }
     },
     {
