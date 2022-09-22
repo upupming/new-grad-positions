@@ -1528,6 +1528,19 @@ export const positions: Position[] = [
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
+      name: 'IBM',
+      website: 'http://ibm2023.kongxuan.com/',
+      type: CompanyType.外企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/mZytr26ptFhE9bFanK_pvQ',
+      date: '2022-09-20',
+    },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
       name: '新浪',
       website: 'https://career.sina.com.cn/campus-recruitment/sina/43536#/',
       type: CompanyType.私企,
