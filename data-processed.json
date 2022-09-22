@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1663564768012,
+  "updatedAt": 1663827202628,
   "positions": [
     {
       "graduationYear": 2023,
@@ -489,6 +489,20 @@
         "url": "https://mp.weixin.qq.com/s/wHOlSyjl63B7mybQn0DUyQ",
         "date": "2022-08-26",
         "title": "2023 Hulu/Disney Streaming与广告北京研发中心秋季校园招聘开始啦！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "IBM",
+        "website": "http://ibm2023.kongxuan.com/",
+        "type": "外企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/mZytr26ptFhE9bFanK_pvQ",
+        "date": "2022-09-20",
+        "title": "IBM 2023校园招聘现已开启！创你所想，焕新未来"
       }
     },
     {
