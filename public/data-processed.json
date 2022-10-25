@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1663827202628,
+  "updatedAt": 1666700058876,
   "positions": [
     {
       "graduationYear": 2023,
@@ -545,6 +545,20 @@
         "url": "https://mp.weixin.qq.com/s/G-lmDqlsW1yblApEyHlcsw",
         "date": "2022-08-08",
         "title": "交通银行2023校园招聘火热启动！"
+      }
+    },
+    {
+      "graduationYear": 2023,
+      "type": "全职（秋季）",
+      "company": {
+        "name": "金山云",
+        "website": "https://campus.ksyun.com/campus_apply/kingsoft/39364/#",
+        "type": "私企"
+      },
+      "announcement": {
+        "url": "https://mp.weixin.qq.com/s/rmVrdMIYFPho30v-npF-WA",
+        "date": "2022-10-19",
+        "title": "金山云2023届校园招聘正式开启！前行必有曙光"
       }
     },
     {
