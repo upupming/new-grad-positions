@@ -1549,5 +1549,17 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/SfzXi7dUZk7Xnfz-zEYY_A',
       date: '2022-08-22',
     },
+    {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '金山云',
+      website: 'https://campus.ksyun.com/campus_apply/kingsoft/39364/#',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/rmVrdMIYFPho30v-npF-WA',
+      date: '2022-10-19',
+    },
   }
 ]
