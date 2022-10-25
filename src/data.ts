@@ -1549,7 +1549,8 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/SfzXi7dUZk7Xnfz-zEYY_A',
       date: '2022-08-22',
     },
-    {
+  },
+  {
     graduationYear: 2023,
     type: PositionType['全职（秋季）'],
     company: {
