@@ -1562,5 +1562,18 @@ export const positions: Position[] = [
       url: 'https://mp.weixin.qq.com/s/rmVrdMIYFPho30v-npF-WA',
       date: '2022-10-19',
     },
+  },
+  {
+    graduationYear: 2023,
+    type: PositionType['全职（秋季）'],
+    company: {
+      name: '比亚迪(BYD)',
+      website: 'http://job.byd.com/zpweb/zpweb/bulletinEdit.do?planId=OGE4OTcxYmU4MjIzZmZlMjAxODIyNTgyM2FiMTA5NGI-&actPara=findSchoolBulletin',
+      type: CompanyType.私企,
+    },
+    announcement: {
+      url: 'https://mp.weixin.qq.com/s/NqZ0y43jb1K_3AiMW9AFig',
+      date: '2022-11-01',
+    },
   }
 ]
